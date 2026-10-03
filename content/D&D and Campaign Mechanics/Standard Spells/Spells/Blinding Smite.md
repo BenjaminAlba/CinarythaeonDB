@@ -1,0 +1,15 @@
+### Blinding Smite
+
+*3rd-level Evocation*
+
+**Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an [[Combat#Unarmed Strike|Unarmed Strike]]
+
+**Range:** Self
+
+**Components:** V
+
+**Duration:** Concentration, up to 1 minute
+
+The target hit by the strike takes an extra 3d8 Radiant damage from the attack, and the target has the [[Conditions#Blinded|Blinded]] condition until the spell ends. At the end of each of its turns, the [[Conditions#Blinded|Blinded]] target makes a Constitution saving throw, ending the spell on itself on a success
+
+**Using a Higher-Level Spell Slot**. The damage in creases by 1d8 for each spell slot level above 3.
