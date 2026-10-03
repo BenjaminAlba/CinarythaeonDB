@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: benjaminalba.github.io/CinarythaeonDB/
+  baseUrl: benjaminalba.github.io/CinarythaeonDB
   ignorePatterns:
     - private
     - templates
