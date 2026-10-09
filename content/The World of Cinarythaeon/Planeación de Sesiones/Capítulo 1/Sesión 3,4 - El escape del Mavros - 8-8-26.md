@@ -5,7 +5,6 @@ Está encerrado en el sótano del [[Mavrasterion|Mavros]], en la zona conocida c
 
 Lleva una semana encerrado en la sala de confinamiento. Lo intentaron interrogar y extraerle información, pero la [[Mnelyxphora]] de Serastel es mucho más poderosa y le permite proteger sus recuerdos.
 
-
 #### Serastel y Bart
 
 #### Serastel y Solon
