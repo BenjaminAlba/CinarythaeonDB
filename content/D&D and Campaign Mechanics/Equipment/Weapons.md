@@ -85,6 +85,77 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 
 If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.
 
+## Firearms
+
+Firearms follow slightly different rules to conventional ranged weapons, and also generally use two or more damage dice.
+
+### Firearm Damage Rolls
+
+Unlike other weapons, you don't add your ability modifier to the damage roll of a firearm unless otherwise stated.
+
+### Two-Weapon Fighting with Firearms
+
+When you engage in two-weapon fighting with two light firearms, you subtract 2 from the damage roll of the bonus attack to a minimum of 1 damage.
+
+### Firearm Ammunition
+
+All firearms require special ammunition. Most firearms use bullets, but some require even more specialized projectiles. The ammunition of a firearm is destroyed upon use.
+
+| Ammunition            | Cost  |
+| --------------------- | ----- |
+| Blunderbuss shot (10) | 1 gp  |
+| Bullet (10)           | 2 gp  |
+| Cannonball            | 5 gp  |
+| Dragon Bullet         | 1 gp  |
+| Grenade               | 5 gp  |
+| Harpoon               | 5 gp  |
+| Musket ball (10)      | 1 gp  |
+| Rocket                | 20 gp |
+| Shell (10)            | 5 gp  |
+### Firearm Properties
+
+#### Ammunition
+
+You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. The ammunition of a firearm is destroyed upon use. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+
+If you use a weapon that has the Ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
+
+#### Automatic
+
+When you make an attack with this weapon on your turn, you can choose to make two attacks instead. These attacks are always made with disadvantage, regardless of circumstance. These attacks use twice the normal amount of ammunition.
+
+#### Explosive
+
+When this weapon’s projectile hits a target, it explodes in a 5-foot radius. The projectile can be fired at an unoccupied space within its range. Each creature other than the target within the blast radius must succeed on a DC 14 Dexterity saving throw, taking half the damage rolled on a failed save or no damage on a successful one.
+
+#### Loading
+
+Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+
+#### Missfire
+
+When you roll a 1 on the d20 for an attack roll with this weapon, it jams. A jammed weapon can't be used to make an attack until a creature uses its action to clear the weapon malfunction.
+
+#### Reload
+
+This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes a bonus action; otherwise, reloading it takes an action. Some weapons require an action or longer to reload, even if you have proficiency, as specified in the Reload property. If reloading a weapon requires longer than one action, the weapon can't be used to make attacks until reloading is finished.
+
+#### Scatter
+
+If you make an attack against a target that is within half this weapon's normal range, you deal the damage value listed in parentheses instead of the weapon's normal damage dice.
+
+#### Sighted
+
+This weapon has disadvantage on attack rolls made against targets within 20 feet.
+
+#### Twinshot
+
+Once on each of your turns, when you make an attack with this weapon, you can make another attack with it against a different creature that is within 5 feet of the original target and within range of the weapon.
+
+#### Bayonet
+
+As an action, a bayonet can be mounted on or removed from any two-handed ranged weapon. While mounted, you can use the bayonet to make a two-handed melee weapon attack that deals 1d8 piercing damage on a hit.
+
 ## Improvised Weapons
 
 Sometimes characters don't have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
@@ -111,47 +182,60 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 This table contains the additional mechanics to be used in this campaign.
 
-| Name                       | Cost  | Damage          | Weight  | Properties                                             | Stat    | Durability | Mastery |
-| -------------------------- | ----- | --------------- | ------- | ------------------------------------------------------ | ------- | ---------- | ------- |
-| **Simple Melee Weapons**   |       |                 |         |                                                        |         |            |         |
-| Club                       | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  | /       | 40         | Slow    |
-| Dagger                     | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   | CRT(1)  | 45         | Nick    |
-| Greatclub                  | 2 sp  | 1d8 bludgeoning | 10 lb.  | Two-handed                                             | CDMG(1) | 45         | Push    |
-| Handaxe                    | 5 gp  | 1d6 slashing    | 2 lb.   | Light, thrown (range 20/60)                            | CRT(1)  | 40         | Vex     |
-| Javelin                    | 5 sp  | 1d6 piercing    | 2 lb.   | Thrown (range 30/120)                                  | /       | 40         | Slow    |
-| Light hammer               | 2 gp  | 1d4 bludgeoning | 2 lb.   | Light, thrown (range 20/60)                            | CDEF(1) | 50         | Nick    |
-| Mace                       | 5 gp  | 1d6 bludgeoning | 4 lb.   | -                                                      | CDMG(1) | 50         | Sap     |
-| Quarterstaff               | 2 sp  | 1d6 bludgeoning | 4 lb.   | Versatile (1d8)                                        | CDEF(1) | 40         | Topple  |
-| Sickle                     | 1 gp  | 1d4 slashing    | 2 lb.   | Light                                                  | /       | 45         | Nick    |
-| Spear                      | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8)                  | CRT(1)  | 45         | Sap     |
-| **Simple Ranged Weapons**  |       |                 |         |                                                        |         |            |         |
-| Crossbow, light            | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed         | CDMG(1) | /          | Slow    |
-| Dart                       | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                          | CRT(1)  | 30         | Vex     |
-| Shortbow                   | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed                  | CRT(1)  | /          | Vex     |
-| Sling                      | 1 sp  | 1d4 bludgeoning | -       | Ammunition (range 30/120)                              | /       | /          | Slow    |
-| **Martial Melee Weapons**  |       |                 |         |                                                        |         |            |         |
-| Battleaxe                  | 10 gp | 1d8 slashing    | 4 lb.   | Versatile (1d10)                                       | CDMG(1) | 45         | Topple  |
-| Flail                      | 10 gp | 1d8 bludgeoning | 2 lb.   | -                                                      | CDEF(1) | 50         | Sap     |
-| Glaive                     | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               | CDEF(1) | 50         | Graze   |
-| Greataxe                   | 30 gp | 1d12 slashing   | 7 lb.   | Heavy, two-handed                                      | CDMG(1) | 40         | Cleave  |
-| Greatsword                 | 50 gp | 2d6 slashing    | 6 lb.   | Heavy, two-handed                                      | /       | 45         | Graze   |
-| Halberd                    | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               | CDMG(1) | 50         | Cleave  |
-| Lance                      | 10 gp | 1d12 piercing   | 6 lb.   | Heavy, Reach, Special                                  | CRT(1)  | 50         | Topple  |
-| Longsword                  | 15 gp | 1d8 slashing    | 3 lb.   | Versatile (1d10)                                       | /       | 50         | Sap     |
-| Maul                       | 10 gp | 2d6 bludgeoning | 10 lb.  | Heavy, two-handed                                      | /       | 40         | Topple  |
-| Morningstar                | 15 gp | 1d8 piercing    | 4 lb.   | -                                                      | CDEF(1) | 45         | Sap     |
-| Pike                       | 5 gp  | 1d10 piercing   | 18 lb.  | Heavy, reach, two-handed                               | /       | 50         | Push    |
-| Rapier                     | 25 gp | 1d8 piercing    | 2 lb.   | Finesse                                                | CRT(1)  | 45         | Vex     |
-| Scimitar                   | 25 gp | 1d6 slashing    | 3 lb.   | Finesse, light                                         | CDEF(1) | 50         | Nick    |
-| Shortsword                 | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, light                                         | CRT(1)  | 55         | Vex     |
-| Trident                    | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)                  | /       | 40         | Topple  |
-| War pick                   | 5 gp  | 1d8 piercing    | 2 lb.   | -                                                      | CDMG(1) | 50         | Sap     |
-| Warhammer                  | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                                       | CDEF(1) | 50         | Push    |
-| Whip                       | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                                         | CRT(1)  | 40         | Slow    |
-| **Martial Ranged Weapons** |       |                 |         |                                                        |         |            |         |
-| Blowgun                    | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                     | /       | /          | Vex     |
-| Crossbow, hand             | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading              | CRT(1)  | /          | Vex     |
-| Crossbow, heavy            | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed | CDMG(1) | /          | Push    |
-| Longbow                    | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          | CRT(1)  | /          | Slow    |
-| Net                        | 1 gp  | -               | 3 lb.   | Special, thrown (range 5/15)                           | /       | /          | Slow    |
-|                            |       |                 |         |                                                        |         |            |         |
+| Name                       | Cost   | Damage          | Weight  | Properties                                                                          | Stat    | Durability | Mastery |
+| -------------------------- | ------ | --------------- | ------- | ----------------------------------------------------------------------------------- | ------- | ---------- | ------- |
+| **Simple Melee Weapons**   |        |                 |         |                                                                                     |         |            |         |
+| Club                       | 1 sp   | 1d4 bludgeoning | 2 lb.   | Light                                                                               | /       | 40         | Slow    |
+| Dagger                     | 2 gp   | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                                                | CRT(1)  | 45         | Nick    |
+| Greatclub                  | 2 sp   | 1d8 bludgeoning | 10 lb.  | Two-handed                                                                          | CDMG(1) | 45         | Push    |
+| Handaxe                    | 5 gp   | 1d6 slashing    | 2 lb.   | Light, thrown (range 20/60)                                                         | CRT(1)  | 40         | Vex     |
+| Javelin                    | 5 sp   | 1d6 piercing    | 2 lb.   | Thrown (range 30/120)                                                               | /       | 40         | Slow    |
+| Light hammer               | 2 gp   | 1d4 bludgeoning | 2 lb.   | Light, thrown (range 20/60)                                                         | CDEF(1) | 50         | Nick    |
+| Mace                       | 5 gp   | 1d6 bludgeoning | 4 lb.   | -                                                                                   | CDMG(1) | 50         | Sap     |
+| Quarterstaff               | 2 sp   | 1d6 bludgeoning | 4 lb.   | Versatile (1d8)                                                                     | CDEF(1) | 40         | Topple  |
+| Sickle                     | 1 gp   | 1d4 slashing    | 2 lb.   | Light                                                                               | /       | 45         | Nick    |
+| Spear                      | 1 gp   | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8)                                               | CRT(1)  | 45         | Sap     |
+| **Simple Ranged Weapons**  |        |                 |         |                                                                                     |         |            |         |
+| Crossbow, light            | 25 gp  | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed                                      | CDMG(1) | /          | Slow    |
+| Dart                       | 5 cp   | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                                                       | CRT(1)  | 30         | Vex     |
+| Shortbow                   | 25 gp  | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed                                               | CRT(1)  | /          | Vex     |
+| Sling                      | 1 sp   | 1d4 bludgeoning | -       | Ammunition (range 30/120)                                                           | /       | /          | Slow    |
+| **Martial Melee Weapons**  |        |                 |         |                                                                                     |         |            |         |
+| Battleaxe                  | 10 gp  | 1d8 slashing    | 4 lb.   | Versatile (1d10)                                                                    | CDMG(1) | 45         | Topple  |
+| Flail                      | 10 gp  | 1d8 bludgeoning | 2 lb.   | -                                                                                   | CDEF(1) | 50         | Sap     |
+| Glaive                     | 20 gp  | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                                                            | CDEF(1) | 50         | Graze   |
+| Greataxe                   | 30 gp  | 1d12 slashing   | 7 lb.   | Heavy, two-handed                                                                   | CDMG(1) | 40         | Cleave  |
+| Greatsword                 | 50 gp  | 2d6 slashing    | 6 lb.   | Heavy, two-handed                                                                   | /       | 45         | Graze   |
+| Halberd                    | 20 gp  | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                                                            | CDMG(1) | 50         | Cleave  |
+| Lance                      | 10 gp  | 1d12 piercing   | 6 lb.   | Heavy, Reach, Special                                                               | CRT(1)  | 50         | Topple  |
+| Longsword                  | 15 gp  | 1d8 slashing    | 3 lb.   | Versatile (1d10)                                                                    | /       | 50         | Sap     |
+| Maul                       | 10 gp  | 2d6 bludgeoning | 10 lb.  | Heavy, two-handed                                                                   | /       | 40         | Topple  |
+| Morningstar                | 15 gp  | 1d8 piercing    | 4 lb.   | -                                                                                   | CDEF(1) | 45         | Sap     |
+| Pike                       | 5 gp   | 1d10 piercing   | 18 lb.  | Heavy, reach, two-handed                                                            | /       | 50         | Push    |
+| Rapier                     | 25 gp  | 1d8 piercing    | 2 lb.   | Finesse                                                                             | CRT(1)  | 45         | Vex     |
+| Scimitar                   | 25 gp  | 1d6 slashing    | 3 lb.   | Finesse, light                                                                      | CDEF(1) | 50         | Nick    |
+| Shortsword                 | 10 gp  | 1d6 piercing    | 2 lb.   | Finesse, light                                                                      | CRT(1)  | 55         | Vex     |
+| Trident                    | 5 gp   | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)                                               | /       | 40         | Topple  |
+| War pick                   | 5 gp   | 1d8 piercing    | 2 lb.   | -                                                                                   | CDMG(1) | 50         | Sap     |
+| Warhammer                  | 15 gp  | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                                                                    | CDEF(1) | 50         | Push    |
+| Whip                       | 2 gp   | 1d4 slashing    | 3 lb.   | Finesse, reach                                                                      | CRT(1)  | 40         | Slow    |
+| **Martial Ranged Weapons** |        |                 |         |                                                                                     |         |            |         |
+| Blowgun                    | 10 gp  | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                                                  | /       | /          | Vex     |
+| Crossbow, hand             | 75 gp  | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading                                           | CRT(1)  | /          | Vex     |
+| Crossbow, heavy            | 50 gp  | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed                              | CDMG(1) | /          | Push    |
+| Longbow                    | 50 gp  | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed                                       | CRT(1)  | /          | Slow    |
+| Net                        | 1 gp   | -               | 3 lb.   | Special, thrown (range 5/15)                                                        | /       | /          | Slow    |
+| **Firearms**               |        |                 |         |                                                                                     |         |            |         |
+| Flintlock                  | 75 gp  | 2d6 piercing    |         | Ammunition (range 30/120), dry, light, loading, misfire                             |         |            |         |
+| Blunderbuss                | 180 gp | 2d8 piercing    |         | Ammunition (range 30/90), dry, heavy, loading, misfire, scatter (2d10), two-handed  |         |            |         |
+| Musket                     | 175 gp | 2d8 piercing    |         | Ammunition (range 80/320), dry, loading, misfire, two-handed                        |         |            |         |
+| Duck's Foot                | 225 gp | 2d8 piercing    |         | Ammunition (range 30/120), dry, light, loading, misfire, twinshot                   |         |            |         |
+| Volley Gun                 | 300 gp | 2d8 piercing    |         | Ammunition (range 100/400), dry, heavy, misfire, reload (10, 2 actions), two-handed |         |            |         |
+| Double-Barrel Shotgun      | 200 gp | 2d6 piercing    |         | Ammunition (range 10/30), reload (2), scatter (2d8), two-handed                     |         |            |         |
+| Hunting Rifle              | 175 gp | 2d6 piercing    |         | Ammunition (range 80/320), reload (5), two-handed                                   |         |            |         |
+| Parlor Gun                 | 75 gp  | 2d4 piercing    |         | Ammunition (range 30/120), concealable, light, reload (2)                           |         |            |         |
+| Revolver                   | 100 gp | 2d6 piercing    |         | Ammunition (range 60/240), reload (6)                                               |         |            |         |
+| Double Handgun             | 300 gp | 2d8 piercing    |         | Ammunition (range 30/120), reload (6), twinshot                                     |         |            |         |
+| Dragon Rifle               | 225 gp | 2d10 fire       |         | Ammunition (range 100/400), dry, heavy, loading, two-handed                         |         |            |         |
+| 4-Barrel Shotgun           | 250 gp | 2d8 piercing    |         | Ammunition (range 30/90), heavy, reload (4), scatter (2d10), two-handed             |         |            |         |
+

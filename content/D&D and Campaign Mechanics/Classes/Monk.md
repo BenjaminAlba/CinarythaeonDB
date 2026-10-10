@@ -220,7 +220,8 @@ Once per turn when you hit a creature with a Monk weapon or an [[Combat#Unarmed 
 A Monk subclass is a specialization that grants you features at certain levels, as specified in the subclass.
 
 ### Warrior of Mercy
-*Manipulate Forces of Life and Death*
+
+*Manipulate Forces of Life and Death, From PHB2024*
 
 ***This subclass is modified to fit the campaign's setting.***
 
@@ -261,6 +262,7 @@ In addition, when you make an [[Combat#Unarmed Strike|Unarmed Strike]] with [[Mo
 You can use these benefits a total number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
 #### Hand of Ultimate Mercy (Level 17)
+
 *Do not use the original text, instead, apply the Cinarythaeon related effects*
 
 ##### ***Warrior of Mercy Hand of Ultimate Mercy Feature In Cinarythaeon***
@@ -268,8 +270,11 @@ You can use these benefits a total number of times equal to your Wisdom modifier
 Your mastery of life energy opens the door to the ultimate mercy. When a creature you can touch drops to 0 HP, you can use your reaction to instead:
 
 - Leave them at **1 HP** until the start of their next turn.
+
 - Remove all negative conditions on them.
+
 - Restore a number of Hit Points equal to 4d10 plus your Wisdom modifier at the start of their next turn.
+
 - Grant resistance to all damage until the end of their next turn
 
 Once you use this feature, you can't use it again until you finish a Long Rest.
@@ -281,7 +286,8 @@ Your mastery of life energy opens the door to the ultimate mercy. As a Magic act
 Once you use this feature, you can't use it again until you finish a Long Rest.
 
 ### Warrior of Shadow
-*Harness Shadow Power for Stealth and Subterfuge*
+
+*Harness Shadow Power for Stealth and Subterfuge, From PHB2024*
 
 Warriors of Shadow practice stealth and subterfuge, harnessing the power of the Shadowfell. They are at home in darkness, able to draw gloom around themselves to hide, leap from shadow to shadow, and take on a wraithlike form.
 
@@ -308,11 +314,14 @@ You can draw on your Shadowfell connection to empower your teleportation. When y
 As a Magic action while entirely within Dim Light or Darkness, you can expend 3 Focus Points to shroud yourself with shadows for 1 minute, until you have the [[Conditions#Incapacitated|Incapacitated]] condition, or until you end your turn in Bright Light. While shrouded by these shadows, you gain the following benefits.
 
 **Invisibility**. You have the Invisible condition.
+
 **Partially Incorporeal**. You can move through occupied spaces as if they were Difficult Terrain. If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
+
 **Shadow Flurry**. You can use your [[Monk#Flurry of Blows (Level 3)|Flurry of Blows]] without expending any Focus Points.
 
 ### Warrior of the Elements
-*Wield Strikes and Bursts of Elemental Power*
+
+*Wield Strikes and Bursts of Elemental Power, From PHB2024*
 
 Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of the Elemental Chaos to empower themselves in and out of battle.
 
@@ -351,7 +360,8 @@ While your [[Monk#Elemental Attunement (Level 3)|Elemental Attunement]] is activ
 **Empowered Strikes**. Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an [[Combat#Unarmed Strike|Unarmed Strike]]. The extra damage is the same type dealt by that strike.
 
 ### Warrior of the Open Hand
-*Master Unarmed Combat Techniques*
+
+*Master Unarmed Combat Techniques, From PHB2024*
 
 Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.
 
@@ -360,7 +370,9 @@ Warriors of the Open Hand are masters of unarmed combat. They learn techniques t
 Whenever you hit a creature with an attack granted by your [[Monk#Flurry of Blows (Level 3)|Flurry of Blows]], you can impose one of the following effects on that target.
 
 **Addle**. The target can't make Opportunity Attacks until the start of its next turn.
+
 **Push**. The target must succeed on a Strength saving throw or be pushed up to 15 feet away from you.
+
 **Topple**. The target must succeed on a Dexterity saving throw or have the [[Combat#Being Prone|Prone]] condition.
 
 #### Wholeness of Body (Level 6)
@@ -383,6 +395,8 @@ You can have only one creature under the effect of this feature at a time. You c
 
 ### Way of the Astral Self
 
+*From Tasha's Cauldron of Everything*
+
 A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.
 
 #### Arms of the Astral Self (Level 3)
@@ -394,8 +408,11 @@ For 10 minutes, these spectral arms hover near your shoulders or surround your a
 While the spectral arms are present, you gain the following benefits:
 
 - You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.
+
 - You can use the spectral arms to make [[Combat#Unarmed Strike|Unarmed Strikes]].
+
 - When you make an [[Combat#Unarmed Strike|Unarmed Strike]] with the arms on your turn, your reach for it is 5 feet greater than normal.
+
 - The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is force.
 
 #### Visage of the Astral Self (Level 6)
@@ -407,7 +424,9 @@ The spectral visage covers your face like a helmet or mask. You determine its ap
 While the spectral visage is present, you gain the following benefits.
 
 **Astral Sight**. You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+
 **Wisdom of the Spirit**. You have advantage on [[Abilities#Insight|Insight]] and [[Abilities#Intimidation|Intimidation]] checks.
+
 **Word of the Spirit**. When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
 
 #### Body of the Astral Self (Level 11)
@@ -432,6 +451,8 @@ While your astral self is awakened, you gain the following benefits.
 
 ### Way of the Drunken Master
 
+*From Xanathar's Guide to Everything*
+
 The Way of the Drunken Master teaches its students to move with the jerky, unpredictable movements of a drunkard. A drunken master sways, tottering on unsteady feet, to present what seems like an incompetent combatant who proves frustrating to engage. The drunken master's erratic stumbles conceal a carefully executed dance of blocks, parries, advances, attacks, and retreats.
 
 A drunken master often enjoys playing the fool to bring gladness to the despondent or to demonstrate humility to the arrogant, but when battle is joined, the drunken master can be a maddening, masterful foe.
@@ -449,6 +470,7 @@ You learn how to twist and turn quickly as part of your [[Monk#Flurry of Blows (
 You can move in sudden, swaying ways. You gain the following benefits.
 
 **Leap to Your Feet**. When you're [[Combat#Being Prone|prone]], you can stand up by spending 5 feet of movement, rather than half your speed.
+
 **Redirect Attack**. When a creature misses you with a melee attack roll, you can spend 1 focus point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.
 
 #### Drunkard's Luck (Level 11)
@@ -460,6 +482,8 @@ You always seem to get a lucky bounce at the right moment. When you make an abil
 You gain the ability to make an overwhelming number of attacks against a group of enemies. When you use your [[Monk#Flurry of Blows (Level 3)|Flurry of Blows]], you can make up to three additional attacks with it (up to a total of five [[Monk#Flurry of Blows (Level 3)|Flurry of Blows]] attacks), provided that each [[Monk#Flurry of Blows (Level 3)|Flurry of Blows]] attack targets a different creature this turn.
 
 ### Way of the Kensei
+
+*From Xanathar's Guide to Everything*
 
 Monks of the Way of the Kensei train relentlessly with their weapons, to the point where the weapon becomes an extension of the body. Founded on a mastery of sword fighting, the tradition has expanded to include many different weapons.
 
@@ -495,6 +519,8 @@ Your mastery of weapons grants you extraordinary accuracy. If you miss with an a
 
 ### Way of the Sun Soul
 
+*From Xanathar's Guide to Everything*
+
 Monks of the Way of the Sun Soul learn to channel their life energy into searing bolts of light. They teach that meditation can unlock the ability to unleash the indomitable light shed by the soul of every living creature.
 
 #### Radiant Sun Bolt (Level 3)
@@ -524,3 +550,131 @@ Each creature in that 20-foot-radius sphere must succeed on a Constitution savin
 You become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.
 
 If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.
+
+### Way of the Ascendant Dragon
+
+*From Fizban's Treasury of Dragons*
+
+The fundamental teaching of this tradition holds that by emulating dragons, a monk becomes a more integrated part of the world and its magic. By altering their spirit to resonate with draconic might, monks who follow this tradition augment their prowess in battle, bolster their allies, and can even soar through the air on draconic wings. But all this power is in service of a greater goal: achieving a spiritual unity with the essence of the Material Plane.
+
+#### Draconic Disciple (Level 3)
+
+You can channel draconic power to magnify your presence and imbue your unarmed strikes with the essence of a dragon's breath. You gain the following benefits:
+
+**Draconic Presence.** If you fail an Intimidation or Persuasion check, you can use your reaction to reroll the check, as you tap into the mighty presence of dragons. Once this feature turns a failure into a success, you can't use it again until you finish a long rest.
+
+**Draconic Strike.** When you damage a target with an unarmed strike, you can change the damage type to acid, cold, fire, lightning, or poison.
+
+**Tongue of Dragons.** You learn to speak, read, and write Draconic or one other language of your choice.
+
+#### Breath of the Dragon (Level 3)
+
+You can channel destructive waves of energy, like those created by the dragons you emulate. When you take the Attack action on your turn, you can replace one of the attacks with an exhalation of draconic energy in either a 20-foot cone or a 30-foot line that is 5 feet wide (your choice). Choose a damage type: acid, cold, fire, lightning, or poison. Each creature in that area must make a Dexterity saving throw against your Focus save DC, taking damage of the chosen type equal to two rolls of your Martial Arts die on a failed save, or half as much damage on a successful one.
+
+At 11th level, the damage of this feature increases to three rolls of your Martial Arts die.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. While you have no uses available, you can spend 2 Focus Points to use this feature again.
+
+#### Wings Unfurled (Level 6)
+
+When you use your Step of the Wind, you can unfurl spectral draconic wings from your back that vanish at the end of your turn. While the wings exist, you have a flying speed equal to your walking speed.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+#### Aspect of the Wyrm (Level 11)
+
+The power of your draconic spirit now radiates from you, warding your allies or inspiring fear in your enemies. As a bonus action, you can create an aura of draconic power that radiates 10 feet from you for 1 minute. For the duration, you gain one of the following effects of your choice:
+
+**Frightful Presence.** When you create this aura, and as a bonus action on subsequent turns, you can choose a creature within the aura. The target must succeed on a Wisdom saving throw against your Focus save DC or become frightened of you for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.
+
+**Resistance.** Choose a damage type when you activate this aura: acid, cold, fire, lightning, or poison. You and your allies within the aura have resistance to that damage.
+
+Once you create this aura, you can't create it again until you finish a long rest, unless you expend 3 Focus Points to create it again.
+
+#### Ascendant Aspect (Level 17)
+
+Your draconic spirit reaches its peak. You gain the following benefits:
+
+**Augment Breath.** When you use your Breath of the Dragon, you can spend 1 Focus Point to augment its shape and power. The exhalation of draconic energy becomes either a 60-foot cone or a 90-foot line that is 5 feet wide (your choice), and each creature in that area takes damage equal to four rolls of your Martial Arts die on a failed save, or half as much damage on a successful one.
+
+**Blindsight.** You gain blindsight out to 10 feet. Within that range, you can effectively see anything that isn't behind total cover, even if you're blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+
+**Explosive Fury.** When you activate your Aspect of the Wyrm, draconic fury explodes from you. Choose any number of creatures you can see in your aura. Each of those creatures must succeed on a Dexterity saving throw against your Focus save DC or take 3d10 acid, cold, fire, lightning, or poison damage (your choice).
+
+### Warrior of the Mystic Arts
+
+*Weave Martial and Mystic Arts, From Arcana Unleashed*
+
+Warriors of the Mystic Arts wield magic to supplement their martial skill. They harness mystical focus to enhance their magical and physical abilities.
+
+#### Spellcasting (Level 3)
+
+*Do not use the original text, instead, apply the Cinarythaeon related effects*
+
+##### ***Warrior of the Mystic Arts Spellcasting Feature In Cinarythaeon***
+
+You have learned to master the flow of [[Æther]] and can effortlessly weave spellcasting in combat.
+
+**Cantrips**. You know two cantrips of your choice from the Sorcerer spell list. [[Blade Ward]] and [[Thunderclap]] are recommended. Whenever you gain a Monk level, you can replace one of these cantrips with another cantrip of your choice from the Sorcerer spell list. These cantrips do not count towards the limit detailed in the [[Spellcasting Rules]] section.
+
+When you reach Monk level 10, you learn another Sorcerer cantrip of your choice.
+
+**Prepared Spells of Level 1+**. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Sorcerer spell list. [[Jump]], [[Magic Missile]], and [[Shield]] are recommended. These spells do not count towards the limit detailed in the [[Spellcasting Rules]] section.
+
+Yo can choose additional spells from the Sorcerer spell list whenever the amount of prepared spells you can have increases.
+
+**Changing Your Prepared Spells.** Whenever you gain a Monk level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
+
+**Spellcasting Ability**. Wisdom is your spellcasting ability for your Sorcerer spells. 
+
+**Spellcasting Focus**. You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
+
+##### ***Warrior of the Mystic Arts Spellcasting Feature Original Text***
+
+You have learned to cast spells.
+
+**Cantrips.** You know two cantrips of your choice from the Sorcerer spell list. Blade Ward and Thunderclap are recommended. Whenever you gain a Monk level, you can replace one of these cantrips with another cantrip of your choice from the Sorcerer spell list.
+
+When you reach Monk level 10, you learn another Sorcerer cantrip of your choice.
+
+**Spell Slots.** The Warrior of the Mystic Arts Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Sorcerer spell list. Jump, Magic Missile, and Shield are recommended.
+
+The number of spells on your list increases as you gain Monk levels, as shown in the Prepared Spells column of the Warrior of the Mystic Arts Spellcasting table. Whenever that number increases, choose additional spells from the Sorcerer spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Monk, your list of prepared spells can include five Sorcerer spells of levels 1 and 2 in any combination.
+
+**Changing Your Prepared Spells.** Whenever you gain a Monk level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots.
+
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your Sorcerer spells.
+
+**Spellcasting Focus.** You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
+
+**Multiclassing.** If you multiclass and have the Spellcasting feature from more than one class, add one third of your Monk levels (round down) to determine your available spell slots.
+
+#### Mystic Fighting Style (Level 6)
+
+When you take the Attack action on your turn, you can replace one Unarmed Strike with a casting of one of your Sorcerer cantrips that has a casting time of an action.
+
+#### Mystic Focus (Level 6)
+
+You keep your magical power and martial focus in perfect balance, allowing you to convert spell slots into Focus Points, or convert Focus Points into spell slots.
+
+**Converting Spell Slots to Focus Points.** You can expend a spell slot to regain a number of expended Focus Points equal to the slot's level (no action required).
+
+**Recovering Spell Slots.** When you finish a Short Rest or use Uncanny Metabolism, you can transform unexpended Focus Points to recover one expended spell slot. The Recovering Spell Slots table shows the cost of recovering a spell slot of a given level, and it lists the minimum Monk level you must be to recover a slot. You can recover a spell slot no higher than level 4.
+
+##### Mystic Focus Recovering Spell Slots - Table
+
+| Spell Slot Level | Focus Point Cost | Min. Monk Level |
+|:----------------:|:----------------:|:---------------:|
+| 1                | 2                | 6               |
+| 2                | 3                | 7               |
+| 3                | 5                | 13              |
+| 4                | 6                | 19              |
+#### Focused Strike (Level 11)
+
+When you use your Stunning Strike, whether the target succeeds or fails on the saving throw, the target has Disadvantage on saving throws against your spells until the start of your next turn.
+
+#### Improved Mystic Fighting Style (Level 17)
+
+When you use Flurry of Blows, you can replace two of the Unarmed Strikes with a casting of one of your level 1 or 2 Sorcerer spells that has a casting time of an action, and you cast it as part of the same Bonus Action you use to activate Flurry of Blows.

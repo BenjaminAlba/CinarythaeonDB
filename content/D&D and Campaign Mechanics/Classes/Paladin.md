@@ -264,6 +264,7 @@ The Oath of Devotion binds Paladins to the ideals of justice and order. These Pa
 Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of personal devotion. Others hold angels as their ideals and incorporate images of angelic wings into their helmets or coats of arms.
 
 These paladins share the following tenets:
+
 - Let your word be your promise.
 - Protect the weak and never fear to act.
 - Let your honorable deeds be an example.
@@ -275,12 +276,12 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of Devotion Spells
 
 | Paladin Level | Prepared Spells                                        |
-| ------------- | ------------------------------------------------------ |
-| 3             | [[Protection from Evil and Good]], [[Shield of Faith]] |
-| 5             | [[Aid]], [[Zone of Truth]]                             |
-| 9             | [[Beacon of Hope]], [[Dispel Magic]]                   |
-| 13            | [[Freedom of Movement]], [[Guardian of Faith]]         |
-| 17            | [[Commune]], [[Flame Strike]]                          |
+| :-----------: | ------------------------------------------------------ |
+|       3       | [[Protection from Evil and Good]], [[Shield of Faith]] |
+|       5       | [[Aid]], [[Zone of Truth]]                             |
+|       9       | [[Beacon of Hope]], [[Dispel Magic]]                   |
+|      13       | [[Freedom of Movement]], [[Guardian of Faith]]         |
+|      17       | [[Commune]], [[Flame Strike]]                          |
 #### Sacred Weapon (Level 3)
 
 When you take the Attack action, you can expend one use of your [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] to imbue one Melee weapon that you are holding with positive energy. For 10 minutes or until you use this feature again, you add your Charisma modifier to attack rolls you make with that weapon (minimum bonus of +1), and each time you hit with it, you cause it to deal its normal damage type or Radiant damage.
@@ -313,6 +314,7 @@ As a Bonus Action, you can imbue your [[Paladin#Aura of Protection (Level 6)|Aur
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.
 
 These paladins share the following tenets:
+
 - Endeavor to be known by your deeds.
 - Face hardships with courage.
 - Inspire others to strive for glory.
@@ -327,14 +329,13 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ##### Table - Oath of Glory Spells
 
-| Paladin Level | Prepared Spells                               |
-| ------------- | --------------------------------------------- |
-| 3             | [[Guiding Bolt]], [[Heroism]]                 |
-| 5             | [[Enhance Ability]], [[Magic Weapon]]         |
-| 9             | [[Haste]], [[Protection from Energy]]         |
-| 13            | [[Compulsion]], [[Freedom of Movement]]       |
-| 17            | [[Legend Lore]], [[Yolande's Regal Presence]] |
-
+| Paladin Level | Prepared Spells                       |
+| :-----------: | ------------------------------------- |
+|       3       | Guiding Bolt, Heroism                 |
+|       5       | Enhance Ability, Magic Weapon         |
+|       9       | Haste, Protection from Energy         |
+|      13       | Compulsion, Freedom of Movement       |
+|      17       | Legend Lore, Yolande's Regal Presence |
 #### Peerless Athlete (Level 3)
 
 As a Bonus Action, you can expend one use of your [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] to augment your athleticism. For 1 hour, you have Advantage on [[Abilities#Athletics|Athletics]] and [[Abilities#Acrobatics|Acrobatics]] checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
@@ -364,13 +365,17 @@ You can empower yourself with the legends whether true or exaggerated -of your g
 **Unerring Strike**. Once on each of your turns when you make an attack roll with a weapon and miss, you can cause that attack to hit instead.
 
 ### Oath of the Ancients
-*Preserve Life and Light in the World*
+
+*Preserve Life and Light in the World, From PHB2024*
 
 The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. They often adorn their armor and clothing with images of growing things-leaves, antlers, or flowers-to reflect their commitment to preserving life and light.
 
 These paladins share the following tenets:
+
 - Kindle the light of hope.
+
 - Shelter life.
+
 - Delight in art and laughter.
 
 #### Nature's Wrath (Level 3)
@@ -384,12 +389,19 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of the Ancients Spells
 
 | Paladin Level | Prepared Spells                              |
+
 | ------------- | -------------------------------------------- |
+
 | 3             | [[Ensnaring Strike]], [[Speak with Animals]] |
+
 | 5             | [[Misty Step]], [[Moonbeam]]                 |
+
 | 9             | [[Plant Growth]], [[Protection from Energy]] |
+
 | 13            | [[Ice Storm]], [[Stoneskin]]                 |
+
 | 17            | [[Commune with Nature]], [[Tree Stride]]     |
+
 #### Aura of Warding (Level 7)
 
 Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have Resistance to Necrotic, Psychic, and Radiant damage while in your [[Paladin#Aura of Protection (Level 6)|Aura of Protection]].
@@ -411,28 +423,39 @@ As a Bonus Action, you can imbue your [[Paladin#Aura of Protection (Level 6)|Aur
 **Swift Spells**. Whenever you cast a spell that has a casting time of an action, you can cast it using a Bonus Action instead.
 
 ### Oath of Vengeance
+
 *Punish Evildoers at Any Cost*
 
 The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent, when a dragon rampages through the countryside-at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
 
 These paladins share the following tenets:
+
 - Show the wicked no mercy.
+
 - Fight injustice and its causes.
+
 - Aid those harmed by injustice.
 
 #### Oath of Vengeance Spells (Level 3)
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Vengeance Spells table, you thereafter always have the listed spells prepared.
 
-##### Table - Oath of Vengeance Spells
+##### Table - Oath of Devotion Spells
 
 | Paladin Level | Prepared Spells                       |
+
 | ------------- | ------------------------------------- |
+
 | 3             | [[Bane]], [[Hunter's Mark]]           |
+
 | 5             | [[Hold Person]], [[Misty Step]]       |
+
 | 9             | [[Haste]], [[Protection from Energy]] |
+
 | 13            | [[Banishment]], [[Dimension Door]]    |
+
 | 17            | [[Hold Monster]], [[Scrying]]         |
+
 #### Vow of Enmity (Level 3)
 
 When you take the Attack action, you can expend one use of your [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have Advantage on attack rolls against the creature for 1 minute or until you use this feature again.
@@ -462,8 +485,11 @@ The Oath of the Watchers binds paladins to protect mortal realms from the predat
 Paladins who follow the Watchers' oath are ever vigilant in spotting the influence of extraplanar forces, often establishing a network of spies and informants to gather information on suspected cults. To a Watcher, keeping a healthy suspicion and awareness about one's surroundings is as natural as wearing armor in battle.
 
 These paladins share the following tenets:
+
 - **Vigilance**. The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.
+
 - **Loyalty**. Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.
+
 - **Discipline**. You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.
 
 #### Oath of the Watchers Spells (Level 3)
@@ -473,12 +499,19 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of Devotion Spells
 
 | Paladin Level | Prepared Spells                    |
+
 | ------------- | ---------------------------------- |
+
 | 3             | [[Alarm]], [[Detect Magic]]        |
+
 | 5             | [[Moonbeam]], [[See Invisibility]] |
+
 | 9             | [[Counterspell]], [[Nondetection]] |
+
 | 13            | [[Aura of Purity]], [[Banishment]] |
+
 | 17            | [[Hold Monster]], [[Scrying]]      |
+
 #### Oath of the Watchers - Channel Divinity (Level 3)
 
 You gain the following [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] options.
@@ -504,18 +537,25 @@ You've learned how to chastise anyone who dares wield beguilements against you a
 You manifest a spark of divine power in defense of the mortal realms. As a bonus action, you gain the following benefits for 1 minute:
 
 - You gain truesight with a range of 120 feet.
+
 - You have advantage on attack rolls against aberrations, celestials, elementals, fey, and fiends.
+
 - When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.
 
 Once you use this bonus action, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.
 
 ### Oath of Conquest
 
+*From Xanathar's Guide to Everything*
+
 The Oath of Conquest calls to paladins who seek glory in battle and the subjugation of their enemies. It isn't enough for these paladins to establish order. They must crush the forces of chaos. Sometimes called knight tyrants or iron mongers, those who swear this oath gather into grim orders that serve gods or philosophies of war and well-ordered might.
 
 These paladins share the following tenets:
+
 - **Douse the Flame of Hope**. It is not enough to merely defeat an enemy in battle. Your victory must be so over whelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.
+
 - **Rule with an Iron Fist**. Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
+
 - **Strength Above All**. You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
 
 #### Oath of Conquest Spells (Level 3)
@@ -525,12 +565,19 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of Devotion Spells
 
 | Paladin Level | Prepared Spells                       |
+
 | ------------- | ------------------------------------- |
+
 | 3             | [[Armor of Agathys]], [[Command]]     |
+
 | 5             | [[Hold Person]], [[Spiritual Weapon]] |
+
 | 9             | [[Bestow Curse]], [[Fear]]            |
+
 | 13            | [[Dominate Beast]], [[Stoneskin]]     |
+
 | 17            | [[Cloudkill]], [[Dominate Person]]    |
+
 #### Oath of Conquest - Channel Divinity (Level 3)
 
 You gain the following [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] options.
@@ -552,6 +599,7 @@ At 18th level, the range of this aura increases to 30 feet.
 Those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not [[Conditions#Incapacitated|Incapacitated]].
 
 #### Invincible Conqueror (Level 20)
+
 *Do not use the original text, instead, apply the Cinarythaeon related effects*
 
 ##### ***Oath of Conquest  Invincible Conqueror Feature In Cinarythaeon***
@@ -559,7 +607,9 @@ Those who dare to strike you are psychically punished for their audacity. Whenev
 You gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:
 
 - You have resistance to all damage.
+
 - When you take the Attack action on your turn, you can make one additional attack as part of that action.
+
 - Gain [[Critical Rate (CRT)|CRT]](1), and you are unaffected by the [[Critical Penalties#Máximo de acumulaciones individuales|3 stack CRT penalty]].
 
 Once you use this bonus action, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.
@@ -569,7 +619,9 @@ Once you use this bonus action, you can't use it again until you finish a long r
 You gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:
 
 - You have resistance to all damage.
+
 - When you take the Attack action on your turn, you can make one additional attack as part of that action.
+
 - Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the d20.
 
 Once you use this bonus action, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.
@@ -581,9 +633,13 @@ The Oath of Redemption sets a paladin on a difficult path, one that requires a h
 While redeemers are idealists, they are no fools. Redeemers know that undead, demons, devils, and other supernatural threats can be inherently evil. Against such foes, paladins who swear this oath bring the full wrath of their weapons and spells to bear. Yet the redeemers still pray that, one day, even creatures of wickedness will invite their own redemption.
 
 These paladins share the following tenets:
+
 - **Peace**. Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace.
+
 - **Innocence**. All people begin life in an innocent state, and it is their environment or the influence of dark forces that drives them to evil. By setting the proper example, and working to heal the wounds of a deeply flawed world, you can set anyone on a righteous path.
+
 - **Patience**. Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow that seed to survive and flourish.
+
 - **Wisdom**. Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
 
 #### Oath of Redemption Spells (Level 3)
@@ -593,12 +649,19 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of Devotion Spells
 
 | Paladin Level | Prepared Spells                        |
+
 | ------------- | -------------------------------------- |
+
 | 3             | [[Sanctuary]], [[Sleep]]               |
+
 | 5             | [[Calm Emotions]], [[Hold Person]]     |
+
 | 9             | [[Counterspell]], [[Hypnotic Pattern]] |
+
 | 13            | [[Resilient Sphere]], [[Stoneskin]]    |
+
 | 17            | [[Hold Monster]], [[Wall of Force]]    |
+
 #### Oath of Redemption - Channel Divinity (Level 3)
 
 You gain the following [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] options.
@@ -622,7 +685,7 @@ A holy presence mends your wounds in battle. You regain hit points equal to 1d6 
 You become an avatar of peace, which gives you two benefits:
 
 - You have resistance to all damage dealt by other creatures (their attacks, spells, and other effects).
+
 - Whenever a creature hits you with an attack, it takes radiant damage equal to half the damage you take from the attack.
 
 If you attack a creature, cast a spell on it, or deal damage to it by any means but this feature, neither benefit works against that creature until you finish a long rest.
-
