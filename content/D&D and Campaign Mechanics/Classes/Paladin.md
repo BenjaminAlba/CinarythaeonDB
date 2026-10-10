@@ -424,7 +424,7 @@ These paladins share the following tenets:
 
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Vengeance Spells table, you thereafter always have the listed spells prepared.
 
-##### Table - Oath of Devotion Spells
+##### Table - Oath of Vengeance Spells
 
 | Paladin Level | Prepared Spells                       |
 | ------------- | ------------------------------------- |

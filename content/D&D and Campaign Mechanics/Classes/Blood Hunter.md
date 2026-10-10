@@ -3,11 +3,6 @@ title:
 tags:
 unlisted: true
 ---
-
-# Secretos del director de juego
-
-Aquí van las revelaciones que los jugadores todavía no conocen.
-
 # Blood Hunter
 Note: This class is HEAVILY edited to fit the campaign's settings, you can see the original version [here](https://www.dndbeyond.com/classes/357975-blood-hunter).
 
