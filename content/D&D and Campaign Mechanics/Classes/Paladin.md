@@ -329,13 +329,13 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 ##### Table - Oath of Glory Spells
 
-| Paladin Level | Prepared Spells                       |
-| :-----------: | ------------------------------------- |
-|       3       | Guiding Bolt, Heroism                 |
-|       5       | Enhance Ability, Magic Weapon         |
-|       9       | Haste, Protection from Energy         |
-|      13       | Compulsion, Freedom of Movement       |
-|      17       | Legend Lore, Yolande's Regal Presence |
+| Paladin Level | Prepared Spells                               |
+| :-----------: | --------------------------------------------- |
+|       3       | [[Guiding Bolt]], [[Heroism]]                 |
+|       5       | [[Enhance Ability]], [[Magic Weapon]]         |
+|       9       | [[Haste]], [[Protection from Energy]]         |
+|      13       | [[Compulsion]], [[Freedom of Movement]]       |
+|      17       | [[Legend Lore]], [[Yolande's Regal Presence]] |
 #### Peerless Athlete (Level 3)
 
 As a Bonus Action, you can expend one use of your [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] to augment your athleticism. For 1 hour, you have Advantage on [[Abilities#Athletics|Athletics]] and [[Abilities#Acrobatics|Acrobatics]] checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
@@ -373,9 +373,7 @@ The Oath of the Ancients is as old as the first elves. Paladins who swear this o
 These paladins share the following tenets:
 
 - Kindle the light of hope.
-
 - Shelter life.
-
 - Delight in art and laughter.
 
 #### Nature's Wrath (Level 3)
@@ -389,19 +387,12 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of the Ancients Spells
 
 | Paladin Level | Prepared Spells                              |
-
-| ------------- | -------------------------------------------- |
-
-| 3             | [[Ensnaring Strike]], [[Speak with Animals]] |
-
-| 5             | [[Misty Step]], [[Moonbeam]]                 |
-
-| 9             | [[Plant Growth]], [[Protection from Energy]] |
-
-| 13            | [[Ice Storm]], [[Stoneskin]]                 |
-
-| 17            | [[Commune with Nature]], [[Tree Stride]]     |
-
+| :-----------: | -------------------------------------------- |
+|       3       | [[Ensnaring Strike]], [[Speak with Animals]] |
+|       5       | [[Misty Step]], [[Moonbeam]]                 |
+|       9       | [[Plant Growth]], [[Protection from Energy]] |
+|      13       | [[Ice Storm]], [[Stoneskin]]                 |
+|      17       | [[Commune with Nature]], [[Tree Stride]]     |
 #### Aura of Warding (Level 7)
 
 Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have Resistance to Necrotic, Psychic, and Radiant damage while in your [[Paladin#Aura of Protection (Level 6)|Aura of Protection]].
@@ -431,9 +422,7 @@ The Oath of Vengeance is a solemn commitment to punish those who have committed 
 These paladins share the following tenets:
 
 - Show the wicked no mercy.
-
 - Fight injustice and its causes.
-
 - Aid those harmed by injustice.
 
 #### Oath of Vengeance Spells (Level 3)
@@ -443,19 +432,12 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of Devotion Spells
 
 | Paladin Level | Prepared Spells                       |
-
-| ------------- | ------------------------------------- |
-
-| 3             | [[Bane]], [[Hunter's Mark]]           |
-
-| 5             | [[Hold Person]], [[Misty Step]]       |
-
-| 9             | [[Haste]], [[Protection from Energy]] |
-
-| 13            | [[Banishment]], [[Dimension Door]]    |
-
-| 17            | [[Hold Monster]], [[Scrying]]         |
-
+| :-----------: | ------------------------------------- |
+|       3       | [[Bane]], [[Hunter's Mark]]           |
+|       5       | [[Hold Person]], [[Misty Step]]       |
+|       9       | [[Haste]], [[Protection from Energy]] |
+|      13       | [[Banishment]], [[Dimension Door]]    |
+|      17       | [[Hold Monster]], [[Scrying]]         |
 #### Vow of Enmity (Level 3)
 
 When you take the Attack action, you can expend one use of your [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have Advantage on attack rolls against the creature for 1 minute or until you use this feature again.
@@ -487,9 +469,7 @@ Paladins who follow the Watchers' oath are ever vigilant in spotting the influen
 These paladins share the following tenets:
 
 - **Vigilance**. The threats you face are cunning, powerful, and subversive. Be ever alert for their corruption.
-
 - **Loyalty**. Never accept gifts or favors from fiends or those who truck with them. Stay true to your order, your comrades, and your duty.
-
 - **Discipline**. You are the shield against the endless terrors that lie beyond the stars. Your blade must be forever sharp and your mind keen to survive what lies beyond.
 
 #### Oath of the Watchers Spells (Level 3)
@@ -499,19 +479,12 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of Devotion Spells
 
 | Paladin Level | Prepared Spells                    |
-
-| ------------- | ---------------------------------- |
-
-| 3             | [[Alarm]], [[Detect Magic]]        |
-
-| 5             | [[Moonbeam]], [[See Invisibility]] |
-
-| 9             | [[Counterspell]], [[Nondetection]] |
-
-| 13            | [[Aura of Purity]], [[Banishment]] |
-
-| 17            | [[Hold Monster]], [[Scrying]]      |
-
+| :-----------: | ---------------------------------- |
+|       3       | [[Alarm]], [[Detect Magic]]        |
+|       5       | [[Moonbeam]], [[See Invisibility]] |
+|       9       | [[Counterspell]], [[Nondetection]] |
+|      13       | [[Aura of Purity]], [[Banishment]] |
+|      17       | [[Hold Monster]], [[Scrying]]      |
 #### Oath of the Watchers - Channel Divinity (Level 3)
 
 You gain the following [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] options.
@@ -553,9 +526,7 @@ The Oath of Conquest calls to paladins who seek glory in battle and the subjugat
 These paladins share the following tenets:
 
 - **Douse the Flame of Hope**. It is not enough to merely defeat an enemy in battle. Your victory must be so over whelming that your enemies' will to fight is shattered forever. A blade can end a life. Fear can end an empire.
-
 - **Rule with an Iron Fist**. Once you have conquered, tolerate no dissent. Your word is law. Those who obey it shall be favored. Those who defy it shall be punished as an example to all who might follow.
-
 - **Strength Above All**. You shall rule until a stronger one arises. Then you must grow mightier and meet the challenge, or fall to your own ruin.
 
 #### Oath of Conquest Spells (Level 3)
@@ -565,19 +536,12 @@ The magic of your oath ensures you always have certain spells ready; when you re
 ##### Table - Oath of Devotion Spells
 
 | Paladin Level | Prepared Spells                       |
-
-| ------------- | ------------------------------------- |
-
+|:-------------:|---------------------------------------|
 | 3             | [[Armor of Agathys]], [[Command]]     |
-
 | 5             | [[Hold Person]], [[Spiritual Weapon]] |
-
 | 9             | [[Bestow Curse]], [[Fear]]            |
-
 | 13            | [[Dominate Beast]], [[Stoneskin]]     |
-
 | 17            | [[Cloudkill]], [[Dominate Person]]    |
-
 #### Oath of Conquest - Channel Divinity (Level 3)
 
 You gain the following [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] options.
@@ -647,21 +611,13 @@ These paladins share the following tenets:
 The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Redemption Spells table, you thereafter always have the listed spells prepared.
 
 ##### Table - Oath of Devotion Spells
-
 | Paladin Level | Prepared Spells                        |
-
-| ------------- | -------------------------------------- |
-
+|:-------------:|----------------------------------------|
 | 3             | [[Sanctuary]], [[Sleep]]               |
-
 | 5             | [[Calm Emotions]], [[Hold Person]]     |
-
 | 9             | [[Counterspell]], [[Hypnotic Pattern]] |
-
 | 13            | [[Resilient Sphere]], [[Stoneskin]]    |
-
 | 17            | [[Hold Monster]], [[Wall of Force]]    |
-
 #### Oath of Redemption - Channel Divinity (Level 3)
 
 You gain the following [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] options.

@@ -141,7 +141,7 @@ You can attack four times instead of once whenever you take the [[Combat#Attack|
 A Fighter subclass is a specialization that grants you features at certain levels, as specified in the subclass.
 
 ### Battle Master
-*Master Sophisticated Battle Maneuvers*
+*Master Sophisticated Battle Maneuvers, From PHB2024*
 
 Battle Masters are students of the art of battle, learning martial techniques passed down through generations. The most accomplished Battle Masters are well-rounded figures who combine their care fully honed combat skills with academic study in the fields of history, theory, and the arts.
 
@@ -274,7 +274,7 @@ Roll the [[Fighter#Combat Superiority - Superiority Dice|Superiority Die]]. Unti
 **Trip Attack**. When you hit a creature with an attack roll using a weapon or an [[Combat#Unarmed Strike|Unarmed Strike,]] you can expend one [[Fighter#Combat Superiority - Superiority Dice|Superiority Die]] and add the die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or have the [[Combat#Being Prone|Prone]] condition.
 
 ### Champion
-*Pursue Physical Excellence in Combat*
+*Pursue Physical Excellence in Combat, From PHB2024*
 
 ***This subclass is modified to fit the campaign's setting.***
 
@@ -318,7 +318,7 @@ You attain the pinnacle of resilience in battle, giving you these benefits.
 **Heroic Rally**. At the start of each of your turns, you regain Hit Points equal to 5 plus your Constitution modifier if you are Bloodied and have at least 1 Hit Point.
 
 ### Eldritch Knight
-*Support Combat Skills with Arcane Magic*
+*Support Combat Skills with Arcane Magic, From PHB2024*
 
 ***This subclass is modified to fit the campaign's setting.***
 
@@ -406,7 +406,7 @@ When you use your [[Fighter#Action Surge (Level 2)|Action Surge]], you can telep
 When you take the Attack action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action.
 
 ### Psi Warrior
-*Augment Physical Might with Psionic Power*
+*Augment Physical Might with Psionic Power, From PHB2024*
 
 Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
 
@@ -467,6 +467,7 @@ You always have the [[Telekinesis]] spell prepared. With this feature, you can c
 Once you cast the spell with this feature, you can't do so in this way again until you finish a Long Rest unless you expend a [[Fighter#Table - Psi Warrior Energy Dice|Psionic Energy Die]] (no action required) to restore your use of it.
 
 ### Rune Knight
+*From Tasha's Cauldron of Everything*
 
 Rune Knights enhance their martial prowess using the supernatural power of runes, an ancient practice that originated with giants. Rune cutters can be found among any family of giants, and you likely learned your methods first or second hand from such a mystical artisan. Whether you found the giant's work carved into a hill or cave, learned of the runes from a sage, or met the giant in person, you studied the giant's craft and learned how to apply magic runes to empower your equipment.
 
@@ -548,9 +549,7 @@ You can invoke each rune you know from your [[Fighter#Rune Carver (Level 3)|Rune
 You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to 1d10. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
 
 ### Arcane Archer
-*Deploy Magical Effects Through Enchanted Ammunition*
-
-**Obtained from Unearthed Arcana 2025 Arcane Updates**
+*Deploy Magical Effects Through Enchanted Ammunition, From Arcana Unleashed*
 
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. The first Arcane Archers stood watch over their communities and used magic-infused arrows to defeat monsters and invaders. Over the centuries, other species have learned this method of blending magical aptitude with archery. These archers have broadened this method’s application to ranged weapons of many kinds and to aspects of adventuring life outside of combat.
 
@@ -559,15 +558,14 @@ An Arcane Archer studies a unique elven method of archery that weaves magic into
 You learn magical theory and secrets of nature, granting you the following benefits.
 
 **Cantrip**. You know either the [[Druidcraft]] or [[Prestidigitation]] cantrip. Intelligence is your spellcasting ability for it.
-**Skills**. You gain proficiency in the [[Abilities#Arcana|Arcana]] and [[Abilities#Nature|Nature]] skills. If you already have one of these proficiencies, you instead gain proficiency in a different skill of your choice (or with two other skills if you have both).
+
+**Skills**. You gain proficiency in the [[Abilities#Arcana|Arcana]] and [[Abilities#Nature|Nature]] skills. If you already have one of these proficiencies, you instead gain proficiency in a different skill of your choice from the skills available to Fighters at level 1 (or in two skills available to Fighters at level 1 if you have both).
 
 #### Arcane Shot (Level 3)
 
 You learn to unleash special magical effects with your shots.
 
-**Arcane Shot Options**. You learn two Arcane Shot options of your choice from the “[[Fighter#Arcane Shot Options|Arcane Shot options]]” section later in this subclass’s description. 
-
-You learn an additional [[Fighter#Arcane Shot Options|Arcane Shot option]] of your choice when you reach Fighter levels 7, 10, 15, and 18. Each time you learn a new [[Fighter#Arcane Shot Options|Arcane Shot option]], you can also replace one option you know with a different one.
+You learn two Arcane Shot options of your choice. You learn an additional Arcane Shot option of your choice when you reach Fighter levels 7, 10, 15, and 18. Each time you learn a new Arcane Shot option, you can also replace one option you know with a different one.
 
 **Using Arcane Shot**. Once per turn when you make a ranged attack using a weapon with the Ammunition property, you can apply one of your [[Fighter#Arcane Shot Options|Arcane Shot options]] to that attack. You decide to use the option when you hit a creature and deal damage to it unless the option doesn’t involve an attack roll.
 
@@ -581,15 +579,15 @@ You can use this feature a number of times equal to your Intelligence modifier (
 
 #### Magical Ammunition (Level 7)
 
-You learn to imbue your ammunition with magical properties. As a Magic action, you can imbue a piece of nonmagical ammunition with one of the following magical properties and fire it at a solid surface you can see within the weapon’s range. On a hit, the ammunition’s effect activates, and the ammunition attaches to the surface it hit for the duration of the effect; when the effect ends, the ammunition is destroyed.
+You learn to imbue your ammunition with magical properties. As a Magic action, you can imbue a piece of nonmagical ammunition with one of the following magical properties and fire it at a solid surface you can see within the weapon’s range. When the ammunition hits the surface, the ammunition's effect activates, and the ammunition attaches to the surface it hit for the duration of the effect; you can remove an attached piece of ammunition as a Magic action, ending the effect early. When the effect ends, the ammunition is destroyed.
 
 Once you use this feature, you can’t do so again until you finish a Short or Long Rest. You can also restore your use of this feature by expending a use of your [[Fighter#Second Wind (Level 1)|Second Wind]] (no action required).
 
-**Darkening Shot**. Magical shadows fill a 15- foot Emanation originating from the ammunition for 1 minute. Nonmagical flames in the Emanation are extinguished, and creatures in the Emanation have a –5 penalty to [[Abilities#Perception|Perception]] checks and Passive Perception. 
+**Darkening Ammunition**. Magical shadows fill a 15-foot Emanation originating from the ammunition for 1 minute. Nonmagical flames in the Emanation are extinguished, and creatures in the Emanation have a –5 penalty to [[Abilities#Perception|Perception]] checks and Passive Perception. 
 
-**Unlocking Shot**. A burst of magic fills a 15-foot Emanation originating from the ammunition. A loud knock, audible up to 300 feet away, also emits from the ammunition. Any object in the Emanation that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked. 
+**Unlocking Ammunition**. A burst of magic fills a 15-foot Emanation originating from the ammunition. The ammunition also emits a loud knocking sound, audible up to 300 feet away. Any object in the Emanation that is held shut by a nonmagical lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If such an object has multiple locks, only one of them is unlocked. 
 
-**Vine Shot**. A 60-foot-long vine grows from the ammunition. You and other creatures can then climb it. The vine withers away after 10 minutes.
+**Vine Ammunition**. A 120-foot-long vine grows from the ammunition. You and other creatures can then climb it. The vine withers away after 10 minutes.
 
 #### Curving Shot (Level 7)
 
@@ -599,9 +597,9 @@ You learn how to direct an errant shot toward a new target. If you make an attac
 
 When you roll initiative, you can regain one expended use of [[Fighter#Arcane Shot (Level 3)|Arcane Shot]].
 
-#### Arcane Burst (Level 15)
+#### Indomitable Teleport (Level 15)
 
-You can push creatures away from you with your arcane mastery. When you use [[Fighter#Indomitable (Level 9)|Indomitable,]]each creature of your choice in a 10-foot Emanation originating from you must succeed on a Strength saving throw against your Arcane Shot DC or be pushed up to 20 feet straight away from you. 
+Your magical mastery lets you escape dire situations. When you use your Indomitable feature and succeed on the saving throw, you can teleport up to 60 feet to an unoccupied space you can see. 
 
 #### Masterful Shots (Level 18)
 
@@ -633,7 +631,7 @@ Your ammunition creates clutching brambles around your target. The creature you 
 
 ##### Piercing Shot
 
-You give your ammunition an ethereal quality. When you use this option, you don’t make an attack roll for the attack. Instead, the ammunition shoots forward in a 30-foot Line that is 1 foot wide, originating from you, then vanishes. The Line ignores cover, as the ammunition phases through solid objects. Each creature in the Line must make a Dexterity saving throw. On a failed save, a creature takes damage as if it were hit plus additional Piercing damage equal to two rolls of your Arcane Shot Die. On a successful save, a creature takes half as much damage.
+You give your ammunition an ethereal quality. When you use this option, you don't make an attack roll for the attack. Instead, the ammunition shoots forward in a 30-foot-long, 1-foot-wide Line originating from you, then vanishes. The Line ignores cover, as the ammunition phases through solid objects. Each creature in the Line makes a Dexterity saving throw. On a failed save, a creature takes damage as if it were hit plus extra Piercing damage equal to two rolls of your Arcane Shot Die. On a successful save, a creature takes half as much damage.
 
 ##### Seeking Shot
 
@@ -641,4 +639,141 @@ Your ammunition can seek out a target. When you use this option, you don’t mak
 
 ##### Shadow Shot
 
-Your ammunition occludes your foe’s vision with shadows. The creature you hit takes additional Psychic damage equal to one roll of your Arcane Shot Die, and it must succeed on a Wisdom saving throw or have the [[Conditions#Blinded|Blinded]] condition until the end of its next turn. 
+Your ammunition occludes your foe’s vision with shadows. The creature you hit takes additional Psychic damage equal to one roll of your Arcane Shot Die, and it must succeed on a Wisdom saving throw or have the [[Conditions#Blinded|Blinded]] condition until the end of its next turn.
+
+### Banneret
+*Rally Fellow Heroes with Inspiring Leadership, From Forgotten Realms: Heroes of Faerun*
+
+Bannerets are paragons of valor and leadership who protect the innocent and rally fellow adventurers to the causes of justice and freedom. They wander the realms as knights errant, taking the fight against evil beyond their kingdom's borders.
+
+A Banneret relies on judgment, bravery, and fidelity to the code of chivalry to guide them in defeating evildoers. A lone Banneret is a skilled warrior, but when leading a band of allies one of these warriors can transform even a poorly equipped militia into a ferocious war band.
+
+#### Knightly Envoy (Level 3)
+
+You know how to conduct yourself with grace as a noble ambassador. You gain the following benefits.
+
+**Comprehension.** You can cast the [[Comprehend Languages]] spell but only as a Ritual. Charisma is your spellcasting ability for it.
+
+**Polyglot.** You learn one language of your choice. When you finish a Long Rest, you can replace a language learned from this benefit with another language you have heard, seen signed, or read in the past 24 hours.
+
+**Well Spoken.** You gain proficiency in one of the following skills of your choice: Insight, Intimidation, Persuasion, or Performance.
+
+#### Group Recovery (Level 3)
+
+When you use your Second Wind to regain Hit Points, you can choose a number of allies within a 30-foot Emanation originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). 
+
+Each of those allies regains Hit Points equal to 1d4 plus your Fighter level. Once you use this ability, you can't use it again until you finish a Short or Long Rest.
+
+#### Team Tactics (Level 7)
+
+When you use Group Recovery, each chosen ally has Advantage on D20 Tests until the start of your next turn.
+
+#### Rallying Surge (Level 10)
+
+When you use your Action Surge, you can choose allies within a 30-foot Emanation originating from yourself, up to a number of allies equal to your Charisma modifier (minimum of one). Each of those allies can immediately take a Reaction to use one of the following options.
+
+**Attack.** The ally makes one attack with a weapon or an Unarmed Strike.
+
+**Move.** The ally moves up to half its Speed without provoking an Opportunity Attack.
+
+#### Shared Resilience (Level 15)
+
+When an ally you can see within 60 feet of yourself fails a saving throw, you can take a Reaction to expend a use of your Indomitable feature. The ally can immediately reroll the saving throw with a bonus equal to your Fighter level; the ally must use the new roll.
+
+#### Inspiring Commander (Level 18)
+
+You gain the following benefits.
+
+**Bolstered Rally.** The area of effect for both Group Recovery and Rallying Surge is now a 60-foot Emanation.
+
+**Unshakable Bravery.** You have Immunity to the Charmed and Frightened conditions.
+
+### Cavalier
+*From Xanathar's Guide to Everything*
+
+The archetypal Cavalier excels at mounted combat. Usually born among the nobility and raised at court, a Cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure.
+
+#### Bonus Proficiency (Level 3)
+
+When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice.
+
+#### Born To The Saddle (Level 3)
+
+Your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you're not incapacitated.
+
+Finally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
+
+#### Unwavering Mark (Level 3)
+
+You can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are incapacitated or you die, or if someone else marks the creature.
+
+While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn't target you.
+
+In addition, if a creature marked by you deals damage to anyone other than you, you can make a special melee weapon attack against the marked creature as a bonus action on your next turn. You have advantage on the attack roll, and if it hits, the attack's weapon deals extra damage to the target equal to half your fighter level.
+
+Regardless of the number of creatures you mark, you can make this special attack a number of times equal to your Strength modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
+
+#### Team Tactics (Level 7)
+
+You learn to fend off strikes directed at you, your mount, or other creatures nearby. If you or a creature you can see within 5 feet of you is hit by an attack, you can roll 1d8 as a reaction if you're wielding a melee weapon or a shield. Roll the die, and add the number rolled to the target's AC against that attack. If the attack still hits, the target has resistance against the attack's damage.
+
+You can use this feature a number of times equal to your Constitution modifier (minimum of once), and you regain all expended uses of it when you finish a long rest
+
+#### Rallying Surge (Level 10)
+
+You become a master of locking down your enemies. Creatures provoke an opportunity attack from you when they move 5 feet or more while within your reach, and if you hit a creature with an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
+
+#### Shared Resilience (Level 15)
+
+You can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked prone. You can use this feature only once on each of your turns.
+
+#### Inspiring Commander (Level 18)
+
+You respond to danger with extraordinary vigilance. In combat, you get a special reaction that you can take once on every creature's turn, except your turn. You can use this special reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
+
+### Echo Knight
+*From Explorer's Guide to Wildemount*
+
+As mysterious and feared frontline warrior, the Echo Knight has mastered the art of using dunamis to summon the fading shades of unrealized timelines to aid them in battle. Surrounded by echoes of their own might, they charge into the fray as a cycling swarm of shadows and strikes.
+
+#### Manifest Echo (Level 3)
+
+You can use a bonus action to magically manifest an echo of yourself in an unoccupied space you can see within 15 feet of you. This echo is a magical, translucent, gray image of you that lasts until it is destroyed, until you dismiss it as a bonus action, until you manifest another echo, or until you're incapacitated.
+
+Your echo has AC 14 + your proficiency bonus, 1 hit point, and immunity to all conditions. If it has to make a saving throw, it uses your saving throw bonus for the roll. It is the same size as you, and it occupies its space. On your turn, you can mentally command the echo to move up to 30 feet in any direction (no action required). If your echo is ever more than 30 feet from you at the end of your turn, it is destroyed.
+
+You can use the echo in the following ways:
+
+- As a bonus action, you can teleport, magically swapping places with your echo at a cost of 15 feet of your movement, regardless of the distance between the two of you.
+
+- When you take the Attack action on your turn, any attack you make with that action can originate from your space or the echo's space. You make this choice for each attack.
+
+- When a creature that you can see within 5 feet of your echo moves at least 5 feet away from it, you can use your reaction to make an opportunity attack against that creature as if you were in the echo's space.
+
+#### Unleash Incarnation (Level 3)
+
+You can heighten your echo's fury. Whenever you take the Attack action, you can make one additional melee attack from the echo's position.
+
+You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+#### Echo Avatar (Level 7)
+
+You can temporarily transfer your consciousness to your echo. As an action, you can see through your echo's eyes and hear through its ears. During this time, you are deafened and blinded. You can sustain this effect for up to 10 minutes, and you can end it at any time (requires no action). While your echo is being used in this way, it can be up to 1,000 feet away from you without being destroyed.
+
+#### Shadow Martyr (Level 10)
+
+You can make your echo throw itself in front of an attack directed at another creature that you can see. Before the attack roll is made, you can use your reaction to teleport the echo to an unoccupied space within 5 feet of the targeted creature. The attack roll that triggered the reaction is instead made against your echo.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Reclaim Potential (Level 15)
+
+You've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of temporary hit points equal to 2d6 + your Constitution modifier, provided you don't already have temporary hit points.
+
+You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+#### Legion Of One (Level 18)
+
+You can use a bonus action to create two echoes with your Manifest Echo feature, and these echoes can coexist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
+
+In addition, when you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.

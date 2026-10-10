@@ -316,7 +316,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 A Cleric subclass is a specialization that grants you features at certain levels, as specified in the subclass.
 
 ### Life Domain
-*Soothe the Hurts of the World*
+*Soothe the Hurts of the World, From PHB2024*
 
 The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.
 
@@ -352,7 +352,7 @@ The healing spells you cast on others heal you as well. Immediately after you ca
 When you would normally roll one or more dice to restore Hit Points to a creature with a spell or [[Cleric#Channel Divinity (Level 2)|Channel Divinity]], don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring 2d6 Hit Points to a creature with a spell, you restore 12.
 
 ### Light Domain
-*Bring Light to Banish Darkness*
+*Bring Light to Banish Darkness, From PHB2024*
 
 The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.
 
@@ -394,7 +394,7 @@ As a Magic action, you cause yourself to emit an aura of sunlight that lasts for
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ### Trickery Domain
-*Make Mischief and Challenge Authority*
+*Make Mischief and Challenge Authority, From PHB2024*
 
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.
 
@@ -437,7 +437,7 @@ The illusion of your [[Cleric#Invoke Duplicity (Level 3)|Invoke Duplicity]] has 
 **Healing Illusion**. When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of Hit Points equal to your Cleric level.
 
 ### War Domain
-*Inspire Valor and Smite Foes*
+*Inspire Valor and Smite Foes, From PHB2024*
 
 War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers. 
 
@@ -473,6 +473,7 @@ You can expend a use of your [[Cleric#Channel Divinity (Level 2)|Channel Divinit
 You gain Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ### Forge Domain
+*From Xanathar's Guide to Everything*
 
 The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object.
 
@@ -532,16 +533,21 @@ Your blessed affinity with fire and metal becomes more powerful:
 - While wearing heavy armor, you have resistance to Bludgeoning, Piercing, and Slashing damage from non magical attacks.
 
 ### Grave Domain
+*Embody Deific Forces of Death, From Ravenloft: The Horrors Within*
 
-Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination.
+The Grave Domain concerns itself with the boundary between life and death. To those who tap into this domain's power, death is a natural and inevitable part of the multiverse. Such Clerics seek to destroy undead and shepherd spirits.
 
-Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
+The magic of this domain also allows these Clerics to stave off death for a time. But this is merely a delay of death, not a denial of it, for the grave will always claim its due.
 
 #### Circle of Mortality (Level 3)
 
-You gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
+You can manipulate the balance between life and death, granting you the following benefits.
 
-In addition, you learn the [[Spare the Dying]] cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action. 
+**Pull of Death.** Once per turn, when you deal damage to a creature that's missing any Hit Points by casting a spell or by hitting with an attack roll, that creature takes an extra 1d4 Necrotic damage. This extra damage increases to 1d6 when you reach Cleric level 11.
+
+**Return to Life.** You can cast Spare the Dying as a Bonus Action.
+
+Additionally, when you would normally roll one or more dice to restore Hit Points to a creature at 0 Hit Points with a spell or Channel Divinity, don't roll those dice for the healing; instead, use the highest number possible for each die. For example, instead of restoring 2d4 Hit Points to a creature at 0 Hit Points with a spell, you restore 8. 
 
 #### Grave Domain Spells (Level 3)
 
@@ -549,38 +555,40 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 ##### Table - Forge Domain Spells
 
-| Cleric Level | Prepared Spells                                                       |
-| ------------ | --------------------------------------------------------------------- |
-| 3rd          | [[Bane]], [[False Life]], [[Gentle Repose]], [[Ray of Enfeeblement]]  |
-| 5th          | [[Revivify]], [[Vampiric Touch]]                                      |
-| 7th          | [[Blight]], [[Death Ward]]                                            |
-| 9th          | [[Antilife Shell]], [[Raise Dead]] (*Does Not Exist in Cynarythaeon*) |
-
+| Cleric Level | Prepared Spells                                                                                                     |
+| ------------ | ------------------------------------------------------------------------------------------------------------------- |
+| 3rd          | [[Bane]], [[False Life]], [[Gentle Repose]], [[Ray of Enfeeblement]], [[Spare the Dying]], [[Detect Evil and Good]] |
+| 5th          | [[Revivify]], [[Vampiric Touch]]                                                                                    |
+| 7th          | [[Blight]], [[Death Ward]]                                                                                          |
+| 9th          | [[Dispel Evil and Good]], [[Antilife Shell]], [[Raise Dead]] (*Does Not Exist in Cynarythaeon*)                     |
 #### Eyes of the Grave (Level 3)
 
 You gain the ability to occasionally sense the presence of the undead, whose existence is an insult to the natural cycle of life. As an action, you can open your awareness to magically detect undead. Until the end of your next turn, you know the location of any undead within 60 feet of you that isn't behind total cover and that isn't protected from divination magic. This sense doesn't tell you anything about a creature's capabilities or identity.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
 
-#### Channel Divinity: Path to the Grave (Level 3)
+#### Path To The Grave (Level 3)
 
-You can use your [[Cleric#Channel Divinity (Level 2)|Channel Divinity]] to mark another creature's life force for termination.
+As a Bonus Action, you present your Holy Symbol and expend a use of Channel Divinity to curse one creature you can see within 30 feet of yourself until the start of your next turn. While cursed, the creature has Disadvantage on attack rolls and saving throws.
 
-##### Channel Divinity - Path to the Grave
-
-As a Bonus action, you choose one creature you can see within 30 feet of you, cursing it until the end of your next turn. The next time you or an ally of yours hits the cursed creature with an attack, the creature has vulnerability to all of that attack's damage, and then the curse ends.
+When you or an ally you can see hits the cursed target with an attack roll, you can end the curse early (no action required) to make the attack deal extra Necrotic or Radiant damage (your choice) equal to your Cleric level.
 
 #### Sentinel at Death's Door (Level 6)
 
-You gain the ability to impede death's progress. As a reaction when you or a creature you can see within 30 feet of you suffers a [[Critical Hits|critical hit]], you can turn that hit into a normal hit. Any effects triggered by a [[Critical Hits|critical hit]] are canceled.
+When you or a Bloodied creature you can see within 60 feet of yourself is hit with an attack roll, you can take a Reaction to halve that attack's damage (round down). If the triggering attack roll was a Critical Hit, any effects triggered by a Critical Hit are canceled.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a Long Rest.
 
-#### Keeper of Souls (Level 17)
+#### Divine Reaper (Level 17)
 
-You can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [[Conditions#Incapacitated|Incapacitated]]. Once you use it, you can't do so again until the start of your next turn.
+Your deep connection to this domain renders you a hallowed harbinger of death, granting you the following benefits.
+
+**Enhanced Necromancy.** When you cast a spell of level 5 or lower from the Necromancy school that targets one creature, or when you cast a spell from the Grave Domain Spells table, you can expend a use of Channel Divinity to target a second creature within the spell's range. If the spell requires costly or consumed Material components, you must provide Material components for each target.
+
+**Keeper of Souls.** When an enemy dies within 60 feet of you, you or one creature you can see within 60 feet of yourself regains Hit Points equal to twice your Cleric level. You can't use this feature if you have the Incapacitated condition. Once you use this feature, you can't use it again until you finish a Short or Long Rest, unless you expend a level 6+ spell slot (no action required) to restore your use of it.
 
 ### Order Domain
+*From Tasha's Cauldron of Everything*
 
 The Order Domain represents discipline, as well as devotion to the laws that govern a society, an institution, or a philosophy. Clerics of Order meditate on logic and justice as they serve their gods, examples of which appear in the Order Deities table.
 
@@ -634,6 +642,7 @@ You gain the ability to infuse your [[Cleric#Blessed Strikes (Level 7)|Blessed S
 Enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your [[Cleric#Blessed Strikes (Level 7)|Blessed Strikes]] damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes 2d8 psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
 
 ### Peace Domain
+*From Tasha's Cauldron of Everything*
 
 The balm of peace thrives at the heart of healthy communities, between friendly nations, and in the souls of the kindhearted. The gods of peace inspire people of all sorts to resolve conflict and to stand up against those forces that try to prevent peace from flourishing.
 
@@ -679,6 +688,7 @@ The bond you forge between people helps them protect each other. When a creature
 The benefits of your [[Cleric#Emboldening Bond (Level 3)|Emboldening Bond]] and [[Cleric#Protective Bond (Level 6)|Protective Bond]] features now work when the creatures are within 60 feet of each other. Moreover, when a creature uses [[Cleric#Protective Bond (Level 6)|Protective Bond]] to take someone else's damage, the creature has resistance to that damage.
 
 ### Twilight Domain
+*From Tasha's Cauldron of Everything*
 
 The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.
 

@@ -368,7 +368,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 A Druid subclass is a specialization that grants you features at certain levels, as specified in the subclass.
 
 ### Circle of the Land
-*Celebrate Connection to the Natural World*
+*Celebrate Connection to the Natural World, From PHB2024*
 
 The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.
 
@@ -440,7 +440,7 @@ As a Magic action, you can expend a use of your [[Druid#Wild Shape (Level 2)|Wil
 As a Bonus Action, you can move the Cube up to 60 feet to ground within 120 feet of yourself.
 
 ### Circle of the Moon
-*Adopt Animal Forms to Guard the Wilds*
+*Adopt Animal Forms to Guard the Wilds, From PHB2024*
 
 Druids of the Circle of the Moon draw on luna r magic to transform themselves. Their order gathers under the moon to share news and perform rituals.
 
@@ -489,7 +489,7 @@ The power of the moon suffuses you, granting you the following benefits.
 **Shared Moonlight**. Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space.
 
 ### Circle of the Sea
-*Become One with Tides and Storms*
+*Become One with Tides and Storms, From PHB2024*
 
 Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.
 
@@ -529,7 +529,7 @@ Instead of manifesting the Emanation of [[Druid#Wrath of the Sea (Level 3)|Wrath
 In addition, you can manifest the Emanation around both the other creature and yourself if you expend two uses of your [[Druid#Wild Shape (Level 2)|Wild Shape]] instead of one when manifesting it.
 
 ### Circle of the Stars
-*Harness Secrets Hidden in Constellations*
+*Harness Secrets Hidden in Constellations, From PHB2024*
 
 The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.
 
@@ -586,6 +586,7 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 While in your Starry Form, you become partially incorporeal, giving you Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ### Circle of Spores
+*From Tasha's Cauldron of Everything*
 
 Druids of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life. These druids believe that life and death are parts of a grand cycle, with one leading to the other and then back again. Death isn't the end of life, but instead a change of state that sees life shift into a new form.
 
@@ -635,6 +636,7 @@ While the cube of spores persists, you can't use your [[Druid#Halo of Spores (Le
 The fungal spores in your body alter you: you can't be [[Conditions#Blinded|Blinded]], [[Conditions#Deafened|Deafened]], [[Conditions#Frightened|Frightened]], or [[Conditions#Poisoned|Poisoned]], and any [[Critical Hits|critical hit]] against you counts as a normal hit instead, unless you're [[Conditions#Incapacitated|Incapacitated]].
 
 ### Circle of Wildfire
+*From Tasha's Cauldron of Everything*
 
 Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.
 
@@ -681,6 +683,7 @@ The bond with your [[Druid#Summon Wildfire Spirit (Level 3)|wildfire spirit]] ca
 Once you use this feature, you can't use it again until you finish a long rest.
 
 ### Circle of Dreams
+*From Xanathar's Guide to Everything*
 
 Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
 
