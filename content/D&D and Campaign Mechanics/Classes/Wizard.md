@@ -636,23 +636,29 @@ Followers of this tradition are known as war mages. They see their magic as both
 
 In great battles, a war mage often works with evokers, abjurers, and other types of wizards. Evokers, in particular, sometimes tease war mages for splitting their attention between offense and defense. A war mage's typical response: "What good is being able to throw a mighty [[Fireball]] if I die before I can cast it?"
 
-#### Arcane Deflection (Level 3)
+#### Arcane Deflection (Level 3) - Rebalanced
 
 You have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw.
 
-When you use this feature, you can't cast spells other than cantrips until the end of your next turn.
+When you use this feature, you can't cast spells other than cantrips until the end of your next turn, unless you spend a spell slot of levels 1+.
 
 #### Tactical Wit (Level 3)
 
 Your keen ability to assess tactical situations allows you to act quickly in battle. You can give yourself a bonus to your initiative rolls equal to your Intelligence modifier.
 
-#### Power Surge (Level 6)
+#### Power Surge (Level 6) - Rebalanced
 
-You can store magical energy within yourself to later empower your damaging spells. In its stored form, this energy is called a power surge.
+You can store magical energy within yourself to later empower your damaging spells. In its stored form, this energy is called a Power Surge.
 
-You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with [[Dispel Magic]] or [[Counterspell]], you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge.
+You can store a maximum number of Power Surges equal to your Intelligence modifier (minimum of one). You regain all expended Power Surges when you finish a long res, and one surge when you finish a short rest.
 
-Once per turn when you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal extra force damage to that target. The extra damage equals half your wizard level.
+Whenever you successfully end a spell with [[Dispel Magic]] or [[Counterspell]], you gain one power surge, as you steal magic from the spell you foiled. 
+
+You can spend a power surge to utilize one of the following effects:
+
+**Explosive Surge.** When you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal extra force damage to that target equal to your Wizard level + your Intelligence modifier.
+
+**Disruptive Surge.** When you cast a spell that forces a creature to make a saving throw, you can expend one Power Surge to force one target of that spell to make the save with disadvantage.
 
 #### Durable Magic (Level 10)
 
