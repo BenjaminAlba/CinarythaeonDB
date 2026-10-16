@@ -290,9 +290,11 @@ Whenever you deal damage with a Ranged weapon, you can expend either one or two 
 
 You are a living siege engine, a titan of muscle, brandishing weapons most men are incapable of lifting. Armed with these devastating firearms, you wade into the field of battle, bombarding and destroying those foolish enough to approach you.
 
-#### Heavy Gunner (Level 3)
+#### Heavy Gunner (Level 3) - Rebalanced
 
 You can use Strength, rather than Dexterity, for attack and damage rolls using heavy ranged weapons, and you can use your Strength, instead of your Dexterity, when calculating your Maneuver save DC.
+
+You gain proficiency with medium and heavy armor.
 
 #### Tough as Nails (Level 3)
 

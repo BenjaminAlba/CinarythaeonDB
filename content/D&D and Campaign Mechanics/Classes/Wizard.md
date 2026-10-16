@@ -173,9 +173,9 @@ Bladesingers master a tradition of wizardry that incorporates swordplay and danc
 
 Bladesinging is associated with the ancient elven societies that first mastered the art and coined the term. Even today, most Bladesingers still hail from old elven realms. Wherever they hail from, Bladesingers take their talents all across the Realms to help common people and perform heroic deeds. Most communities greet the arrival of a Bladesinger as a good omen.
 
-#### Bladesong (Level 3)
+#### Bladesong (Level 3) - Rebalanced
 
-As a Bonus Action, you invoke an elven magic called the Bladesong, provided you aren't wearing armor or using a Shield.
+As a Bonus Action, you invoke an elven magic called the Bladesong, provided you aren't using a Shield.
 
 The Bladesong lasts for 1 minute and ends early if you have the Incapacitated condition, if you don armor or a Shield, or if you use two hands to make an attack with a weapon. You can dismiss the Bladesong at any time (no action required).
 
@@ -189,7 +189,9 @@ While the Bladesong is active, you gain the following benefits. You can invoke t
 
 #### Training in War and Song (Level 3)
 
-You gain proficiency with all Melee Martial weapons that don't have the Two-Handed or Heavy property. You can use a Melee weapon with which you have proficiency as a Spellcasting Focus for your Wizard spells.
+You gain proficiency with all Melee Martial weapons that don't have the Two-Handed or Heavy property and proficiency with light armor. 
+
+You can use a Melee weapon with which you have proficiency as a Spellcasting Focus for your Wizard spells.
 
 You also gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Performance, or Persuasion.
 
