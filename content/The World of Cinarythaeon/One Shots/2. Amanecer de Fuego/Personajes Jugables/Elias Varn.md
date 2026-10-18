@@ -1,7 +1,5 @@
 # Elias Varn
 
-![[Pasted image 20260328163055.png]]
-
 ## Personalidad
 
 Elias es un hombre que sabe mantener la calma en los momentos que importan, es muy observador y se destaca por su sentido del deber. Desde joven tenía la cabeza bien puesta entre los hombros. Es bueno para inspirar a los demás e infundir su pasión por las cosas.
@@ -37,3 +35,5 @@ Está perdidamente enamorado de Mary Mercer, la hermana mayor de Cole desde que 
 Leonora - secretaria de la comisaría
 
 Mathias - El rival de la comisaría
+
+Audrey Varn - La madre
