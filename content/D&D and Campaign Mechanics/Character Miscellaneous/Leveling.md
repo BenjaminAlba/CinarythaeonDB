@@ -9,30 +9,29 @@ Each time you gain a level, you gain 1 additional Hit Die. Roll that Hit Die, ad
 When your Constitution modifier increases by 1, your hit point maximum increases by 1 for each level you have attained. For example, if your 7th-­‐‑level fighter has a Constitution score of 17, when he reaches 8th level, he increases his Constitution score from 17 to 18, thus increasing his Constitution modifier from +3 to +4. His hit point maximum then increases by 8.
 
 The Character Advancement table summarizes the XP you need to advance in levels from level 1 through level 20, and the proficiency bonus for a character of that level. Consult the information in your character’s class description to see what other improvements you gain at each level.
-
 ## Table - Character Advancement
 
-Experience required to level up:
+The Character Advancement table lists the XP you need to advance to a level and the Proficiency Bonus for a character of that level. When your XP total equals or exceeds a number in the Experience Points column, you reach the corresponding level.
 
-| Experience Points Required | Level | Prof. Bonus |
-| :------------------------- | ----- | ----------- |
-| 0                          | 1     | +2          |
-| 300                        | 2     | +2          |
-| 900                        | 3     | +2          |
-| 2,700                      | 4     | +2          |
-| 6,500                      | 5     | +3          |
-| 14,000                     | 6     | +3          |
-| 23,000                     | 7     | +3          |
-| 34,000                     | 8     | +3          |
-| 48,000                     | 9     | +4          |
-| 64,000                     | 10    | +4          |
-| 85,000                     | 11    | +4          |
-| 100,000                    | 12    | +4          |
-| 120,000                    | 13    | +5          |
-| 140,000                    | 14    | +5          |
-| 165,000                    | 15    | +5          |
-| 195,000                    | 16    | +5          |
-| 225,000                    | 17    | +6          |
-| 265,000                    | 18    | +6          |
-| 305,000                    | 19    | +6          |
-| 355,000                    | 20    | +6          |
+| Level | Experience Points | Proficiency Bonus |
+| ----- | ----------------- | ----------------- |
+| 1     | 0                 | +2                |
+| 2     | 300               | +2                |
+| 3     | 900               | +2                |
+| 4     | 2,700             | +2                |
+| 5     | 6,500             | +3                |
+| 6     | 14,000            | +3                |
+| 7     | 23,000            | +3                |
+| 8     | 34,000            | +3                |
+| 9     | 48,000            | +4                |
+| 10    | 64,000            | +4                |
+| 11    | 85,000            | +4                |
+| 12    | 100,000           | +4                |
+| 13    | 120,000           | +5                |
+| 14    | 140,000           | +5                |
+| 15    | 165,000           | +5                |
+| 16    | 195,000           | +5                |
+| 17    | 225,000           | +6                |
+| 18    | 265,000           | +6                |
+| 19    | 305,000           | +6                |
+| 20    | 355,000           | +6                |

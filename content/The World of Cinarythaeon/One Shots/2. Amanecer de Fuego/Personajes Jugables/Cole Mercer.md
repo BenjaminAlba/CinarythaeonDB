@@ -1,7 +1,4 @@
 # Cole Mercer
-
-![[Pasted image 20260328162451.png]]
-
 ## ## Personalidad
 
 Cole siempre fue distinto a sus contemporáneos. Mientras que otros entrenaban con el uso de armas, el estudiaba los patrones del mundo, sus símbolos, su lenguaje, y aquello que no está a simple vista.
