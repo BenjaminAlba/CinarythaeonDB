@@ -619,7 +619,7 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 
 #### Fungal Infestation (Level 6)
 
-Your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [[D&D and Campaign Mechanics/New Monsters & Creatures/Zombie|Zombie stat block]] in the Monster Manual. It remains animate for 1 hour, after which time it collapses and dies.
+Your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [[Zombie|Zombie stat block]] in the Monster Manual. It remains animate for 1 hour, after which time it collapses and dies.
 
 In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
