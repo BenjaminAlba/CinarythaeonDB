@@ -277,7 +277,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 - [[Forbiddance]]
 - [[Harm]]
 - [[Heal]]
-- [[Heroes' Feast]]
+- [[Heroes Feast|Heroes' Feast]]
 - [[Planar Ally]]
 - [[Sunbeam]]
 - [[True Seeing]]
@@ -456,7 +456,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | Cleric Level | Prepared Spells                                                               |
 | ------------ | ----------------------------------------------------------------------------- |
 | 3rd          | [[Guiding Bolt]], [[Magic Weapon]], [[Shield of Faith]], [[Spiritual Weapon]] |
-| 5th          | [[Crusader's Mantle]], [[Spirit Guardians]]                                   |
+| 5th          | [[Crusaders Mantle|Crusader's Mantle]], [[Spirit Guardians]]                                   |
 | 7th          | [[Fire Shield]], [[Freedom of Movement]]                                      |
 | 9th          | [[Hold Monster]], [[Steel Wind Strike]]                                       |
 
@@ -707,7 +707,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | Cleric Level | Prepared Spells                                                |
 | ------------ | -------------------------------------------------------------- |
 | 3rd          | [[Faerie Fire]], [[Sleep]], [[Moonbeam]], [[See Invisibility]] |
-| 5th          | [[Aura of Vitality]], [[Leomund's Tiny Hut]]                   |
+| 5th          | [[Aura of Vitality]], [[Leomunds Tiny Hut|Leomund's Tiny Hut]]                   |
 | 7th          | [[Aura of Life]], [[Greater Invisibility]]                     |
 | 9th          | [[Circle of Power]], [[Mislead]]                               |
 

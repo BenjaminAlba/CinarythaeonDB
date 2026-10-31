@@ -267,7 +267,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 - [[Darkness]]
 - [[Darkvision]]
 - [[Detect Thoughts]]
-- [[Dragon's Breath]]
+- [[Dragons Breath|Dragon's Breath]]
 - [[Enhance Ability]]
 - [[Enlarge-Reduce]]
 - [[Flame Blade]]
@@ -332,7 +332,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 #### 5th Level
 
 - [[Animate Objects]]
-- [[Bigby's Hand]]
+- [[Bigbys Hand|Bigby's Hand]]
 - [[Cloudkill]]
 - [[Cone of Cold]]
 - [[Creation]]
@@ -356,7 +356,7 @@ This section presents the Sorcerer spell list. The spells are organized by spell
 - [[Globe of Invulnerability]]
 - [[Mass Suggestion]]
 - [[Move Earth]]
-- [[Otiluke's Freezing Sphere]]
+- [[Otilukes Freezing Sphere|Otiluke's Freezing Sphere]]
 - [[Sunbeam]]
 - [[True Seeing]]
 
@@ -408,7 +408,7 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 | Sorcerer Level | Prepared Spells                                                                                    |
 | -------------- | -------------------------------------------------------------------------------------------------- |
 | 3rd            | [[Arms of Hadar]], [[Calm Emotions]], [[Detect Thoughts]], [[Dissonant Whispers]], [[Mind Sliver]] |
-| 5th            | [[Aura of Vitality]], [[Leomund's Tiny Hut]]                                                       |
+| 5th            | [[Aura of Vitality]], [[Leomunds Tiny Hut|Leomund's Tiny Hut]]                                                       |
 | 7th            | [[Aura of Life]], [[Greater Invisibility]]                                                         |
 | 9th            | [[Circle of Power]], [[Mislead]]                                                                   |
 #### Telepathic Speech (Level 3)

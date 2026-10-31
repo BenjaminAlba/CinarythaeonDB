@@ -97,7 +97,7 @@ If another Ranger feature gives you spells that you always have prepared, those 
 
 ### Favored Enemy (Level 1)
 
-You always have the [[Hunter's Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+You always have the [[Hunters Mark|Hunter's Mark]] spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
 
 The number of times you can cast the spell with out a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the [[Ranger#Class Features Table - Ranger Features|Ranger Features table]].
 
@@ -153,7 +153,7 @@ Primal forces now help fuel you on your journeys, granting you the following ben
 
 ### Relentless Hunter (Level 13)
 
-Taking damage can't break your Concentration on [[Hunter's Mark]].
+Taking damage can't break your Concentration on [[Hunters Mark|Hunter's Mark]].
 
 ### Nature's Veil (Level 14)
 
@@ -163,7 +163,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Precise Hunter (Level 17)
 
-You have Advantage on attack rolls against the creature currently marked by your [[Hunter's Mark]].
+You have Advantage on attack rolls against the creature currently marked by your [[Hunters Mark|Hunter's Mark]].
 
 ### Feral Senses (Level 18)
 
@@ -175,7 +175,7 @@ You gain an [[Feats#Epic Boon Feats|Epic Boon feat]] or an other feat of your ch
 
 ### Foe Slayer (Level 20)
 
-The damage die of your [[Hunter's Mark]] is a d10 rather than a d6.
+The damage die of your [[Hunters Mark|Hunter's Mark]] is a d10 rather than a d6.
 
 ## Ranger Spell List
 
@@ -192,7 +192,7 @@ This section presents the Ranger spell list. The spells are organized by spell l
 - [[Fog Cloud]]
 - [[Goodberry]]
 - [[Hail of Thorns]]
-- [[Hunter's Mark]]
+- [[Hunters Mark|Hunter's Mark]]
 - [[Jump]]
 - [[Longstrider]]
 - [[Speak with Animals]]
@@ -286,7 +286,7 @@ In addition, whenever it hits with an attack roll and deals damage, it can deal 
 
 When you command your Primal Companion beast to take the Beast's Strike action, the beast can use it twice.
 
-In addition, the first time each turn it hits a creature under the effect of your [[Hunter's Mark]] spell, the beast deals extra Force damage equal to the bonus damage of that spell.
+In addition, the first time each turn it hits a creature under the effect of your [[Hunters Mark|Hunter's Mark]] spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 
 #### Share Spells (Level 15)
 
@@ -408,7 +408,7 @@ You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to p
 
 #### Hunter's Lore (Level 3)
 
-You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your [[Hunter's Mark]], you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
+You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your [[Hunters Mark|Hunter's Mark]], you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.
 
 #### Hunter's Prey (Level 3)
 
@@ -428,7 +428,7 @@ You gain one of the following feature options of your choice. Whenever you finis
 
 #### Superior Hunter's Prey (Level 11)
 
-Once per turn when you deal damage to a creature marked by your [[Hunter's Mark]], you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
+Once per turn when you deal damage to a creature marked by your [[Hunters Mark|Hunter's Mark]], you can also deal that spell's extra damage to a different creature that you can see within 30 feet of the first creature.
 
 #### Superior Hunter's Defense (Level 15)
 

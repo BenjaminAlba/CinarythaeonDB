@@ -224,7 +224,7 @@ This section presents the Paladin spell list. The spells are organized by spell 
 - [[Aura of Vitality]]
 - [[Blinding Smite]]
 - [[Create Food and Water]]
-- [[Crusader's Mantle]]
+- [[Crusaders Mantle|Crusader's Mantle]]
 - [[Daylight]]
 - [[Dispel Magic]]
 - [[Elemental Weapon]]
@@ -335,7 +335,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 |       5       | [[Enhance Ability]], [[Magic Weapon]]         |
 |       9       | [[Haste]], [[Protection from Energy]]         |
 |      13       | [[Compulsion]], [[Freedom of Movement]]       |
-|      17       | [[Legend Lore]], [[Yolande's Regal Presence]] |
+|      17       | [[Legend Lore]], [[Yolandes Regal Presence|Yolande's Regal Presence]] |
 #### Peerless Athlete (Level 3)
 
 As a Bonus Action, you can expend one use of your [[Paladin#Channel Divinity (Level 3)|Channel Divinity]] to augment your athleticism. For 1 hour, you have Advantage on [[Abilities#Athletics|Athletics]] and [[Abilities#Acrobatics|Acrobatics]] checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
@@ -433,7 +433,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Prepared Spells                       |
 | :-----------: | ------------------------------------- |
-|       3       | [[Bane]], [[Hunter's Mark]]           |
+|       3       | [[Bane]], [[Hunters Mark|Hunter's Mark]]           |
 |       5       | [[Hold Person]], [[Misty Step]]       |
 |       9       | [[Haste]], [[Protection from Energy]] |
 |      13       | [[Banishment]], [[Dimension Door]]    |

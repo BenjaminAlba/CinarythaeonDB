@@ -329,7 +329,7 @@ This section presents the Druid spell list. The spells are organized by spell le
 - [[Find the Path]]
 - [[Flesh to Stone]]
 - [[Heal]]
-- [[Heroes' Feast]]
+- [[Heroes Feast|Heroes' Feast]]
 - [[Move Earth]]
 - [[Sunbeam]]
 - [[Transport via Plants]]
