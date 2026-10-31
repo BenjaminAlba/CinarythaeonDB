@@ -17,7 +17,7 @@
 | [[Warlock Spell List\|Warlock]] | 196 |
 | [[Wizard Spell List\|Wizard]] | 420 |
 
-## Cantrips (70)
+## Cantrips (69)
 
 | Spell                       | Classes                                            | Notes        |
 | --------------------------- | -------------------------------------------------- | ------------ |
@@ -62,7 +62,6 @@
 | [[Mind Sliver]]             | Sorcerer, Warlock, Wizard                          | —            |
 | [[Minor Illusion]]          | Bard, Sorcerer, Warlock, Wizard                    | —            |
 | [[Mold Earth]]              | Druid, Sorcerer, Wizard                            | —            |
-| [[Moment to Think]]         | Cleric, Sorcerer, Wizard                           | **Unlisted** |
 | [[Obscuring Prick]]         | Sorcerer, Warlock, Wizard                          | —            |
 | [[Overexposure]]            | Bard, Cleric, Sorcerer, Wizard                     | —            |
 | [[Phantasmal Feint]]        | Bard, Magus, Sorcerer, Warlock, Wizard             | —            |
