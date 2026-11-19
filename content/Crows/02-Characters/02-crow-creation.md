@@ -30,44 +30,44 @@ Make an NPC connection who lives in your village. If this is your group’s firs
 
 **Backgrounds**
 
-| d6 | d6 | Background |
-| --- | --- | --- |
-| 1 | 1 | Acolyte of the Gardner |
-| 1 | 2 | Acolyte of the Healer |
-| 1 | 3 | Acolyte of the Smith |
-| 1 | 4 | Acolyte of the Three |
-| 1 | 5 | Acolyte of the Warrior |
-| 1 | 6 | Alchemist |
-| 2 | 1 | Apprentice Mage |
-| 2 | 2 | Archer |
-| 2 | 3 | Assassin |
-| 2 | 4 | Beggar |
-| 2 | 5 | Blacksmith |
-| 2 | 6 | Bodyguard |
-| 3 | 1 | Cartographer |
-| 3 | 2 | Conjurer |
-| 3 | 3 | Cook |
-| 3 | 4 | Duelist |
-| 3 | 5 | Entertainer |
-| 3 | 6 | Executioner |
-| 4 | 1 | Farmer |
-| 4 | 2 | Gladiator |
-| 4 | 3 | Hunter |
-| 4 | 4 | Hydromancer |
-| 4 | 5 | Illusionist |
-| 4 | 6 | Keraunomancer |
-| 5 | 1 | Knight |
-| 5 | 2 | Merchant |
-| 5 | 3 | Miner |
-| 5 | 4 | Noble |
-| 5 | 5 | Pugilist |
-| 5 | 6 | Pyromancer |
-| 6 | 1 | Sage |
-| 6 | 2 | Soldier |
-| 6 | 3 | Thief |
-| 6 | 4 | Tinkerer |
-| 6 | 5 | Transmuter |
-| 6 | 6 | Village Watch |
+| d6  | d6  | Background             |
+| --- | --- | ---------------------- |
+| 1   | 1   | Acolyte of the Gardner |
+| 1   | 2   | Acolyte of the Healer  |
+| 1   | 3   | Acolyte of the Smith   |
+| 1   | 4   | Acolyte of the Three   |
+| 1   | 5   | Acolyte of the Warrior |
+| 1   | 6   | Alchemist              |
+| 2   | 1   | Apprentice Mage        |
+| 2   | 2   | Archer                 |
+| 2   | 3   | Assassin               |
+| 2   | 4   | Beggar                 |
+| 2   | 5   | Blacksmith             |
+| 2   | 6   | Bodyguard              |
+| 3   | 1   | Cartographer           |
+| 3   | 2   | Conjurer               |
+| 3   | 3   | Cook                   |
+| 3   | 4   | Duelist                |
+| 3   | 5   | Entertainer            |
+| 3   | 6   | Executioner            |
+| 4   | 1   | Farmer                 |
+| 4   | 2   | Gladiator              |
+| 4   | 3   | Hunter                 |
+| 4   | 4   | Hydromancer            |
+| 4   | 5   | Illusionist            |
+| 4   | 6   | Keraunomancer          |
+| 5   | 1   | Knight                 |
+| 5   | 2   | Merchant               |
+| 5   | 3   | Miner                  |
+| 5   | 4   | Noble                  |
+| 5   | 5   | Pugilist               |
+| 5   | 6   | Pyromancer             |
+| 6   | 1   | Sage                   |
+| 6   | 2   | Soldier                |
+| 6   | 3   | Thief                  |
+| 6   | 4   | Tinkerer               |
+| 6   | 5   | Transmuter             |
+| 6   | 6   | Village Watch          |
 
 ---
 

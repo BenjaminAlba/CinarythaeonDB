@@ -1,4 +1,4 @@
-#### Knock
+ #### Knock
 *Level 2 Transmutation*
 ___
 - **Resonances:** [[Oboromancia]], [[Syderynthos]]

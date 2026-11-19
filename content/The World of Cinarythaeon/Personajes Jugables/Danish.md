@@ -189,7 +189,8 @@ Recibes los siguientes efectos (Adicionales a los de **Primera Apertura**):
 
 Los efectos de esta habilidad permanecen activos hasta que utilices **Devorar la Oscuridad**.
 
-Recibes los siguientes efectos (Adicionales a los de **Primera Apertura** y **Segunda Apertura**):
+Recibes los siguientes efectos (Adicionales a los de **Primera Apertura** y **Segunda Apertura**
+
 - No puedes recuperar HP por ningún medio.
 - Todas las criaturas obtienen ventaja en tiradas de ataque contra ti.
 

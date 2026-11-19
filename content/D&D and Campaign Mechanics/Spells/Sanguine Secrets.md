@@ -1,7 +1,7 @@
 #### Sanguine Secrets
 *Level 2 Divination*
 ___
-- **Resonances:** [[Atraphothoromancia]], [[Mnelyxphora]]
+- **Resonances:** [[Mnelyxphora]]
 - **Casting Time:** Bonus Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a drop of blood, which the spell consumes)

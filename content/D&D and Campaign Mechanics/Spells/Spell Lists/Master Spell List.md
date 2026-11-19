@@ -187,109 +187,109 @@
 
 ## Level 2 (101)
 
-| Spell | Classes |
-| --- | --- |
-| [[Aganazzars Scorcher|Aganazzar's Scorcher]] | Sorcerer, Wizard |
-| [[Aid]] | Artificer, Bard, Cleric, Druid, Paladin, Ranger |
-| [[Alter Self]] | Artificer, Sorcerer, Wizard |
-| [[Animal Messenger]] | Bard, Druid, Ranger |
-| [[Animate Shield]] | Magus |
-| [[Animate Weapon\|Animate Weapon (Rebalanced)]] | Magus |
-| [[Arcane Invigoration]] | Magus |
-| [[Arcane Lock]] | Artificer, Wizard |
-| [[Arcane Vigor]] | Artificer, Sorcerer, Wizard |
-| [[Augury]] | Cleric, Druid, Wizard |
-| [[Barkskin]] | Druid, Ranger |
-| [[Battle Familiar]] | Druid, Warlock, Wizard |
-| [[Beast Sense]] | Druid, Ranger |
-| [[Blindness-Deafness\|Blindness/Deafness]] | Bard, Cleric, Sorcerer, Wizard |
-| [[Blood Sacrifice]] | Sorcerer, Warlock, Wizard |
-| [[Blunder]] | Bard, Wizard |
-| [[Blur]] | Artificer, Magus, Sorcerer, Wizard |
-| [[Branding Smite]] | Paladin |
-| [[Calm Emotions]] | Bard, Cleric |
-| [[Carrionette]] | Warlock |
-| [[Chain of Conviction]] | Paladin, Warlock |
-| [[Chorus of the Lost]] | Bard, Cleric, Sorcerer, Warlock, Wizard |
-| [[Cloud of Daggers]] | Bard, Sorcerer, Warlock, Wizard |
-| [[Continual Flame]] | Artificer, Cleric, Druid, Wizard |
-| [[Cordon of Arrows]] | Ranger |
-| [[Crown of Madness]] | Bard, Sorcerer, Warlock, Wizard |
-| [[Darkness]] | Sorcerer, Warlock, Wizard |
-| [[Darkvision]] | Artificer, Druid, Ranger, Sorcerer, Wizard |
-| [[Death Armor]] | Sorcerer, Wizard |
-| [[Deryans Helpful Homunculi|Deryan's Helpful Homunculi]] | Cleric, Wizard |
-| [[Detect Thoughts]] | Bard, Sorcerer, Wizard |
-| [[Disruptive Tune]] | Bard, Sorcerer, Wizard |
-| [[Dragons Breath|Dragon's Breath]] | Artificer, Magus, Sorcerer, Wizard |
-| [[Dueling Ground]] | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard |
-| [[Dust Devil]] | Druid, Sorcerer, Wizard |
-| [[Earthbind]] | Druid, Sorcerer, Warlock, Wizard |
-| [[Elminster's Elusion]] | Wizard |
-| [[Enhance Ability]] | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard |
-| [[Enlarge-Reduce\|Enlarge/Reduce]] | Artificer, Bard, Druid, Magus, Sorcerer, Wizard |
-| [[Enthrall]] | Bard, Warlock |
-| [[Find Steed]] | Paladin |
-| [[Find Traps]] | Cleric, Druid, Ranger |
-| [[Flame Blade]] | Druid, Magus, Sorcerer |
-| [[Flaming Sphere]] | Druid, Sorcerer, Wizard |
-| [[Fortune's Favor]] | Wizard |
-| [[Gentle Repose]] | Cleric, Paladin, Wizard |
-| [[Gust of Wind]] | Druid, Ranger, Sorcerer, Wizard |
-| [[Hangover]] | Bard, Sorcerer, Wizard |
-| [[Harrowing Ballad]] | Bard, Sorcerer, Wizard |
-| [[Healing Spirit]] | Druid, Ranger |
-| [[Heat Metal]] | Artificer, Bard, Druid |
-| [[Hold Person]] | Bard, Cleric, Druid, Magus, Sorcerer, Warlock, Wizard |
-| [[Homunculus Servant]] | Artificer |
-| [[Infernal Challenge]] | Paladin |
-| [[Invisibility]] | Artificer, Bard, Sorcerer, Warlock, Wizard |
-| [[Knock]] | Bard, Sorcerer, Wizard |
-| [[Lesser Restoration]] | Artificer, Bard, Cleric, Druid, Paladin, Ranger |
-| [[Levitate]] | Artificer, Sorcerer, Wizard |
-| [[Locate Animals or Plants]] | Bard, Druid, Ranger |
-| [[Locate Object]] | Bard, Cleric, Druid, Paladin, Ranger, Wizard |
-| [[Magic Mouth]] | Artificer, Bard, Wizard |
-| [[Magic Weapon]] | Artificer, Magus, Paladin, Ranger, Sorcerer, Wizard |
-| [[Maximilians Earthen Grasp|Maximilian's Earthen Grasp]] | Sorcerer, Wizard |
-| [[Melfs Acid Arrow|Melf's Acid Arrow]] | Magus, Wizard |
-| [[Mind Spike]] | Magus, Sorcerer, Warlock, Wizard |
-| [[Mirror Image]] | Bard, Magus, Sorcerer, Warlock, Wizard |
-| [[Misty Step]] | Magus, Sorcerer, Warlock, Wizard |
-| [[Moonbeam]] | Druid |
-| [[Nystul's Magic Aura]] | Wizard |
-| [[Pass without Trace]] | Druid, Ranger |
-| [[Phantasmal Force]] | Bard, Sorcerer, Wizard |
-| [[Prayer of Healing]] | Cleric, Paladin |
-| [[Protect Threshold]] | Sorcerer, Wizard |
-| [[Protection from Poison]] | Artificer, Cleric, Druid, Paladin, Ranger |
-| [[Pyrotechnics]] | Artificer, Bard, Sorcerer, Wizard |
-| [[Ray of Enfeeblement]] | Magus, Warlock, Wizard |
-| [[Rope Trick]] | Artificer, Wizard |
-| [[Sanguine Secrets]] | Ranger, Sorcerer, Warlock, Wizard |
-| [[Scorching Ray]] | Sorcerer, Wizard |
-| [[See Invisibility]] | Artificer, Bard, Sorcerer, Wizard |
-| [[Shadow Blade]] | Sorcerer, Warlock, Wizard |
-| [[Shatter]] | Bard, Sorcerer, Wizard |
-| [[Shining Smite]] | Paladin |
-| [[Silence]] | Bard, Cleric, Ranger |
-| [[Skywrite]] | Artificer, Bard, Druid, Wizard |
-| [[Snillocs Snowball Swarm|Snilloc's Snowball Swarm]] | Sorcerer, Wizard |
-| [[Spider Climb]] | Artificer, Sorcerer, Warlock, Wizard |
-| [[Spike Growth]] | Druid, Ranger |
-| [[Spiritual Weapon]] | Cleric |
-| [[Stone Bones]] | Druid, Paladin, Ranger, Sorcerer, Wizard |
-| [[Suggestion]] | Bard, Sorcerer, Warlock, Wizard |
-| [[Summon Beast]] | Druid, Ranger |
-| [[Tashas Mind Whip|Tasha's Mind Whip]] | Sorcerer, Wizard |
-| [[Uncertain Footing]] | Artificer, Bard, Warlock, Wizard |
-| [[Unraveling Whisper]] | Bard, Sorcerer, Warlock, Wizard |
-| [[Warding Bond]] | Cleric, Paladin |
-| [[Warding Wind]] | Bard, Druid, Sorcerer, Wizard |
-| [[Web]] | Artificer, Sorcerer, Wizard |
-| [[Wither and Bloom]] | Druid, Sorcerer, Wizard |
-| [[Wristpocket]] | Wizard |
-| [[Zone of Truth]] | Bard, Cleric, Paladin |
+| Spell                                           | Classes                                                                    |                                    |
+| ----------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------- |
+| [[Aganazzars Scorcher                           | Aganazzar's Scorcher]]                                                     | Sorcerer, Wizard                   |
+| [[Aid]]                                         | Artificer, Bard, Cleric, Druid, Paladin, Ranger                            |                                    |
+| [[Alter Self]]                                  | Artificer, Sorcerer, Wizard                                                |                                    |
+| [[Animal Messenger]]                            | Bard, Druid, Ranger                                                        |                                    |
+| [[Animate Shield]]                              | Magus                                                                      |                                    |
+| [[Animate Weapon\|Animate Weapon (Rebalanced)]] | Magus                                                                      |                                    |
+| [[Arcane Invigoration]]                         | Magus                                                                      |                                    |
+| [[Arcane Lock]]                                 | Artificer, Wizard                                                          |                                    |
+| [[Arcane Vigor]]                                | Artificer, Sorcerer, Wizard                                                |                                    |
+| [[Augury]]                                      | Cleric, Druid, Wizard                                                      |                                    |
+| [[Barkskin]]                                    | Druid, Ranger                                                              |                                    |
+| [[Battle Familiar]]                             | Druid, Warlock, Wizard                                                     |                                    |
+| [[Beast Sense]]                                 | Druid, Ranger                                                              |                                    |
+| [[Blindness-Deafness\|Blindness/Deafness]]      | Bard, Cleric, Sorcerer, Wizard                                             |                                    |
+| [[Blood Sacrifice]]                             | Sorcerer, Warlock, Wizard                                                  |                                    |
+| [[Blunder]]                                     | Bard, Wizard                                                               |                                    |
+| [[Blur]]                                        | Artificer, Magus, Sorcerer, Wizard                                         |                                    |
+| [[Branding Smite]]                              | Paladin                                                                    |                                    |
+| [[Calm Emotions]]                               | Bard, Cleric                                                               |                                    |
+| [[Carrionette]]                                 | Warlock                                                                    |                                    |
+| [[Chain of Conviction]]                         | Paladin, Warlock                                                           |                                    |
+| [[Chorus of the Lost]]                          | Bard, Cleric, Sorcerer, Warlock, Wizard                                    |                                    |
+| [[Cloud of Daggers]]                            | Bard, Sorcerer, Warlock, Wizard                                            |                                    |
+| [[Continual Flame]]                             | Artificer, Cleric, Druid, Wizard                                           |                                    |
+| [[Cordon of Arrows]]                            | Ranger                                                                     |                                    |
+| [[Crown of Madness]]                            | Bard, Sorcerer, Warlock, Wizard                                            |                                    |
+| [[Darkness]]                                    | Sorcerer, Warlock, Wizard                                                  |                                    |
+| [[Darkvision]]                                  | Artificer, Druid, Ranger, Sorcerer, Wizard                                 |                                    |
+| [[Death Armor]]                                 | Sorcerer, Wizard                                                           |                                    |
+| [[Deryans Helpful Homunculi                     | Deryan's Helpful Homunculi]]                                               | Cleric, Wizard                     |
+| [[Detect Thoughts]]                             | Bard, Sorcerer, Wizard                                                     |                                    |
+| [[Disruptive Tune]]                             | Bard, Sorcerer, Wizard                                                     |                                    |
+| [[Dragons Breath                                | Dragon's Breath]]                                                          | Artificer, Magus, Sorcerer, Wizard |
+| [[Dueling Ground]]                              | Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard |                                    |
+| [[Dust Devil]]                                  | Druid, Sorcerer, Wizard                                                    |                                    |
+| [[Earthbind]]                                   | Druid, Sorcerer, Warlock, Wizard                                           |                                    |
+| [[Elminster's Elusion]]                         | Wizard                                                                     |                                    |
+| [[Enhance Ability]]                             | Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard                   |                                    |
+| [[Enlarge-Reduce\|Enlarge/Reduce]]              | Artificer, Bard, Druid, Magus, Sorcerer, Wizard                            |                                    |
+| [[Enthrall]]                                    | Bard, Warlock                                                              |                                    |
+| [[Find Steed]]                                  | Paladin                                                                    |                                    |
+| [[Find Traps]]                                  | Cleric, Druid, Ranger                                                      |                                    |
+| [[Flame Blade]]                                 | Druid, Magus, Sorcerer                                                     |                                    |
+| [[Flaming Sphere]]                              | Druid, Sorcerer, Wizard                                                    |                                    |
+| [[Fortune's Favor]]                             | Wizard                                                                     |                                    |
+| [[Gentle Repose]]                               | Cleric, Paladin, Wizard                                                    |                                    |
+| [[Gust of Wind]]                                | Druid, Ranger, Sorcerer, Wizard                                            |                                    |
+| [[Hangover]]                                    | Bard, Sorcerer, Wizard                                                     |                                    |
+| [[Harrowing Ballad]]                            | Bard, Sorcerer, Wizard                                                     |                                    |
+| [[Healing Spirit]]                              | Druid, Ranger                                                              |                                    |
+| [[Heat Metal]]                                  | Artificer, Bard, Druid                                                     |                                    |
+| [[Hold Person]]                                 | Bard, Cleric, Druid, Magus, Sorcerer, Warlock, Wizard                      |                                    |
+| [[Homunculus Servant]]                          | Artificer                                                                  |                                    |
+| [[Infernal Challenge]]                          | Paladin                                                                    |                                    |
+| [[Invisibility]]                                | Artificer, Bard, Sorcerer, Warlock, Wizard                                 |                                    |
+| [[Knock]]                                       | Bard, Sorcerer, Wizard                                                     |                                    |
+| [[Lesser Restoration]]                          | Artificer, Bard, Cleric, Druid, Paladin, Ranger                            |                                    |
+| [[Levitate]]                                    | Artificer, Sorcerer, Wizard                                                |                                    |
+| [[Locate Animals or Plants]]                    | Bard, Druid, Ranger                                                        |                                    |
+| [[Locate Object]]                               | Bard, Cleric, Druid, Paladin, Ranger, Wizard                               |                                    |
+| [[Magic Mouth]]                                 | Artificer, Bard, Wizard                                                    |                                    |
+| [[Magic Weapon]]                                | Artificer, Magus, Paladin, Ranger, Sorcerer, Wizard                        |                                    |
+| [[Maximilians Earthen Grasp                     | Maximilian's Earthen Grasp]]                                               | Sorcerer, Wizard                   |
+| [[Melfs Acid Arrow                              | Melf's Acid Arrow]]                                                        | Magus, Wizard                      |
+| [[Mind Spike]]                                  | Magus, Sorcerer, Warlock, Wizard                                           |                                    |
+| [[Mirror Image]]                                | Bard, Magus, Sorcerer, Warlock, Wizard                                     |                                    |
+| [[Misty Step]]                                  | Magus, Sorcerer, Warlock, Wizard                                           |                                    |
+| [[Moonbeam]]                                    | Druid                                                                      |                                    |
+| [[Nystul's Magic Aura]]                         | Wizard                                                                     |                                    |
+| [[Pass without Trace]]                          | Druid, Ranger                                                              |                                    |
+| [[Phantasmal Force]]                            | Bard, Sorcerer, Wizard                                                     |                                    |
+| [[Prayer of Healing]]                           | Cleric, Paladin                                                            |                                    |
+| [[Protect Threshold]]                           | Sorcerer, Wizard                                                           |                                    |
+| [[Protection from Poison]]                      | Artificer, Cleric, Druid, Paladin, Ranger                                  |                                    |
+| [[Pyrotechnics]]                                | Artificer, Bard, Sorcerer, Wizard                                          |                                    |
+| [[Ray of Enfeeblement]]                         | Magus, Warlock, Wizard                                                     |                                    |
+| [[Rope Trick]]                                  | Artificer, Wizard                                                          |                                    |
+| [[Sanguine Secrets]]                            | Ranger, Sorcerer, Warlock, Wizard                                          |                                    |
+| [[Scorching Ray]]                               | Sorcerer, Wizard                                                           |                                    |
+| [[See Invisibility]]                            | Artificer, Bard, Sorcerer, Wizard                                          |                                    |
+| [[Shadow Blade]]                                | Sorcerer, Warlock, Wizard                                                  |                                    |
+| [[Shatter]]                                     | Bard, Sorcerer, Wizard                                                     |                                    |
+| [[Shining Smite]]                               | Paladin                                                                    |                                    |
+| [[Silence]]                                     | Bard, Cleric, Ranger                                                       |                                    |
+| [[Skywrite]]                                    | Artificer, Bard, Druid, Wizard                                             |                                    |
+| [[Snillocs Snowball Swarm                       | Snilloc's Snowball Swarm]]                                                 | Sorcerer, Wizard                   |
+| [[Spider Climb]]                                | Artificer, Sorcerer, Warlock, Wizard                                       |                                    |
+| [[Spike Growth]]                                | Druid, Ranger                                                              |                                    |
+| [[Spiritual Weapon]]                            | Cleric                                                                     |                                    |
+| [[Stone Bones]]                                 | Druid, Paladin, Ranger, Sorcerer, Wizard                                   |                                    |
+| [[Suggestion]]                                  | Bard, Sorcerer, Warlock, Wizard                                            |                                    |
+| [[Summon Beast]]                                | Druid, Ranger                                                              |                                    |
+| [[Tashas Mind Whip                              | Tasha's Mind Whip]]                                                        | Sorcerer, Wizard                   |
+| [[Uncertain Footing]]                           | Artificer, Bard, Warlock, Wizard                                           |                                    |
+| [[Unraveling Whisper]]                          | Bard, Sorcerer, Warlock, Wizard                                            |                                    |
+| [[Warding Bond]]                                | Cleric, Paladin                                                            |                                    |
+| [[Warding Wind]]                                | Bard, Druid, Sorcerer, Wizard                                              |                                    |
+| [[Web]]                                         | Artificer, Sorcerer, Wizard                                                |                                    |
+| [[Wither and Bloom]]                            | Druid, Sorcerer, Wizard                                                    |                                    |
+| [[Wristpocket]]                                 | Wizard                                                                     |                                    |
+| [[Zone of Truth]]                               | Bard, Cleric, Paladin                                                      |                                    |
 
 ## Level 3 (89)
 

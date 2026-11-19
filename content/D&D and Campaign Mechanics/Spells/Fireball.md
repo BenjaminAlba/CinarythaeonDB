@@ -1,7 +1,7 @@
 #### Fireball
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Oboromancia]], [[Atraphothoromancia]]
+- **Resonances:** [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 150 feet
 - **Components:** V, S, M (a ball of bat guano and sulfur)

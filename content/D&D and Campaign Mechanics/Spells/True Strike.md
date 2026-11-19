@@ -1,7 +1,7 @@
 #### True Strike
 *Divination Cantrip*
 ___
-- **Resonances:** [[Entropomortia]], [[Atraphothoromancia]]
+- **Resonances:** [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** S, M (a weapon with which you have proficiency and that is worth 1+ CP)

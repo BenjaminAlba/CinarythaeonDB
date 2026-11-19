@@ -7,7 +7,7 @@ ___
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 ---
-A creature within range that doesn't have the Blinded and Deafened conditions is provoked by you for the duration of the spell. While provoked, the creature has Disadvantage on attack rolls against creatures other than you.
+A creature within range that can see and hear you is provoked by you for the duration of the spell. While provoked, the creature has Disadvantage on attack rolls against creatures other than you.
 
 In addition, when the provoked creature attacks a creature other than you, you can use your Reaction to make an Unarmed Strike or attack with a weapon against it. On a hit, you deal the attack's normal damage and an additional 1d6 Force damage.
 
