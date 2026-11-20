@@ -1,8 +1,7 @@
 #### Skywrite
 *Level 2 Transmutation*
 ___
-- **Resonances:** [[Rhodoklērion]], [[Viridexaction]]
-- **Casting Time:** Action (Ritual)
+- **Resonances:** [[Rhodoklērion]], [[Viridexacion]]- **Casting Time:** Action (Ritual)
 - **Range:** Sight
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour

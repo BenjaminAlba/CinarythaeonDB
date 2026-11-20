@@ -1,8 +1,7 @@
 #### Reweave Fate
 *Level 7 Divination*
 ___
-- **Resonances:** [[Entropomortia]], [[Viridexaction]]
-- **Casting Time:** Reaction, which you take when a creature you can see within 60 feet of you fails a D20 Test
+- **Resonances:** [[Entropomortia]], [[Viridexacion]]- **Casting Time:** Reaction, which you take when a creature you can see within 60 feet of you fails a D20 Test
 - **Range:** 60 feet
 - **Components:** S
 - **Duration:** Instantaneous

@@ -1,7 +1,7 @@
 #### Summon Elemental
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Oboromancia]]
+- **Resonances:** [[Viridexacion]] [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth 400+ GP)

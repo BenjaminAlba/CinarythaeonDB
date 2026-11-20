@@ -1,8 +1,7 @@
 #### Circle of Power
 *Level 5 Abjuration*
 ___
-- **Resonances:** [[Rhodoklērion]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Rhodoklērion]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes

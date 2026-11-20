@@ -1,8 +1,7 @@
 #### Wind Wall
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S, M (a fan and a feather)
 - **Duration:** Concentration, up to 1 minute

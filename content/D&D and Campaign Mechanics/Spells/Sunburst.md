@@ -1,7 +1,7 @@
 #### Sunburst
 *Level 8 Evocation*
 ___
-- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
+- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
 - **Casting Time:** Action
 - **Range:** 150 feet
 - **Components:** V, S, M (a piece of sunstone)

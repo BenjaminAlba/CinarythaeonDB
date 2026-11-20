@@ -1,7 +1,7 @@
 #### Zephyr Strike
 *Level 1 Transmutation*
 ___
-- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
+- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
 - **Casting Time:** Bonus Action
 - **Range:** Self
 - **Components:** V

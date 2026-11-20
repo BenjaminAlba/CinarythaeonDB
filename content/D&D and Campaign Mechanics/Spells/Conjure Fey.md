@@ -1,7 +1,7 @@
 #### Conjure Fey
 *Level 6 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S

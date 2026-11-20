@@ -1,8 +1,7 @@
 #### Guardian of Faith
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** 8 hours

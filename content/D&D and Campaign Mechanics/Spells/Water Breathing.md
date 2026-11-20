@@ -1,8 +1,7 @@
 #### Water Breathing
 *Level 3 Transmutation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexaction]]
-- **Casting Time:** Action (Ritual)
+- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action (Ritual)
 - **Range:** 30 feet
 - **Components:** V, S, M (a short reed)
 - **Duration:** 24 hours

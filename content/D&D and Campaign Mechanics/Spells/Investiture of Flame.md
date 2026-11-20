@@ -1,8 +1,7 @@
 #### Investiture of Flame
 *Level 6 Transmutation*
 ___
-- **Resonances:** [[Syderynthos]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Syderynthos]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes

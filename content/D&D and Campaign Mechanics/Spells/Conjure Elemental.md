@@ -1,7 +1,7 @@
 #### Conjure Elemental
 *Level 5 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
+- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S

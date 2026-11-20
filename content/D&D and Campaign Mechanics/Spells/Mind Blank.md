@@ -1,7 +1,7 @@
 #### Mind Blank
 *Level 8 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
+- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S

@@ -1,8 +1,7 @@
 #### Druidcraft
 *Transmutation Cantrip*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

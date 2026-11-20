@@ -1,8 +1,7 @@
 #### Shadow of Moil
 *Level 4 Necromancy*
 ___
-- **Resonances:** [[Nihilokathra]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Nihilokathra]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (an undead eyeball encased in a gem worth at least 150 gp)
 - **Duration:** Concentration, up to 1 minute

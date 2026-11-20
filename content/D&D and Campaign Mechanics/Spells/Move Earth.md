@@ -1,8 +1,7 @@
 #### Move Earth
 *Level 6 Transmutation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S, M (a miniature shovel)
 - **Duration:** Concentration, up to 2 hours

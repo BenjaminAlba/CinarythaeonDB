@@ -91,7 +91,7 @@ Los aliados pueden elegir la apariencia del ***elemento de vestuario*** la prime
 #### Máscara del Mártir (Level 3)
 
 **Costo:** 2d4
-**Efecto:** Cuando el portador recibe daño, un aliado a 30ft. de distancia gana HP temporal igual al modificador de carisma de Cosette. Los efectos de la resonancia de [[Viridexaction]] del portador se activan dos veces.
+**Efecto:** Cuando el portador recibe daño, un aliado a 30ft. de distancia gana HP temporal igual al modificador de carisma de Cosette. Los efectos de la resonancia de [[Viridexacion]] del portador se activan dos veces.
 
 #### Máscara del Guardián (Level 6)
 

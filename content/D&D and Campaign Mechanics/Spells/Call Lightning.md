@@ -1,7 +1,7 @@
 #### Call Lightning
 *Level 3 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S

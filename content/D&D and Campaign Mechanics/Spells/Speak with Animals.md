@@ -1,7 +1,7 @@
 #### Speak with Animals
 *Level 1 Divination*
 ___
-- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
 - **Casting Time:** Action (Ritual)
 - **Range:** Self
 - **Components:** V, S

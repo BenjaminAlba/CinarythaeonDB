@@ -1,8 +1,7 @@
 #### Primordial Ward
 *Level 6 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

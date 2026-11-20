@@ -1,8 +1,7 @@
 #### Protection from Evil and Good
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)
 - **Duration:** Concentration, up to 10 minutes

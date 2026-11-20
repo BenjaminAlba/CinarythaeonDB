@@ -1,7 +1,7 @@
 #### Summon Fey
 *Level 3 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
 - **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S, M (a gilded flower worth 300+ GP)

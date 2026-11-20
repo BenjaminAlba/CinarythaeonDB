@@ -1,8 +1,7 @@
 #### Shillelagh
 *Transmutation Cantrip*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Bonus Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Bonus Action
 - **Range:** Self
 - **Components:** V, S, M (mistletoe)
 - **Duration:** 1 minute

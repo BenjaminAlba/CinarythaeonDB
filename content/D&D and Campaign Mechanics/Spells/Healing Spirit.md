@@ -1,8 +1,7 @@
 #### Healing Spirit
 *Level 2 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Bonus Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Bonus Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

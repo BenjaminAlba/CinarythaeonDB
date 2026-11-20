@@ -1,8 +1,7 @@
 #### Daylight
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** 1 hour

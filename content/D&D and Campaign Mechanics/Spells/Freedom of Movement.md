@@ -1,7 +1,7 @@
 #### Freedom of Movement
 *Level 4 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Oboromancia]]
+- **Resonances:** [[Viridexacion]] [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a leather strap)

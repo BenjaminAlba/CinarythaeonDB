@@ -1,8 +1,7 @@
 #### Color Spray
 *Level 1 Illusion*
 ___
-- **Resonances:** [[Rhodoklērion]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Rhodoklērion]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a pinch of colorful sand)
 - **Duration:** Instantaneous

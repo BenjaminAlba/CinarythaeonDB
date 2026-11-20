@@ -1,8 +1,7 @@
 #### Infestation
 *Conjuration Cantrip*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a living flea)
 - **Duration:** Instantaneous

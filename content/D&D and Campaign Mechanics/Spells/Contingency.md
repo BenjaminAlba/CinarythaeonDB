@@ -1,8 +1,7 @@
 #### Contingency
 *Level 6 Abjuration*
 ___
-- **Resonances:** [[Entropomortia]], [[Viridexaction]]
-- **Casting Time:** 10 minutes
+- **Resonances:** [[Entropomortia]], [[Viridexacion]]- **Casting Time:** 10 minutes
 - **Range:** Self
 - **Components:** V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)
 - **Duration:** 10 days

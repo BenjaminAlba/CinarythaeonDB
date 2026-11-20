@@ -1,7 +1,7 @@
 #### Aura of Life
 *Level 4 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]]
+- **Resonances:** [[Viridexacion]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V

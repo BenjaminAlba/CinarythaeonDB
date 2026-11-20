@@ -1,7 +1,7 @@
 #### Dawn
 *Level 5 Evocation*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S, M (a sunburst pendant worth at least 100 gp)

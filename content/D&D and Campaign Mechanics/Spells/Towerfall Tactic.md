@@ -1,7 +1,7 @@
 #### Towerfall Tactic
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Syderynthos]]
+- **Resonances:** [[Viridexacion]] [[Syderynthos]]
 - **Casting Time:** Reaction, which you take when you take damage from an attack
 - **Range:** Self
 - **Components:** S, M (a Shield worth 1+ GP)

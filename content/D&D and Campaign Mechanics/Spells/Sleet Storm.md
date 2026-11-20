@@ -1,8 +1,7 @@
 #### Sleet Storm
 *Level 3 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 150 feet
 - **Components:** V, S, M (a miniature umbrella)
 - **Duration:** Concentration, up to 1 minute

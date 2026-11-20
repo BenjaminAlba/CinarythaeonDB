@@ -1,7 +1,7 @@
 #### Pass without Trace
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
 - **Casting Time:** Action
 - **Range:** Self (30-foot Emanation)
 - **Components:** V, S, M (ashes from burned mistletoe)

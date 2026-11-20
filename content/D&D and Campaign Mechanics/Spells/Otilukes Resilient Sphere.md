@@ -1,7 +1,7 @@
 #### Otiluke's Resilient Sphere
 *Level 4 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Syderynthos]]
+- **Resonances:** [[Viridexacion]] [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a glass sphere)

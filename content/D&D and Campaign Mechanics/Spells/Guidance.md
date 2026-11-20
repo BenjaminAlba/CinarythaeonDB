@@ -1,7 +1,7 @@
 #### Guidance
 *Divination Cantrip*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S

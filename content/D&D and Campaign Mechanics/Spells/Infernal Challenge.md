@@ -1,8 +1,7 @@
 #### Infernal Challenge
 *Level 2 Enchantment*
 ___
-- **Resonances:** [[Rhodoklērion]], [[Viridexaction]]
-- **Casting Time:** Bonus Action
+- **Resonances:** [[Rhodoklērion]], [[Viridexacion]]- **Casting Time:** Bonus Action
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute

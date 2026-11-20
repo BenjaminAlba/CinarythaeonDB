@@ -1,7 +1,7 @@
 #### Leomund's Tiny Hut
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Viridexaction]], [[Syderynthos]]
+- **Resonances:** [[Viridexacion]] [[Syderynthos]]
 - **Casting Time:** 1 minute (Ritual)
 - **Range:** Self (10-foot Emanation)
 - **Components:** V, S, M (a crystal bead)

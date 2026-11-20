@@ -1,8 +1,7 @@
 #### Wall of Force
 *Level 5 Evocation*
 ___
-- **Resonances:** [[Syderynthos]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Syderynthos]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S, M (a shard of glass)
 - **Duration:** Concentration, up to 10 minutes

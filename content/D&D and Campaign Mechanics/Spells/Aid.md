@@ -1,7 +1,7 @@
 #### Aid
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]]
+- **Resonances:** [[Viridexacion]]
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a strip of white cloth)

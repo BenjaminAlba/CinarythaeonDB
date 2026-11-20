@@ -1,8 +1,7 @@
 #### Thornhold
 *Abjuration Cantrip*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** 1 round

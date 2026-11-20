@@ -1,8 +1,7 @@
 #### Life Transference
 *Level 3 Necromancy*
 ___
-- **Resonances:** [[Atraphothoromancia]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Atraphothoromancia]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

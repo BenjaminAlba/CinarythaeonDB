@@ -1,8 +1,7 @@
 #### Wind Walk
 *Level 6 Transmutation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexaction]]
-- **Casting Time:** 1 minute
+- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** 1 minute
 - **Range:** 30 feet
 - **Components:** V, S, M (a candle)
 - **Duration:** 8 hours

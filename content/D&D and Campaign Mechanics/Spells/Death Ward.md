@@ -1,7 +1,7 @@
 #### Death Ward
 *Level 4 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S

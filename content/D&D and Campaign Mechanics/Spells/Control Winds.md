@@ -1,8 +1,7 @@
 #### Control Winds
 *Level 5 Transmutation*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 300 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour

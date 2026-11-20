@@ -1,8 +1,7 @@
 #### Find Traps
 *Level 2 Divination*
 ___
-- **Resonances:** [[Entropomortia]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Entropomortia]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

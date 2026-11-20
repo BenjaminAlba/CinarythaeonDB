@@ -1,8 +1,7 @@
 #### Wrath of Nature
 *Level 5 Evocation*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

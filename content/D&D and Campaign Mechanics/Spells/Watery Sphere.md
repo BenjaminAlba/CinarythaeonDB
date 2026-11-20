@@ -1,7 +1,7 @@
 #### Watery Sphere
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Oboromancia]]
+- **Resonances:** [[Viridexacion]] [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S, M (a droplet of water)

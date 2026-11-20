@@ -1,7 +1,7 @@
 #### Find Steed
 *Level 2 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
+- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S

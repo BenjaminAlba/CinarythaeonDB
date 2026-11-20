@@ -1,8 +1,7 @@
 #### Heroism
 *Level 1 Enchantment*
 ___
-- **Resonances:** [[Rhodoklērion]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Rhodoklērion]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

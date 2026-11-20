@@ -1,8 +1,7 @@
 #### Mass Cure Wounds
 *Level 5 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

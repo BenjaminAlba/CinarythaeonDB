@@ -1,8 +1,7 @@
 #### Holy Aura
 *Level 8 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Self (30-foot Emanation)
 - **Components:** V, S, M (a reliquary worth 1,000+ GP)
 - **Duration:** Concentration, up to 1 minute

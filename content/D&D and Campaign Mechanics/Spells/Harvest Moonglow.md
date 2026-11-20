@@ -1,7 +1,7 @@
 #### Harvest Moonglow
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S, M (a piece of moonstone)

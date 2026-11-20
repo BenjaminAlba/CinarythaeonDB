@@ -1,7 +1,7 @@
 #### Moonbeam
 *Level 2 Evocation*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S, M (a moonseed leaf)

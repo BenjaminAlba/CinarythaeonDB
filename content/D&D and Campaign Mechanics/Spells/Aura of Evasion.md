@@ -1,7 +1,7 @@
 #### Aura of Evasion
 *Level 7 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexacion]], [[Rhodoklērion]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S

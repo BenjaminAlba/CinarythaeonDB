@@ -1,7 +1,7 @@
 #### Guards and Wards
 *Level 6 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
 - **Casting Time:** 1 hour
 - **Range:** Touch
 - **Components:** V, S, M (a silver rod worth 10+ GP)

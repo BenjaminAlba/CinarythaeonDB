@@ -1,7 +1,7 @@
 #### Find Greater Steed
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
+- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
 - **Casting Time:** 10 minutes
 - **Range:** 30 feet
 - **Components:** V, S

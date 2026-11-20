@@ -1,8 +1,7 @@
 #### Conjure Animals
 *Level 3 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes

@@ -162,7 +162,7 @@ Se puede gastar Focus adicional al lanzarlo, hasta un máximo igual a tu bono de
 **Disonancia:** La criatura debe realizar una tirada de salvación de constitución antes de hacer una acción mágica, si la falla pierde su acción, si se salva puede realizar la acción mágica pero tiene desventaja en tiradas de ataque y el objetivo del spell tiene ventaja si debe realizar una tirada de salvación.
 
 ### Crescendo Aetherico (Level 5)
-*Técnica de Aether de [[Viridexaction]]*
+*Técnica de Aether de [[Viridexacion]]*
 
 - **Tiempo de Lanzamiento:** 1 Acción (Concentración)
 - **Alcance:** 100 pies / 20 pies de radio de explosión

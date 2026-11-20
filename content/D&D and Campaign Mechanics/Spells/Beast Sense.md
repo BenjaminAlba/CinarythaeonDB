@@ -1,7 +1,7 @@
 #### Beast Sense
 *Level 2 Divination*
 ___
-- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
+- **Resonances:** [[Viridexacion]], [[Mnelyxphora]]
 - **Casting Time:** Action or Ritual
 - **Range:** Touch
 - **Components:** S

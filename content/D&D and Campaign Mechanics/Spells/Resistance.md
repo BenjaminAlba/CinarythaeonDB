@@ -1,8 +1,7 @@
 #### Resistance
 *Abjuration Cantrip*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

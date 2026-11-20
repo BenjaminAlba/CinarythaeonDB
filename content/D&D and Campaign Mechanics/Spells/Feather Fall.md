@@ -1,7 +1,7 @@
 #### Feather Fall
 *Level 1 Transmutation*
 ___
-- **Resonances:** [[Viridexaction]], [[Oboromancia]]
+- **Resonances:** [[Viridexacion]] [[Oboromancia]]
 - **Casting Time:** Reaction, which you take when you or a creature you can see within 60 feet of you falls
 - **Range:** 60 feet
 - **Components:** V, M (a small feather or piece of down)

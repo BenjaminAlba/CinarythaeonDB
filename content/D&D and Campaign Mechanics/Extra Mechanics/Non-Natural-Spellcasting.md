@@ -87,6 +87,30 @@ The generic spell list expands the spells available through your spellcasting fe
 
 ***Preparation Required.*** Resonance makes a spell eligible for selection; it does not automatically teach or prepare the spell. Generic spells selected through a feature count toward its normal allowance unless that feature states otherwise.
 
+## Resonance Effects
+
+Resonance effects function only during combat, and lasting resonance effects end when combat ends. The DM determines when combat begins and ends. Each effect uses the trigger and other rules in its resonance description.
+
+***One Resonance per Casting.*** A spell you cast can activate effects of only one of its resonances that you possess. Choose which resonance to activate when its effect's trigger occurs, following that resonance's rules. Once you activate it, that casting can't activate a different resonance, including through its later effects. A missed trigger can't be used retroactively.
+
+The chosen resonance can activate more than once from an ongoing spell if its own rules allow it. An effect from an earlier casting can still apply, even if it has a different resonance from the one chosen for the current casting. For example, existing Corruption can add damage to a later spell that activates a different resonance, subject to Corruption's rules.
+
+An ongoing Nihilokathra spell cast before combat can apply Corruption when it deals damage during combat, provided it meets Corruption's requirements. A resonance effect triggered by casting a spell can't activate retroactively if the spell was cast before combat.
+
+***Overlapping Effects.*** A creature can be affected by only one lasting effect of a given resonance from the same caster at a time. If that caster would apply another lasting effect of the same resonance to the creature, the caster chooses whether to keep the existing effect or replace it with the new one. Effects from different casters can affect the same creature at the same time and are tracked separately. This rule applies to allies, enemies, and the caster; it doesn't limit instantaneous effects or change a resonance's own frequency limits.
+
+***Corruption Exception.*** Corruption continues to accumulate in one shared total, including stacks applied by the same caster or by different casters. Its stacks have no maximum, and its other rules apply normally.
+
+***Oboromancia: Quick Handling.*** Quick Handling can be used whether or not the spell expends a spell slot, including when the spell is a cantrip or is cast through Single-Resonance Casting. Its other requirements apply normally.
+
+## Single-Resonance Casting
+
+If you have resonance with exactly one magic type, you can draw on it to cast a spell without expending a spell slot.
+
+***Free Casting.*** Once per combat, you can cast a level 1–3 spell you have available to cast that shares your resonance without expending a spell slot. You can use this benefit a number of times equal to your highest spellcasting ability modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. If you use more than one spellcasting ability, use the highest modifier among the abilities you use to cast spells.
+
+***Casting Requirements.*** The free casting uses the spell's normal casting time, components, Concentration, and other requirements, and casts the spell at its lowest level. It counts toward that spell's casting limit unless the casting is exempt under the Warlock Exception below; otherwise, you must have a use of the spell remaining.
+
 ## Casting Limits
 
 You can cast each spell you have access to a number of times equal to your spellcasting ability modifier for that spell, with a minimum of once. This limit applies separately to each named spell, including each cantrip. You regain all expended uses when you finish a Long Rest.
@@ -116,5 +140,3 @@ You receive all spells, cantrips, free castings, and permissions to use spell sl
 Normal casting times, components, Concentration, armor training, and other spellcasting requirements apply. 
 
 Material components follow the normal rules. You can use a Component Pouch where the normal component rules permit it.
-
-<!-- Resonance-specific benefits, including the former single-resonance free casting, are outside this document's scope and will be defined separately. -->

@@ -1,7 +1,7 @@
 #### Enhance Ability
 *Level 2 Transmutation*
 ___
-- **Resonances:** [[Viridexaction]], [[Oboromancia]]
+- **Resonances:** [[Viridexacion]] [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (fur or a feather)

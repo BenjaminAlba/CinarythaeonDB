@@ -1,8 +1,7 @@
 #### Web
 *Level 2 Conjuration*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S, M (a bit of spiderweb)
 - **Duration:** Concentration, up to 1 hour

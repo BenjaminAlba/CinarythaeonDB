@@ -1,7 +1,7 @@
 #### Call of the Wild
 *Level 4 Enchantment*
 ___
-- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a bit of animal fur or hide)

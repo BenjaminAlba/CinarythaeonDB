@@ -1,7 +1,7 @@
 #### Locate Animals or Plants
 *Level 2 Divination*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action (Ritual)
 - **Range:** Self
 - **Components:** V, S, M (fur from a bloodhound)

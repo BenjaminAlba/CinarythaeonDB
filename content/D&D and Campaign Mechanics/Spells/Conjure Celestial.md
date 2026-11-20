@@ -1,7 +1,7 @@
 #### Conjure Celestial
 *Level 7 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S

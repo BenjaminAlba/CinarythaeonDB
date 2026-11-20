@@ -1,7 +1,7 @@
 #### Alustriel's Mooncloak
 *Level 5 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]], [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a moonstone worth 50+ GP)

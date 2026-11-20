@@ -1,7 +1,7 @@
 #### Find Familiar
 *Level 1 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
+- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
 - **Casting Time:** 1 hour (Ritual)
 - **Range:** 10 feet
 - **Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)

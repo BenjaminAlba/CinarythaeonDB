@@ -1,7 +1,7 @@
 #### Detect Poison and Disease
 *Level 1 Divination*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action (Ritual)
 - **Range:** Self (30-foot radius)
 - **Components:** V, S, M (a yew leaf)

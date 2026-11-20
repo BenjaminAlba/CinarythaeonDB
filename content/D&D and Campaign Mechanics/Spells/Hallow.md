@@ -1,7 +1,7 @@
 #### Hallow
 *Level 5 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** 24 hours
 - **Range:** Touch
 - **Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)

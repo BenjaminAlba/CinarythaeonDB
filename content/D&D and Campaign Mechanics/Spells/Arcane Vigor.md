@@ -1,7 +1,7 @@
 #### Arcane Vigor
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]]
+- **Resonances:** [[Viridexacion]]
 - **Casting Time:** Bonus action
 - **Range:** Self
 - **Components:** V, S

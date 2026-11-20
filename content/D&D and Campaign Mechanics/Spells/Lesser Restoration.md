@@ -1,8 +1,7 @@
 #### Lesser Restoration
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Bonus Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Bonus Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous

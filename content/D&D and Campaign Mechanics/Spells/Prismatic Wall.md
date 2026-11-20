@@ -1,7 +1,7 @@
 #### Prismatic Wall
 *Level 9 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Oboromancia]]
+- **Resonances:** [[Viridexacion]] [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S

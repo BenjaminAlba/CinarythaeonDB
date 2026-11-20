@@ -1,8 +1,7 @@
 #### Spider Climb
 *Level 2 Transmutation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a drop of bitumen and a spider)
 - **Duration:** Concentration, up to 1 hour

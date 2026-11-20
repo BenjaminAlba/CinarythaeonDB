@@ -1,7 +1,7 @@
 #### Awaken
 *Level 5 Transmutation*
 ___
-- **Resonances:** [[Viridexaction]], [[Syderynthos]]
+- **Resonances:** [[Viridexacion]], [[Syderynthos]]
 - **Casting Time:** 8 hours
 - **Range:** Touch
 - **Components:** V, S, M (an agate worth 1,000+ GP, which the spell consumes)

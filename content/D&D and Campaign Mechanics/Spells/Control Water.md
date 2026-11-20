@@ -1,7 +1,7 @@
 #### Control Water
 *Level 4 Transmutation*
 ___
-- **Resonances:** [[Viridexaction]], [[Oboromancia]]
+- **Resonances:** [[Viridexacion]] [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 300 feet
 - **Components:** V, S, M (a mixture of water and dust)

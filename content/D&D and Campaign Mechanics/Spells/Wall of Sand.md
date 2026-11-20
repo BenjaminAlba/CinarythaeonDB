@@ -1,7 +1,7 @@
 #### Wall of Sand
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Viridexaction]], [[Oboromancia]]
+- **Resonances:** [[Viridexacion]] [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S, M (a handful of sand)

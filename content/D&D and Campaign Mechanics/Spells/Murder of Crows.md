@@ -1,7 +1,7 @@
 #### Murder of Crows
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
+- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a crow feather)

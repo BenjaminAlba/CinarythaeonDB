@@ -1,8 +1,7 @@
 #### Dominate Beast
 *Level 4 Enchantment*
 ___
-- **Resonances:** [[Rhodoklērion]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Rhodoklērion]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

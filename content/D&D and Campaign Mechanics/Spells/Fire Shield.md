@@ -1,7 +1,7 @@
 #### Fire Shield
 *Level 4 Evocation*
 ___
-- **Resonances:** [[Viridexaction]], [[Syderynthos]]
+- **Resonances:** [[Viridexacion]] [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a bit of phosphorus or a firefly)

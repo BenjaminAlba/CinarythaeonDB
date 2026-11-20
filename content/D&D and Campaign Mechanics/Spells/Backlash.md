@@ -1,7 +1,7 @@
 #### Backlash
 *Level 4 Abjuration*
 ___
-- **Resonances:** [[Viridexaction]], [[Syderynthos]]
+- **Resonances:** [[Viridexacion]], [[Syderynthos]]
 - **Casting Time:** Reaction, which you take in response to taking damage
 - **Range:** 60 feet
 - **Components:** V

@@ -1,8 +1,7 @@
 #### Control Weather
 *Level 8 Transmutation*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** 10 minutes
+- **Resonances:** [[Viridexacion]]- **Casting Time:** 10 minutes
 - **Range:** Self (5-mile radius)
 - **Components:** V, S, M (burning incense)
 - **Duration:** Concentration, up to 8 hours

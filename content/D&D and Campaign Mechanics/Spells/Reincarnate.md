@@ -1,7 +1,7 @@
 #### Reincarnate
 *Level 5 Necromancy*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** 1 hour
 - **Range:** Touch
 - **Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes)

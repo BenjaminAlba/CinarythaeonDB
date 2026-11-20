@@ -1,7 +1,7 @@
 #### Spare the Dying
 *Necromancy Cantrip*
 ___
-- **Resonances:** [[Viridexaction]], [[Entropomortia]]
+- **Resonances:** [[Viridexacion]] [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** 15 feet
 - **Components:** V, S

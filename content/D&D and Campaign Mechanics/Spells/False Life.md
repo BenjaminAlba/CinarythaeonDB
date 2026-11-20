@@ -1,8 +1,7 @@
 #### False Life
 *Level 1 Necromancy*
 ___
-- **Resonances:** [[Nihilokathra]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Nihilokathra]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a drop of alcohol)
 - **Duration:** Instantaneous

@@ -1,8 +1,7 @@
 #### Give Life
 *Transmutation Cantrip*
 ___
-- **Resonances:** [[Atraphothoromancia]], [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Atraphothoromancia]], [[Viridexacion]]- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous

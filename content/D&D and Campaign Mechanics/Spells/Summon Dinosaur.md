@@ -1,8 +1,7 @@
 #### Summon Dinosaur
 *Level 6 Conjuration*
 ___
-- **Resonances:** [[Viridexaction]]
-- **Casting Time:** Action
+- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S, M (polished scale worth 600+ GP)
 - **Duration:** Concentration, up to 1 hour

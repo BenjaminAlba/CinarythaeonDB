@@ -1,8 +1,7 @@
 #### Heroes' Feast
 *Level 6 Conjuration*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexaction]]
-- **Casting Time:** 10 minutes
+- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** 10 minutes
 - **Range:** Self (10-foot Cube)
 - **Components:** V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)
 - **Duration:** Instantaneous
