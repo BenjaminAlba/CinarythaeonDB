@@ -7,9 +7,9 @@ tags:
   - Spellcasting
 ---
 
-# Lanzamiento de conjuros no natural
+# Lanzamiento de Conjuros No Natural
 
-La magia está al alcance de todos los personajes de Cinarythaeon. El siguiente rasgo concede lanzamiento de conjuros a los personajes cuya clase no lo proporciona. Si obtienes lanzamiento de conjuros mediante otro rasgo de clase o subclase, combina tus cantidades disponibles como se describe en **Otros rasgos de lanzamiento de conjuros**.
+La magia está al alcance de todos los personajes de Cinarythaeon. El siguiente rasgo concede lanzamiento de conjuros a los personajes cuya clase no lo proporciona. Si obtienes lanzamiento de conjuros mediante otro rasgo de clase o subclase, combina tus cantidades disponibles como se describe en [[#Otros rasgos de lanzamiento de conjuros|otros rasgos de lanzamiento de conjuros.]]
 
 ## Lanzamiento de conjuros
 

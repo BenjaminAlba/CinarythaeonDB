@@ -6,7 +6,6 @@ tags:
   - Campaign-Rules
   - Spellcasting
 ---
-
 # Non-Natural Spellcasting
 
 Magic is available to every character in Cinarythaeon. The following feature grants spellcasting to characters whose class does not provide it. If you gain spellcasting from another class or subclass feature, combine your allowances as described under **Other Spellcasting Features**.

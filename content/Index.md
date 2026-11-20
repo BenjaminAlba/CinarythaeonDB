@@ -19,8 +19,7 @@ Blood Hunter ( Todavía no :) )
 Y más por venir...
 
 ***Mecánicas de la Campaña:***
-
-[[Spellcasting Rules]]
+[[Non Natural Spellcasting]] | [[Lanzamiento de Conjuros No Natural]]
 [[Durability]]
 [[Death Saving Throws]]
 [[Critical Hits]]
@@ -29,8 +28,17 @@ Y más por venir...
 [[Critical Damage (CDMG)]]
 [[Critical Penalties]]
 
-***Mecánicas Principales:***
+***Resonancias:***
+[[Atraphothoromancia]] | [[Atraphothoromancia ESP]]
+[[Entropomortia]] | [[Entropomortia ESP]]
+[[D&D and Campaign Mechanics/Spell Resonances/English/Mnelyxphora|Mnelyxphora]] | [[Mnelyxphora ESP]]
+[[Nihilokathra]] | [[Nihilokathra ESP]]
+[[Oboromancia]] | [[Oboromancia ESP]]
+[[Rhodoklērion]] | [[Rhodoklērion ESP]]
+[[D&D and Campaign Mechanics/Spell Resonances/English/Syderynthos|Syderynthos]] | [[Syderynthos ESP]]
+[[Viridexacion]] | [[Viridexacion ESP]]
 
+***Mecánicas Principales:***
 [[Armor]], [[Weapons]]
 [[Feats]]
 [[Origins]]
