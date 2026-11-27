@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Chill Touch
 *Necromancy Cantrip*
 ___

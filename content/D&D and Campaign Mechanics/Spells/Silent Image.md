@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Silent Image
 *Level 1 Illusion*
 ___

@@ -1,7 +1,7 @@
 #### Bless
 *Level 1 Enchantment*
 ___
-- **Resonances:** [[Viridexacion]], [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a Holy Symbol worth 5+ GP)

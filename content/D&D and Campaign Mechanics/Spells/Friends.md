@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Friends
 *Enchantment Cantrip*
 ___

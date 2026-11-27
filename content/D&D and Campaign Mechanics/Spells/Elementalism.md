@@ -1,7 +1,13 @@
+---
+tags:
+  - generic
+---
+
 #### Elementalism
 *Transmutation Cantrip*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

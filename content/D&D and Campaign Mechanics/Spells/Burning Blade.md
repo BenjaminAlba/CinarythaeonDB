@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Burning Blade
 *Evocation Cantrip*
 ___

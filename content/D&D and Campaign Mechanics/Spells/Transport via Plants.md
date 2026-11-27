@@ -1,7 +1,7 @@
 #### Transport via Plants
 *Level 6 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** 10 feet
 - **Components:** V, S

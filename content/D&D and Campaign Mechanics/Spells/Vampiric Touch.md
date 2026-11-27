@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Vampiric Touch
 *Level 3 Necromancy*
 ___

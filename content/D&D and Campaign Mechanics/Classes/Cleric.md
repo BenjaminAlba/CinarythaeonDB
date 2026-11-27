@@ -163,30 +163,34 @@ You can call on even more powerful divine intervention. When you use your [[Cler
 
 ## Cleric Spell List
 
-This section presents the Cleric spell list. The spells are organized by spell level and then alphabetized.
+### Cantrips (13)
 
-#### Cantrips (0 Level)
-
+- [[Bitter Wind]]
 - [[Guidance]]
+- [[Hateful Haunting]]
 - [[Light]]
 - [[Mending]]
+- [[Overexposure]]
 - [[Resistance]]
+- [[Righteous Incitement]]
 - [[Sacred Flame]]
 - [[Spare the Dying]]
 - [[Thaumaturgy]]
 - [[Toll the Dead]]
 - [[Word of Radiance]]
 
-#### 1st Level
+### Level 1 (18)
 
 - [[Bane]]
 - [[Bless]]
+- [[Clue]]
 - [[Command]]
 - [[Create or Destroy Water]]
 - [[Cure Wounds]]
 - [[Detect Evil and Good]]
 - [[Detect Magic]]
 - [[Detect Poison and Disease]]
+- [[Grave Bolt]]
 - [[Guiding Bolt]]
 - [[Healing Word]]
 - [[Inflict Wounds]]
@@ -194,14 +198,18 @@ This section presents the Cleric spell list. The spells are organized by spell l
 - [[Purify Food and Drink]]
 - [[Sanctuary]]
 - [[Shield of Faith]]
+- [[Wardaway]]
 
-#### 2nd Level
+### Level 2 (20)
 
 - [[Aid]]
 - [[Augury]]
-- [[Blindness-Deafness]]
+- [[Blindness-Deafness|Blindness/Deafness]]
 - [[Calm Emotions]]
+- [[Chorus of the Lost]]
 - [[Continual Flame]]
+- [[Deryans Helpful Homunculi|Deryan's Helpful Homunculi]]
+- [[Dueling Ground]]
 - [[Enhance Ability]]
 - [[Find Traps]]
 - [[Gentle Repose]]
@@ -215,7 +223,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 - [[Warding Bond]]
 - [[Zone of Truth]]
 
-#### 3rd Level
+### Level 3 (26)
 
 - [[Animate Dead]]
 - [[Aura of Vitality]]
@@ -225,20 +233,26 @@ This section presents the Cleric spell list. The spells are organized by spell l
 - [[Create Food and Water]]
 - [[Daylight]]
 - [[Dispel Magic]]
+- [[Feign Death]]
 - [[Glyph of Warding]]
+- [[Harvest Moonglow]]
+- [[Laerals Silver Lance|Laeral's Silver Lance]]
+- [[Life Transference]]
 - [[Magic Circle]]
 - [[Mass Healing Word]]
 - [[Meld into Stone]]
 - [[Protection from Energy]]
 - [[Remove Curse]]
-- [[Revivify]] 
+- [[Revivify]]
+- [[Scarlet Dawn]]
 - [[Sending]]
 - [[Speak with Dead]]
 - [[Spirit Guardians]]
+- [[Spirit Shroud]]
 - [[Tongues]]
 - [[Water Walk]]
 
-#### 4th Level
+### Level 4 (11)
 
 - [[Aura of Life]]
 - [[Aura of Purity]]
@@ -246,33 +260,41 @@ This section presents the Cleric spell list. The spells are organized by spell l
 - [[Control Water]]
 - [[Death Ward]]
 - [[Divination]]
+- [[Doomtide]]
 - [[Freedom of Movement]]
 - [[Guardian of Faith]]
 - [[Locate Creature]]
 - [[Stone Shape]]
 
-#### 5th Level
+### Level 5 (21)
 
 - [[Circle of Power]]
 - [[Commune]]
 - [[Contagion]]
+- [[Dawn]]
 - [[Dispel Evil and Good]]
+- [[Field of Reaping]]
 - [[Flame Strike]]
 - [[Geas]]
+- [[Grave Ground]]
 - [[Greater Restoration]]
 - [[Hallow]]
+- [[Holy Weapon]]
 - [[Insect Plague]]
 - [[Legend Lore]]
 - [[Mass Cure Wounds]]
 - [[Planar Binding]]
-- [[Raise Dead]] (*Does Not Exist in Cynarythaeon*)
+- [[Raise Dead]]
 - [[Scrying]]
+- [[Spirit Lantern]]
 - [[Summon Celestial]]
+- [[Sword of Judgment]]
 
-#### 6th Level
+### Level 6 (12)
 
 - [[Blade Barrier]]
 - [[Create Undead]]
+- [[Dirge]]
 - [[Find the Path]]
 - [[Forbiddance]]
 - [[Harm]]
@@ -283,7 +305,7 @@ This section presents the Cleric spell list. The spells are organized by spell l
 - [[True Seeing]]
 - [[Word of Recall]]
 
-#### 7th Level
+### Level 7 (11)
 
 - [[Conjure Celestial]]
 - [[Divine Word]]
@@ -292,24 +314,27 @@ This section presents the Cleric spell list. The spells are organized by spell l
 - [[Plane Shift]]
 - [[Power Word Fortify]]
 - [[Regenerate]]
-- [[Resurrection]] (*Does Not Exist in Cynarythaeon*)
+- [[Resurrection]]
+- [[Reweave Fate]]
 - [[Symbol]]
+- [[Temple of the Gods]]
 
-#### 8th Level
+### Level 8 (6)
 
 - [[Antimagic Field]]
 - [[Control Weather]]
 - [[Earthquake]]
 - [[Holy Aura]]
+- [[Holy Star of Mystra]]
 - [[Sunburst]]
 
-#### 9th Level
+### Level 9 (5)
 
 - [[Astral Projection]]
 - [[Gate]]
 - [[Mass Heal]]
 - [[Power Word Heal]]
-- [[True Resurrection]] (*Does Not Exist in Cynarythaeon*)
+- [[True Resurrection]]
 
 ## Cleric Subclasses
 

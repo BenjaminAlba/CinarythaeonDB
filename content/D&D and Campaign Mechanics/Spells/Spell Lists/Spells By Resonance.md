@@ -1,6 +1,6 @@
 # Spells and Cantrips by Resonance
 
-**Jump to:** [[#Nihilokathra (79)|Nihilokathra]] · [[#Atraphothoromancia (100)|Atraphothoromancia]] · [[#Rhodoklērion (147)|Rhodoklērion]] · [[#Viridexacion (209)|Viridexacion]] · [[#Entropomortia (123)|Entropomortia]] · [[#Oboromancia (176)|Oboromancia]] · [[#Syderynthos (117)|Syderynthos]] · [[#Mnelyxphora (92)|Mnelyxphora]]
+**Jump to:** [[#Nihilokathra (79)|Nihilokathra]] · [[#Atraphothoromancia (100)|Atraphothoromancia]] · [[#Rhodoklērion (147)|Rhodoklērion]] · [[#Viridexaction (209)|Viridexaction]] · [[#Entropomortia (123)|Entropomortia]] · [[#Oboromancia (176)|Oboromancia]] · [[#Syderynthos (117)|Syderynthos]] · [[#Mnelyxphora (92)|Mnelyxphora]]
 
 ## Nihilokathra (79)
 
@@ -424,7 +424,7 @@
 - [[Wail of the Banshee]]
 - [[Weird]]
 
-## Viridexacion (209)
+## Viridexaction (209)
 
 ### Cantrips (14)
 
@@ -1192,7 +1192,7 @@
 - [[Find Familiar]]
 - [[Identify]]
 
-### Level 2 (15)
+### Level 2 (14)
 
 - [[Augury]]
 - [[Beast Sense]]
@@ -1204,9 +1204,6 @@
 - [[Mind Spike]]
 - [[Misty Step]]
 - [[Protect Threshold]]
-| Spell | Classes |
-| --- | --- |
-| [[Recall]] | **Unlisted** |
 - [[Rope Trick]]
 - [[Sanguine Secrets]]
 - [[See Invisibility]]

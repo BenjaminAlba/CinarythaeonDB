@@ -1,7 +1,7 @@
 #### Conjure Minor Elementals
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** Self (15-foot Emanation)
 - **Components:** V, S

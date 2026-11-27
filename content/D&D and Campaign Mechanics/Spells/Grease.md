@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Grease
 *Level 1 Conjuration*
 ___

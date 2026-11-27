@@ -1,7 +1,8 @@
 #### Stoneskin
 *Level 4 Transmutation*
 ___
-- **Resonances:** [[Syderynthos]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Syderynthos]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
 - **Duration:** Concentration, up to 1 hour

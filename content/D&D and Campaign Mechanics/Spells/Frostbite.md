@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Frostbite
 *Evocation Cantrip*
 ___

@@ -1,7 +1,7 @@
 #### Investiture of Wind
 *Level 6 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S

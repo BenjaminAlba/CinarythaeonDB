@@ -1,7 +1,12 @@
+---
+tags:
+  - generic
+---
+
 #### Absorb Elements
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
 - **Casting Time:** Reaction, which you take when you take acid, cold, fire, lightning, or thunder damage
 - **Range:** Self
 - **Components:** S

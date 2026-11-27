@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Bestow Curse
 *Level 3 Necromancy*
 ___

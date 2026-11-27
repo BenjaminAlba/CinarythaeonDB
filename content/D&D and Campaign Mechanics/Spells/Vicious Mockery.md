@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Vicious Mockery
 *Enchantment Cantrip*
 ___

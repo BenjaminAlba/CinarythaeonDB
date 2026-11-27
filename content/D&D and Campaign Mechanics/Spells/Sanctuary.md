@@ -1,7 +1,7 @@
 #### Sanctuary
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
+- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
 - **Casting Time:** Bonus Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a shard of glass from a mirror)

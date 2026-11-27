@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Sapping Sting
 *Necromancy Cantrip*
 ___

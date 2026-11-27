@@ -1,7 +1,8 @@
 #### Mass Heal
 *Level 9 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

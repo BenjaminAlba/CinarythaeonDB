@@ -1,7 +1,7 @@
 #### Glyph of Warding
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** 1 hour
 - **Range:** Touch
 - **Components:** V, S, M (powdered diamond worth 200+ GP, which the spell consumes)

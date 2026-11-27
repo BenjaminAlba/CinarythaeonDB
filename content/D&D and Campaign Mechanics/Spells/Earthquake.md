@@ -1,7 +1,8 @@
 #### Earthquake
 *Level 8 Transmutation*
 ___
-- **Resonances:** [[Syderynthos]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Syderynthos]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 500 feet
 - **Components:** V, S, M (a fractured rock)
 - **Duration:** Concentration, up to 1 minute

@@ -1,7 +1,8 @@
 #### Spike Growth
 *Level 2 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 150 feet
 - **Components:** V, S, M (seven thorns)
 - **Duration:** Concentration, up to 10 minutes

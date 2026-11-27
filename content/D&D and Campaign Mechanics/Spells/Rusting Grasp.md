@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 <!--
 3rd resonance: [[Qhaevoryth]]
 -->

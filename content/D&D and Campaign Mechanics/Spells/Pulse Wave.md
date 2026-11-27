@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Pulse Wave
 *Level 3 Evocation*
 ___

@@ -1,7 +1,7 @@
 #### Sunbeam
 *Level 6 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
+- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
 - **Casting Time:** Action
 - **Range:** Self (60-foot Line)
 - **Components:** V, S, M (a magnifying glass)

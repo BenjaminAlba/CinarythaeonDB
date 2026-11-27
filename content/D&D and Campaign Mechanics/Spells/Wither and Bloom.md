@@ -1,7 +1,8 @@
 #### Wither and Bloom
 *Level 2 Necromancy*
 ___
-- **Resonances:** [[Nihilokathra]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Nihilokathra]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S, M (a withered vine twisted into a loop)
 - **Duration:** Instantaneous

@@ -1,7 +1,7 @@
 #### Crusader's Mantle
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
+- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
 - **Casting Time:** Action
 - **Range:** Self (30-foot Emanation)
 - **Components:** V

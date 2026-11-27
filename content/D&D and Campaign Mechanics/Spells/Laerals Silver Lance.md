@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Laeral's Silver Lance
 *Level 3 Evocation*
 ___

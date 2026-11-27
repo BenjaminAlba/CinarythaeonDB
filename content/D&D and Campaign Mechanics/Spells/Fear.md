@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Fear
 *Level 3 Illusion*
 ___

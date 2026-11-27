@@ -1,7 +1,8 @@
 #### Power Word Fortify
 *Level 7 Enchantment*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous

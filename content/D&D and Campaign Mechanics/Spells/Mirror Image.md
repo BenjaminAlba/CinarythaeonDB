@@ -1,7 +1,13 @@
+---
+tags:
+  - generic
+---
+
 #### Mirror Image
 *Level 2 Illusion*
 ___
-- **Resonances:** [[Rhodoklērion]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Rhodoklērion]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** 1 minute

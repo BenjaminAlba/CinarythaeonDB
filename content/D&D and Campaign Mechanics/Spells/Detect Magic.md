@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Detect Magic
 *Level 1 Divination*
 ___

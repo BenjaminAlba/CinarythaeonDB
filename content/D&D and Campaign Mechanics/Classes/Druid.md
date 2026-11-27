@@ -197,32 +197,49 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 ## Druid Spell List
 
-This section presents the Druid spell list. The spells are organized by spell level and then alphabetized.
+### Cantrips (27)
 
-#### Cantrips (0 Level)
-
+- [[Bitter Wind]]
+- [[Caustic Claw]]
+- [[Concealed Shot]]
+- [[Control Flames]]
+- [[Create Bonfire]]
 - [[Druidcraft]]
 - [[Elementalism]]
+- [[Frostbite]]
+- [[Give Life]]
 - [[Guidance]]
+- [[Gust]]
+- [[Infestation]]
+- [[Magic Stone]]
 - [[Mending]]
 - [[Message]]
+- [[Mold Earth]]
 - [[Poison Spray]]
+- [[Primal Savagery]]
 - [[Produce Flame]]
 - [[Resistance]]
+- [[Shape Water]]
 - [[Shillelagh]]
 - [[Spare the Dying]]
 - [[Starry Wisp]]
 - [[Thorn Whip]]
+- [[Thornhold]]
 - [[Thunderclap]]
 
-#### 1st Level
+### Level 1 (24)
 
+- [[Absorb Elements]]
 - [[Animal Friendship]]
+- [[Beast Bond]]
 - [[Charm Person]]
+- [[Clue]]
+- [[Conjure Cover]]
 - [[Create or Destroy Water]]
 - [[Cure Wounds]]
 - [[Detect Magic]]
 - [[Detect Poison and Disease]]
+- [[Earth Tremor]]
 - [[Entangle]]
 - [[Faerie Fire]]
 - [[Fog Cloud]]
@@ -233,24 +250,30 @@ This section presents the Druid spell list. The spells are organized by spell le
 - [[Longstrider]]
 - [[Protection from Evil and Good]]
 - [[Purify Food and Drink]]
+- [[Snare]]
 - [[Speak with Animals]]
 - [[Thunderwave]]
 
-#### 2nd Level
+### Level 2 (32)
 
 - [[Aid]]
 - [[Animal Messenger]]
 - [[Augury]]
 - [[Barkskin]]
+- [[Battle Familiar]]
 - [[Beast Sense]]
 - [[Continual Flame]]
 - [[Darkvision]]
+- [[Dueling Ground]]
+- [[Dust Devil]]
+- [[Earthbind]]
 - [[Enhance Ability]]
-- [[Enlarge-Reduce]]
+- [[Enlarge-Reduce|Enlarge/Reduce]]
 - [[Find Traps]]
 - [[Flame Blade]]
 - [[Flaming Sphere]]
 - [[Gust of Wind]]
+- [[Healing Spirit]]
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Lesser Restoration]]
@@ -259,84 +282,129 @@ This section presents the Druid spell list. The spells are organized by spell le
 - [[Moonbeam]]
 - [[Pass without Trace]]
 - [[Protection from Poison]]
+- [[Skywrite]]
 - [[Spike Growth]]
+- [[Stone Bones]]
 - [[Summon Beast]]
+- [[Warding Wind]]
+- [[Wither and Bloom]]
 
-#### 3rd Level
+### Level 3 (30)
 
 - [[Aura of Vitality]]
 - [[Call Lightning]]
 - [[Conjure Animals]]
+- [[Creeping Rot]]
+- [[Crooked Ward]]
+- [[Culling Sickle]]
 - [[Daylight]]
 - [[Dispel Magic]]
 - [[Elemental Weapon]]
+- [[Erupting Earth]]
 - [[Feign Death]]
+- [[Flame Arrows]]
+- [[Harvest Moonglow]]
 - [[Meld into Stone]]
+- [[Mortal Terror]]
 - [[Plant Growth]]
+- [[Polybrachia]]
 - [[Protection from Energy]]
-- [[Revivify]] (*Does Not Exist in Cynarythaeon*)
+- [[Revivify]]
+- [[Rusting Grasp]]
+- [[Scarlet Dawn]]
 - [[Sleet Storm]]
 - [[Speak with Plants]]
 - [[Summon Fey]]
+- [[Sylunés Viper|Syluné's Viper]]
+- [[Tidal Wave]]
+- [[Wall of Water]]
 - [[Water Breathing]]
 - [[Water Walk]]
 - [[Wind Wall]]
 
-#### 4th Level
+### Level 4 (30)
 
 - [[Blight]]
+- [[Buried Alive]]
+- [[Call of the Wild]]
 - [[Charm Monster]]
 - [[Confusion]]
 - [[Conjure Minor Elementals]]
 - [[Conjure Woodland Beings]]
+- [[Consuming Pyre]]
 - [[Control Water]]
 - [[Divination]]
 - [[Dominate Beast]]
+- [[Elemental Bane]]
+- [[Festering Blast]]
 - [[Fire Shield]]
 - [[Fount of Moonlight]]
 - [[Freedom of Movement]]
 - [[Giant Insect]]
+- [[Grasping Vine]]
+- [[Guardian of Nature]]
 - [[Hallucinatory Terrain]]
 - [[Ice Storm]]
 - [[Locate Creature]]
+- [[Murder of Crows]]
 - [[Polymorph]]
 - [[Stone Shape]]
 - [[Stoneskin]]
 - [[Summon Elemental]]
+- [[Wall of Death]]
 - [[Wall of Fire]]
+- [[Watery Sphere]]
 
-#### 5th Level
+### Level 5 (23)
 
+- [[Alustriels Mooncloak|Alustriel's Mooncloak]]
 - [[Antilife Shell]]
 - [[Awaken]]
 - [[Commune with Nature]]
 - [[Cone of Cold]]
 - [[Conjure Elemental]]
 - [[Contagion]]
+- [[Control Winds]]
+- [[Field of Reaping]]
 - [[Geas]]
 - [[Greater Restoration]]
 - [[Insect Plague]]
+- [[Maelstrom]]
 - [[Mass Cure Wounds]]
 - [[Planar Binding]]
-- [[Reincarnate]] (*Does Not Exist in Cynarythaeon*)
+- [[Reincarnate]]
 - [[Scrying]]
+- [[Songals Elemental Suffusion|Songal's Elemental Suffusion]]
+- [[Summon Plant]]
+- [[Transmute Rock]]
 - [[Tree Stride]]
 - [[Wall of Stone]]
+- [[Wrath of Nature]]
 
-#### 6th Level
+### Level 6 (20)
 
+- [[Bones of the Earth]]
 - [[Conjure Fey]]
+- [[Druid Grove]]
+- [[Elminsters Effulgent Spheres|Elminster's Effulgent Spheres]]
 - [[Find the Path]]
+- [[First Speech]]
 - [[Flesh to Stone]]
 - [[Heal]]
 - [[Heroes Feast|Heroes' Feast]]
+- [[Investiture of Flame]]
+- [[Investiture of Ice]]
+- [[Investiture of Stone]]
+- [[Investiture of Wind]]
 - [[Move Earth]]
+- [[Primordial Ward]]
+- [[Summon Dinosaur]]
 - [[Sunbeam]]
 - [[Transport via Plants]]
 - [[Wall of Thorns]]
 - [[Wind Walk]]
 
-#### 7th Level
+### Level 7 (7)
 
 - [[Fire Storm]]
 - [[Mirage Arcane]]
@@ -344,24 +412,27 @@ This section presents the Druid spell list. The spells are organized by spell le
 - [[Regenerate]]
 - [[Reverse Gravity]]
 - [[Symbol]]
+- [[Whirlwind]]
 
-#### 8th Level
+### Level 8 (10)
 
 - [[Animal Shapes]]
-- [[Antipathy-Sympathy]]
+- [[Antipathy-Sympathy|Antipathy/Sympathy]]
 - [[Befuddlement]]
 - [[Control Weather]]
 - [[Earthquake]]
 - [[Incendiary Cloud]]
+- [[Lightning Ring]]
+- [[Rocks Fall]]
 - [[Sunburst]]
 - [[Tsunami]]
 
-#### 9th Level
+### Level 9 (4)
 
 - [[Foresight]]
 - [[Shapechange]]
 - [[Storm of Vengeance]]
-- [[True Resurrection]] (*Does Not Exist in Cynarythaeon*)
+- [[True Resurrection]]
 
 ## Druid Subclasses
 

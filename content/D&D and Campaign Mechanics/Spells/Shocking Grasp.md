@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Shocking Grasp
 *Evocation Cantrip*
 ___

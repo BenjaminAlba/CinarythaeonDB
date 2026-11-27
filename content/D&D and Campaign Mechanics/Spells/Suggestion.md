@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Suggestion
 *Level 2 Enchantment*
 ___

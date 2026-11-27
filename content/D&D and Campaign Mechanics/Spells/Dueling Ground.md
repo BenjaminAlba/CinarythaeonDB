@@ -1,7 +1,7 @@
 #### Dueling Ground
 *Level 2 Abjuration (Ritual)*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** 10 minutes
 - **Range:** Touch
 - **Components:** V, S, M (a silk flag worth 100+ GP)

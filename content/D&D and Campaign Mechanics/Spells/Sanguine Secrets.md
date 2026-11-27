@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Sanguine Secrets
 *Level 2 Divination*
 ___

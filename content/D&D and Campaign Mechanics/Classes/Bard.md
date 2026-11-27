@@ -142,29 +142,35 @@ You have mastered two of the Words of Creation: the words of life and death. You
 
 ## Bard Spell List
 
-This section presents the Bard spell list. The spells are organized by spell level and then alphabetized.
+### Cantrips (20)
 
-#### Cantrips (0 Level)
-
+- [[Aundairs Silent Sanctum|Aundair's Silent Sanctum]]
+- [[Baffle]]
 - [[Blade Ward]]
+- [[Concealed Shot]]
 - [[Dancing Lights]]
+- [[Finger Guns]]
 - [[Friends]]
 - [[Light]]
 - [[Mage Hand]]
+- [[Magecraft]]
 - [[Mending]]
 - [[Message]]
 - [[Minor Illusion]]
+- [[Overexposure]]
+- [[Phantasmal Feint]]
 - [[Prestidigitation]]
 - [[Starry Wisp]]
 - [[Thunderclap]]
 - [[True Strike]]
 - [[Vicious Mockery]]
 
-#### 1st Level
+### Level 1 (27)
 
 - [[Animal Friendship]]
 - [[Bane]]
 - [[Charm Person]]
+- [[Clue]]
 - [[Color Spray]]
 - [[Command]]
 - [[Comprehend Languages]]
@@ -172,31 +178,41 @@ This section presents the Bard spell list. The spells are organized by spell lev
 - [[Detect Magic]]
 - [[Disguise Self]]
 - [[Dissonant Whispers]]
+- [[Earth Tremor]]
 - [[Faerie Fire]]
 - [[Feather Fall]]
+- [[Forced Hesitation]]
 - [[Healing Word]]
 - [[Heroism]]
-- [[Tashas Hideous Laughter|Tasha's Hideous Laughter]]
 - [[Identify]]
 - [[Illusory Script]]
 - [[Longstrider]]
 - [[Silent Image]]
 - [[Sleep]]
 - [[Speak with Animals]]
+- [[Tashas Hideous Laughter|Tasha's Hideous Laughter]]
 - [[Thunderwave]]
 - [[Unseen Servant]]
+- [[Wardaway]]
 
-#### 2nd Level
+### Level 2 (36)
 
+- [[Aid]]
 - [[Animal Messenger]]
-- [[Blindness-Deafness]]
+- [[Blindness-Deafness|Blindness/Deafness]]
+- [[Blunder]]
 - [[Calm Emotions]]
+- [[Chorus of the Lost]]
 - [[Cloud of Daggers]]
 - [[Crown of Madness]]
 - [[Detect Thoughts]]
+- [[Disruptive Tune]]
+- [[Dueling Ground]]
 - [[Enhance Ability]]
-- [[Enlarge-Reduce]]
+- [[Enlarge-Reduce|Enlarge/Reduce]]
 - [[Enthrall]]
+- [[Hangover]]
+- [[Harrowing Ballad]]
 - [[Heat Metal]]
 - [[Hold Person]]
 - [[Invisibility]]
@@ -207,21 +223,32 @@ This section presents the Bard spell list. The spells are organized by spell lev
 - [[Magic Mouth]]
 - [[Mirror Image]]
 - [[Phantasmal Force]]
+- [[Pyrotechnics]]
 - [[See Invisibility]]
 - [[Shatter]]
 - [[Silence]]
+- [[Skywrite]]
 - [[Suggestion]]
+- [[Uncertain Footing]]
+- [[Unraveling Whisper]]
+- [[Warding Wind]]
 - [[Zone of Truth]]
 
-#### 3rd Level
+### Level 3 (25)
 
 - [[Bestow Curse]]
+- [[Cacophonic Shield]]
+- [[Catnap]]
 - [[Clairvoyance]]
+- [[Cursed Cacophany]]
 - [[Dispel Magic]]
+- [[Enemies Abound]]
 - [[Fear]]
 - [[Feign Death]]
 - [[Glyph of Warding]]
 - [[Hypnotic Pattern]]
+- [[Inflict Doubt]]
+- [[Intellect Fortress]]
 - [[Leomunds Tiny Hut|Leomund's Tiny Hut]]
 - [[Major Image]]
 - [[Mass Healing Word]]
@@ -232,24 +259,32 @@ This section presents the Bard spell list. The spells are organized by spell lev
 - [[Speak with Dead]]
 - [[Speak with Plants]]
 - [[Stinking Cloud]]
+- [[Strike Order]]
 - [[Tongues]]
 
-#### 4th Level
+### Level 4 (17)
 
+- [[Backlash]]
+- [[Call of the Wild]]
 - [[Charm Monster]]
 - [[Compulsion]]
 - [[Confusion]]
 - [[Dimension Door]]
+- [[Distorted Distance]]
+- [[Doomtide]]
 - [[Fount of Moonlight]]
 - [[Freedom of Movement]]
 - [[Greater Invisibility]]
 - [[Hallucinatory Terrain]]
+- [[Intrusive Despair]]
 - [[Locate Creature]]
 - [[Phantasmal Killer]]
 - [[Polymorph]]
+- [[Zone of Amicability]]
 
-#### 5th Level
+### Level 5 (23)
 
+- [[Alustriels Mooncloak|Alustriel's Mooncloak]]
 - [[Animate Objects]]
 - [[Awaken]]
 - [[Dominate Person]]
@@ -258,21 +293,27 @@ This section presents the Bard spell list. The spells are organized by spell lev
 - [[Greater Restoration]]
 - [[Hold Monster]]
 - [[Legend Lore]]
+- [[Lucky Charm]]
 - [[Mass Cure Wounds]]
 - [[Mislead]]
 - [[Modify Memory]]
 - [[Planar Binding]]
-- [[Raise Dead]] (*Does Not Exist in Cynarythaeon*)
+- [[Raise Dead]]
+- [[Rarys Telepathic Bond|Rary's Telepathic Bond]]
+- [[Reflect Magic]]
 - [[Scrying]]
 - [[Seeming]]
+- [[Skill Empowerment]]
 - [[Synaptic Static]]
 - [[Teleportation Circle]]
 - [[Yolandes Regal Presence|Yolande's Regal Presence]]
 
-#### 6th Level
+### Level 6 (10)
 
+- [[Dirge]]
 - [[Eyebite]]
 - [[Find the Path]]
+- [[First Speech]]
 - [[Guards and Wards]]
 - [[Heroes Feast|Heroes' Feast]]
 - [[Mass Suggestion]]
@@ -280,37 +321,46 @@ This section presents the Bard spell list. The spells are organized by spell lev
 - [[Programmed Illusion]]
 - [[True Seeing]]
 
-#### 7th Level
+### Level 7 (17)
 
+- [[Dream of the Blue Veil]]
 - [[Etherealness]]
 - [[Forcecage]]
+- [[Fractured Awareness]]
 - [[Mirage Arcane]]
 - [[Mordenkainens Magnificent Mansion|Mordenkainen's Magnificent Mansion]]
 - [[Mordenkainens Sword|Mordenkainen's Sword]]
 - [[Power Word Fortify]]
+- [[Power Word Pain]]
 - [[Prismatic Spray]]
 - [[Project Image]]
 - [[Regenerate]]
-- [[Resurrection]] (*Does Not Exist in Cynarythaeon*)
+- [[Resurrection]]
+- [[Reweave Fate]]
 - [[Symbol]]
 - [[Teleport]]
+- [[Transfix]]
 
-#### 8th Level
+### Level 8 (7)
 
-- [[Antipathy-Sympathy]]
-- [[Dominate Monster]]
+- [[Antipathy-Sympathy|Antipathy/Sympathy]]
 - [[Befuddlement]]
+- [[Dominate Monster]]
+- [[Entrancing Mirrors]]
 - [[Glibness]]
 - [[Mind Blank]]
 - [[Power Word Stun]]
 
-#### 9th Level
+### Level 9 (8)
 
 - [[Foresight]]
-- [[Power Word Kill]]
+- [[Mass Polymorph]]
 - [[Power Word Heal]]
+- [[Power Word Kill]]
 - [[Prismatic Wall]]
+- [[Psychic Scream]]
 - [[True Polymorph]]
+- [[Vision of Elapsing Eons]]
 
 ## Bard Subclasses
 
@@ -338,7 +388,7 @@ None of this feature's movement provokes [[Combat#Opportunity Attacks|Opportunit
 
 #### Tandem Footwork (Level 6)
 
-When you roll Initiative, you can expend one use of your [[Bard#Bardic Inspiration (Level 1)|Bardic Inspiration]] if you don't have the [[Conditions#Incapacitated|Incapacitated]] condition. When you do so, roll your[[Bard#Bardic Inspiration (Level 1)|Bardic Inspiration]] die; you and each ally within 30 feet of you who can see or hear you gains a bonus to Initiative equal to the number rolled.
+When you roll Initiative, you can expend one use of your [[Bard#Bardic Inspiration (Level 1)|Bardic Inspiration]] if you don't have the [[Conditions#Incapacitated|Incapacitated]] condition. When you do so, roll your [[Bard#Bardic Inspiration (Level 1)|Bardic Inspiration]] die; you and each ally within 30 feet of you who can see or hear you gains a bonus to Initiative equal to the number rolled.
 
 #### Leading Evasion (Level 14)
 

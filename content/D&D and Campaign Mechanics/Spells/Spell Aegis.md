@@ -1,7 +1,7 @@
 #### Spell Aegis
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** S, M (a turtle shell)

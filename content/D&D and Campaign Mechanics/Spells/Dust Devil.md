@@ -1,7 +1,7 @@
 #### Dust Devil
 *Level 2 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S, M (a pinch of dust)

@@ -1,7 +1,7 @@
 #### Beacon of Hope
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S

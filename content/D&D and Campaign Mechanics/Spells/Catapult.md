@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Catapult
 *Level 1 Transmutation*
 ___

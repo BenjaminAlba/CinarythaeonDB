@@ -1,7 +1,7 @@
 #### Dispel Evil and Good
 *Level 5 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (powdered silver and iron)

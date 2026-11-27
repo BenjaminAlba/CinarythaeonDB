@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Blindness/Deafness
 *Level 2 Transmutation*
 ___

@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Minor Illusion
 *Illusion Cantrip*
 ___

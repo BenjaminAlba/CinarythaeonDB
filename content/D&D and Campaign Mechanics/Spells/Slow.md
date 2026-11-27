@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Slow
 *Level 3 Transmutation*
 ___

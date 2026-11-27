@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Melf's Acid Arrow
 *Level 2 Evocation*
 ___

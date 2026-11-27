@@ -1,7 +1,8 @@
 #### Druid Grove
 *Level 6 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** 10 minutes
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** 10 minutes
 - **Range:** Touch
 - **Components:** V, S, M (mistletoe, which the spell consumes, that was harvested with a golden sickle under the light of a full moon)
 - **Duration:** 24 hours

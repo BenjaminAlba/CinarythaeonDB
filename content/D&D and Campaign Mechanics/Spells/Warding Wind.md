@@ -1,7 +1,8 @@
 #### Warding Wind
 *Level 2 Evocation*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes

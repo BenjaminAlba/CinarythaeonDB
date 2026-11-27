@@ -1,6 +1,6 @@
 # Magus Spell List
 
-**Jump to:** [[#Cantrips (11)|Cantrips]] · [[#Level 1 (17)|Level 1]] · [[#Level 2 (12)|Level 2]] · [[#Level 3 (13)|Level 3]] · [[#Level 4 (12)|Level 4]] · [[#Level 5 (9)|Level 5]] · [[#Level 6 (6)|Level 6]]
+**Jump to:** [[#Cantrips (11)|Cantrips]] · [[#Level 1 (17)|Level 1]] · [[#Level 2 (13)|Level 2]] · [[#Level 3 (12)|Level 3]] · [[#Level 4 (10)|Level 4]] · [[#Level 5 (9)|Level 5]] · [[#Level 6 (6)|Level 6]]
 
 ## Cantrips (11)
 
@@ -36,11 +36,12 @@
 - [[Towerfall Tactic]]
 - [[Weapon Aegis]]
 
-## Level 2 (12)
+## Level 2 (13)
 
+- [[Animate Shield]]
+- [[Animate Weapon|Animate Weapon (Rebalanced)]]
 - [[Arcane Invigoration]]
 - [[Blur]]
-- [[Dragons Breath|Dragon's Breath]]
 - [[Enlarge-Reduce|Enlarge/Reduce]]
 - [[Flame Blade]]
 - [[Hold Person]]
@@ -51,7 +52,7 @@
 - [[Misty Step]]
 - [[Ray of Enfeeblement]]
 
-## Level 3 (13)
+## Level 3 (12)
 
 - [[Counterspell]]
 - [[Dispel Magic]]
@@ -63,15 +64,13 @@
 - [[Phantom Steed]]
 - [[Protection from Energy]]
 - [[Slow]]
-- [[Strike Order]]
 - [[Vampiric Touch]]
 - [[Warriors Way|Warrior's Way]]
 
-## Level 4 (12)
+## Level 4 (10)
 
 - [[Assess Enemy]]
 - [[Banishment]]
-- [[Charm Monster]]
 - [[Conjure Minor Elementals]]
 - [[Death Ward]]
 - [[Fire Shield]]
@@ -79,7 +78,6 @@
 - [[Leomunds Secret Chest|Leomund's Secret Chest]]
 - [[Locate Creature]]
 - [[Stoneskin]]
-- [[Vitriolic Sphere]]
 - [[Wall of Fire]]
 
 ## Level 5 (9)

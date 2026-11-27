@@ -1,7 +1,7 @@
 #### Ensnaring Strike
 *Level 1 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
+- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
 - **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a weapon
 - **Range:** Self
 - **Components:** V

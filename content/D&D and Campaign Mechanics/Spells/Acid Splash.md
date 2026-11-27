@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Acid Splash
 *Evocation Cantrip*
 ___

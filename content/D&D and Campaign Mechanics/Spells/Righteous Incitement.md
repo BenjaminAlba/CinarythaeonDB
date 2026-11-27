@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Righteous Incitement
 *Evocation Cantrip*
 ___

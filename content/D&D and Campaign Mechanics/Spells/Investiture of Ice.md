@@ -1,7 +1,8 @@
 #### Investiture of Ice
 *Level 6 Transmutation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes

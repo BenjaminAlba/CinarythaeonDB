@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Mending
 *Transmutation Cantrip*
 ___

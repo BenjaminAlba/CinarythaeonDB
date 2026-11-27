@@ -1,7 +1,8 @@
 #### Grasping Vine
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Bonus Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Bonus Action
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

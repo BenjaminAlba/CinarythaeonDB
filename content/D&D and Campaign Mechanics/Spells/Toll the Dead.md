@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Toll the Dead
 *Necromancy Cantrip*
 ___

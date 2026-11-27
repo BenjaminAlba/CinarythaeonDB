@@ -61,7 +61,7 @@
 - [[Animal Messenger]]
 - [[Blindness-Deafness|Blindness/Deafness]]
 - [[Blunder]]
-- [[Calm Emotions]]    
+- [[Calm Emotions]]
 - [[Chorus of the Lost]]
 - [[Cloud of Daggers]]
 - [[Crown of Madness]]

@@ -1,7 +1,7 @@
 #### Warding Bond
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
+- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)

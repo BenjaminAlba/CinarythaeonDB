@@ -1,7 +1,7 @@
 #### Thorn Whip
 *Transmutation Cantrip*
 ___
-- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
+- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (the stem of a plant with thorns)

@@ -1,9 +1,17 @@
 # Critical Rate (CRT)
 
-La **probabilidad crítica (CRT)** es una mecánica nueva que vamos a añadir esta campaña. Representa el rango en el que un resultado en el dado del attack roll puede asestar un golpe crítico; por cada acumulación de CRT que poseas, el rango de valores que producen golpes críticos aumenta, de la siguiente manera:
+La **probabilidad crítica (CRT)** determina qué resultados naturales del d20 pueden producir un [[Critical Hits|golpe crítico]] con una tirada de ataque.
 
-- CRT(1) : El rango de valores 19 - 20 (10%) en el dado del attack roll 
-- CRT(2) : El rango de valores 18 - 20 (15%) en el dado del attack roll 
-- CRT(3) : El rango de valores 17 - 20 (20%) en el dado del attack roll
+| CRT | Rango Crítico |
+| --- | --- |
+| 0 | 20 |
+| 1 | 19–20 |
+| 2 | 18–20 |
+| 3 | 17–20 |
+El resultado debe ser el número del d20 utilizado para resolver la tirada (el resultado en el dado), antes de añadir modificadores.
 
-Más información [aquí](https://docs.google.com/presentation/d/1nhay92-mWMkITdJ3-FrEj6Qu1eBe8_cPw4p6rNXR5FU/edit?usp=sharing).
+Para cualquier resultado inferior a 20 dentro del rango crítico, el resultado total de la tirada de ataque debe igualar o superar la AC del objetivo.
+
+**Ejemplo.** Tienes CRT(3) y sacas un 17 natural. Tu bonificador de ataque es +2 y la AC del objetivo es 20. El resultado total es 19: el ataque falla y no es un crítico.
+
+El rango crítico nunca se amplía más allá de 17–20 y CRT no puede superar 3 acumulaciones efectivas.

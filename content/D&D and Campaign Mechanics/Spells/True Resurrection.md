@@ -1,7 +1,7 @@
 #### True Resurrection
 *Level 9 Necromancy*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** 1 hour
 - **Range:** Touch
 - **Components:** V, S, M (diamonds worth 25,000+ GP, which the spell consumes)

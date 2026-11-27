@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Thunderwave
 *Level 1 Evocation*
 ___

@@ -1,7 +1,7 @@
 #### Sword of Judgment
 *Level 5 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S, M (a strand of horse hair)

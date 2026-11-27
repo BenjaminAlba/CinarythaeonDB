@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Ray of Frost
 *Evocation Cantrip*
 ___

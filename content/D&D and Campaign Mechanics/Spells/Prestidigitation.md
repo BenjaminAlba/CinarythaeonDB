@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Prestidigitation
 *Transmutation Cantrip*
 ___

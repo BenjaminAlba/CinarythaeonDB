@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Message
 *Transmutation Cantrip*
 ___

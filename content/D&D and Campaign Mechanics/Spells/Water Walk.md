@@ -1,7 +1,8 @@
 #### Water Walk
 *Level 3 Transmutation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action (Ritual)
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
+- **Casting Time:** Action (Ritual)
 - **Range:** 30 feet
 - **Components:** V, S, M (a piece of cork)
 - **Duration:** 1 hour

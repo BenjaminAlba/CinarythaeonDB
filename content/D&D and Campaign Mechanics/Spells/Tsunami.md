@@ -1,7 +1,7 @@
 #### Tsunami
 *Level 8 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** 1 minute
 - **Range:** 1 mile
 - **Components:** V, S

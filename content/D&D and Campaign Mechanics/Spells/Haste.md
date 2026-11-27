@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Haste
 *Level 3 Transmutation*
 ___

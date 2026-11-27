@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Longstrider
 *Level 1 Transmutation*
 ___

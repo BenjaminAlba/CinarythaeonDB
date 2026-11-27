@@ -1,7 +1,7 @@
 #### Tree Stride
 *Level 5 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S

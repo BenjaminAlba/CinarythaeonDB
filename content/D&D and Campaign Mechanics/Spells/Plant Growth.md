@@ -1,7 +1,8 @@
 #### Plant Growth
 *Level 3 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action (Overgrowth) or 8 hours (Enrichment)
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action (Overgrowth) or 8 hours (Enrichment)
 - **Range:** 150 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

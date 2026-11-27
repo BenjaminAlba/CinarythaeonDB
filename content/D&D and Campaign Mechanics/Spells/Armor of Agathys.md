@@ -1,7 +1,7 @@
 #### Armor of Agathys
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]], [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Bonus action
 - **Range:** Self
 - **Components:** V, S, M (a shard of blue glass)

@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Blood Bolt
 *Necromancy Cantrip*
 ___

@@ -1,7 +1,7 @@
 #### Simbul's Synostodweomer
 *Level 7 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S

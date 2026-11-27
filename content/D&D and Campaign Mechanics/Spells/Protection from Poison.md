@@ -1,7 +1,8 @@
 #### Protection from Poison
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** 1 hour

@@ -1,7 +1,8 @@
 #### Skill Empowerment
 *Level 5 Transmutation*
 ___
-- **Resonances:** [[Mnelyxphora]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Mnelyxphora]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour

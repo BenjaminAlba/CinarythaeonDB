@@ -1,7 +1,7 @@
 #### Fog Cloud
 *Level 1 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S

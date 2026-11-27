@@ -1,7 +1,7 @@
 #### Spirit Guardians
 *Level 3 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** Self (15-foot Emanation)
 - **Components:** V, S, M (a prayer scroll)

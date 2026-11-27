@@ -1,7 +1,13 @@
+---
+tags:
+  - generic
+---
+
 #### Entangle
 *Level 1 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

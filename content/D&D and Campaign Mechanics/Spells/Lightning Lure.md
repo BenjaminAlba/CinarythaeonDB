@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Lightning Lure
 *Evocation Cantrip*
 ___

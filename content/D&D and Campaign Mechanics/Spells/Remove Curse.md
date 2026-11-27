@@ -1,7 +1,7 @@
 #### Remove Curse
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S

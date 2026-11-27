@@ -1,7 +1,7 @@
 #### Animal Messenger
 *Level 2 Enchantment*
 ___
-- **Resonances:** [[Viridexacion]], [[Rhodoklērion]]
+- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
 - **Casting Time:** Action or Ritual
 - **Range:** 30 feet
 - **Components:** V, S, M (a morsel of food)

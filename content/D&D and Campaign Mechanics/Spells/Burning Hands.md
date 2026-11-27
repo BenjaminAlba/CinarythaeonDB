@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Burning Hands
 *Level 1 Evocation*
 ___

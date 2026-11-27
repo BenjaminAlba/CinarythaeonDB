@@ -1,7 +1,7 @@
 #### Tidal Wave
 *Level 3 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S, M (a drop of water)

@@ -1,7 +1,8 @@
 #### Regenerate
 *Level 7 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** 1 minute
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** 1 minute
 - **Range:** Touch
 - **Components:** V, S, M (a prayer wheel)
 - **Duration:** 1 hour

@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Scorching Ray
 *Level 2 Evocation*
 ___

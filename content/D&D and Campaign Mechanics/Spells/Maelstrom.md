@@ -1,7 +1,7 @@
 #### Maelstrom
 *Level 5 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S, M (paper or leaf in the shape of a funnel)

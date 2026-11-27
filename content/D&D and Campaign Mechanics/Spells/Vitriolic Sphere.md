@@ -14,5 +14,5 @@ You point at a location within range, and a glowing, 1-foot-diameter ball of aci
 ***References***
 ___
 - **Source:** PHB'24, page 337.
-- **Classes:** Magus, Sorcerer, Wizard
+- **Classes:** Sorcerer, Wizard
 ---

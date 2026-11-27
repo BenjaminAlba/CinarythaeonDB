@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Unraveling Whisper
 *Level 2 Enchantment*
 ___

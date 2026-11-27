@@ -1,7 +1,7 @@
 #### Mordenkainen's Faithful Hound
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** V, S, M (a silver whistle)

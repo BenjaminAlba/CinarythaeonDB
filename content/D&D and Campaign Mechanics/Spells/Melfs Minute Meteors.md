@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Melf's Minute Meteors
 *Level 3 Evocation*
 ___

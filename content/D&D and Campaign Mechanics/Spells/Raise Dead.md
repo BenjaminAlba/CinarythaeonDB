@@ -1,7 +1,7 @@
 #### Raise Dead
 *Level 5 Necromancy*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** 1 hour
 - **Range:** Touch
 - **Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)

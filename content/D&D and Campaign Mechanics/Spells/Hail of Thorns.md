@@ -1,7 +1,7 @@
 #### Hail of Thorns
 *Level 1 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
+- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
 - **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Ranged weapon
 - **Range:** Self
 - **Components:** V

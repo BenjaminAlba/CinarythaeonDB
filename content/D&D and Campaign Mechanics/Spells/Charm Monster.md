@@ -14,5 +14,5 @@ One creature you can see within range makes a Wisdom saving throw. It does so wi
 ***References***
 ___
 - **Source:** PHB'24, page 249.
-- **Classes:** Bard, Druid, Magus, Sorcerer, Warlock, Wizard
+- **Classes:** Bard, Druid, Sorcerer, Warlock, Wizard
 ---

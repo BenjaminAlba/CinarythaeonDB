@@ -1,7 +1,7 @@
 #### Ice Storm
 *Level 4 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** 300 feet
 - **Components:** V, S, M (a mitten)

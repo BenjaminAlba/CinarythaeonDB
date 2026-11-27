@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Blunder
 *Level 2 Enchantment*
 ___

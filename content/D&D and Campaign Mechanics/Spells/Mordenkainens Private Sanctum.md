@@ -1,7 +1,7 @@
 #### Mordenkainen's Private Sanctum
 *Level 4 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** 10 minutes
 - **Range:** 120 feet
 - **Components:** V, S, M (a thin sheet of lead)

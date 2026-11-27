@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Light
 *Evocation Cantrip*
 ___

@@ -51,7 +51,7 @@
 - [[Purify Food and Drink]]
 - [[Sanctuary]]
 - [[Snare]]
-- [[Tashas Mind Whip|Tasha's Caustic Brew]]
+- [[Tashas Caustic Brew|Tasha's Caustic Brew]]
 
 ## Level 2 (26)
 

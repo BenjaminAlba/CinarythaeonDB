@@ -1,7 +1,8 @@
 #### Temple of the Gods
 *Level 7 Conjuration*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** 1 hour
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
+- **Casting Time:** 1 hour
 - **Range:** 120 feet
 - **Components:** V, S, M (a holy symbol worth at least 5 gp)
 - **Duration:** 24 hours

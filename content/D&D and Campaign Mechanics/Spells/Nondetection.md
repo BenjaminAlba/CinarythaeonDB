@@ -1,7 +1,7 @@
 #### Nondetection
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a pinch of diamond dust worth 25+ GP, which the spell consumes)

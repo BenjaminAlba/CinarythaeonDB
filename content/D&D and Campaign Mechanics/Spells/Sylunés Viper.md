@@ -1,7 +1,7 @@
 #### Syluné's Viper
 *Level 3 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Bonus Action
 - **Range:** Self
 - **Components:** V, S, M (a snake fang)

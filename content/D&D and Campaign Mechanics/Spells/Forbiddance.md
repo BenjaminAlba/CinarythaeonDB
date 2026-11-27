@@ -1,7 +1,7 @@
 #### Forbiddance
 *Level 6 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** 10 minutes (Ritual)
 - **Range:** Touch
 - **Components:** V, S, M (ruby dust worth 1,000+ GP)

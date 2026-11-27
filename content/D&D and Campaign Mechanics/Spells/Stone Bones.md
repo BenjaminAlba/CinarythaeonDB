@@ -1,7 +1,8 @@
 #### Stone Bones
 *Level 2 Transmutation*
 ___
-- **Resonances:** [[Syderynthos]], [[Viridexacion]]- **Casting Time:** Bonus Action
+- **Resonances:** [[Syderynthos]], [[Viridexaction]]
+- **Casting Time:** Bonus Action
 - **Range:** 30 feet
 - **Components:** V, S
 - **Duration:** 1 round

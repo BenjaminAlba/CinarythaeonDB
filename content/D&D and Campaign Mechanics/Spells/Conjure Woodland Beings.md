@@ -1,7 +1,8 @@
 #### Conjure Woodland Beings
 *Level 4 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Self (10-foot Emanation)
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes

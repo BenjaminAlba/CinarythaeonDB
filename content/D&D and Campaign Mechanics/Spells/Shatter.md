@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Shatter
 *Level 2 Evocation*
 ___

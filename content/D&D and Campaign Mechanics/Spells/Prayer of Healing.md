@@ -1,7 +1,8 @@
 #### Prayer of Healing
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** 10 minutes
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** 10 minutes
 - **Range:** 30 feet
 - **Components:** V
 - **Duration:** Instantaneous

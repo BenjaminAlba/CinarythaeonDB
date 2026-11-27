@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Ice Knife
 *Level 1 Conjuration*
 ___

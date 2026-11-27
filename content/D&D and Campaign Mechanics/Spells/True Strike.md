@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### True Strike
 *Divination Cantrip*
 ___

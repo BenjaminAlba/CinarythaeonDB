@@ -1,7 +1,7 @@
 #### Revivify
 *Level 3 Necromancy*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a diamond worth 300+ GP, which the spell consumes)

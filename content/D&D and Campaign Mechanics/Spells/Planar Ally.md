@@ -1,7 +1,8 @@
 #### Planar Ally
 *Level 6 Conjuration*
 ___
-- **Resonances:** [[Mnelyxphora]], [[Viridexacion]]- **Casting Time:** 10 minutes
+- **Resonances:** [[Mnelyxphora]], [[Viridexaction]]
+- **Casting Time:** 10 minutes
 - **Range:** 60 feet
 - **Components:** V, S
 - **Duration:** Instantaneous

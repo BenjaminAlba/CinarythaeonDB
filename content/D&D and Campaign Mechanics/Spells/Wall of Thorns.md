@@ -1,7 +1,8 @@
 #### Wall of Thorns
 *Level 6 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 120 feet
 - **Components:** V, S, M (a handful of thorns)
 - **Duration:** Concentration, up to 10 minutes

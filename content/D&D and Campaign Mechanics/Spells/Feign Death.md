@@ -1,7 +1,8 @@
 #### Feign Death
 *Level 3 Necromancy*
 ___
-- **Resonances:** [[Entropomortia]], [[Viridexacion]]- **Casting Time:** Action (Ritual)
+- **Resonances:** [[Entropomortia]], [[Viridexaction]]
+- **Casting Time:** Action (Ritual)
 - **Range:** Touch
 - **Components:** V, S, M (a pinch of graveyard dirt)
 - **Duration:** 1 hour

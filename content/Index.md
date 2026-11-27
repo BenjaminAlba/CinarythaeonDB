@@ -1,18 +1,19 @@
 ***Listado de clases:***
-
 [[Artificer]]
 [[Barbarian]]
 [[Bard]]
-Blood Hunter ( Todavía no :) )
+[[Blood Hunter]]
 [[Cleric]]
 [[Druid]]
 [[Fighter]]
 [[Gunslinger]]
+[[Magus]]
 [[Monk]]
 [[Paladin]]
 [[Pugilist]]
 [[Ranger]]
 [[Rogue]]
+[[Slayer]]
 [[Sorcerer]]
 [[Warlock]]
 [[Wizard]]

@@ -1,7 +1,7 @@
 #### Storm of Vengeance
 *Level 9 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** 1 mile
 - **Components:** V, S

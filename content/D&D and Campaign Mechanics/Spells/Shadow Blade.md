@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Shadow Blade
 *Level 2 Illusion*
 ___

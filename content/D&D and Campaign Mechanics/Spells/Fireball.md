@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Fireball
 *Level 3 Evocation*
 ___

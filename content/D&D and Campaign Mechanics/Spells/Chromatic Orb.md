@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Chromatic Orb
 *Level 1 Evocation*
 ___

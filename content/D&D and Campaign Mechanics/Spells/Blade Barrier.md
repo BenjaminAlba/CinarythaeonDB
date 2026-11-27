@@ -1,7 +1,7 @@
 #### Blade Barrier
 *Level 6 Evocation*
 ___
-- **Resonances:** [[Syderynthos]], [[Viridexacion]]
+- **Resonances:** [[Syderynthos]], [[Viridexaction]]
 - **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S

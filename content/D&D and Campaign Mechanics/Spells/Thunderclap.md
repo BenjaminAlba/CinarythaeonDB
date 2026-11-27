@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Thunderclap
 *Evocation Cantrip*
 ___

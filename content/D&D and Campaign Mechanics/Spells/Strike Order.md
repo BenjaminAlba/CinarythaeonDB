@@ -14,5 +14,5 @@ You imbue your voice with supernatural authority and order a creature you can se
 ***References***
 ___
 - **Source:** TMC'24.
-- **Classes:** Bard, Magus, Paladin
+- **Classes:** Bard, Paladin
 ---

@@ -1,7 +1,7 @@
 #### Commune with Nature
 *Level 5 Divination*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** 1 minute or Ritual
 - **Range:** Self
 - **Components:** V, S

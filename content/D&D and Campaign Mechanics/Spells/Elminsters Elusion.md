@@ -1,7 +1,8 @@
 #### Elminster's Elusion
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Bonus Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Bonus Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes

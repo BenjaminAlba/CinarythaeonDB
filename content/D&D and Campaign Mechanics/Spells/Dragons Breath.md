@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Dragon's Breath
 *Level 2 Transmutation*
 ___
@@ -14,5 +19,5 @@ You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poiso
 ***References***
 ___
 - **Source:** PHB'24, page 266.
-- **Classes:** Artificer, Magus, Sorcerer, Wizard
+- **Classes:** Artificer, Sorcerer, Wizard
 ---

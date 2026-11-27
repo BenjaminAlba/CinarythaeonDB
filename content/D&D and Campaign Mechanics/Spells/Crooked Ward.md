@@ -1,7 +1,7 @@
 #### Crooked Ward
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Rhodoklērion]]
+- **Resonances:** [[Viridexaction]], [[Rhodoklērion]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a five-pointed wicker star)

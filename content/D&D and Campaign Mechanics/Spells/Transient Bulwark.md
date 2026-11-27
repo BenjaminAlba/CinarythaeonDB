@@ -1,7 +1,8 @@
 #### Transient Bulwark
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action or Ritual
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action or Ritual
 - **Range:** Self
 - **Components:** V, S, M (a pearl worth 10+ GP, which the spell consumes)
 - **Duration:** 8 hours

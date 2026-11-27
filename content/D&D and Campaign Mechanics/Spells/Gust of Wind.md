@@ -1,7 +1,8 @@
 #### Gust of Wind
 *Level 2 Evocation*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Self (60-foot Line)
 - **Components:** V, S, M (a legume seed)
 - **Duration:** Concentration, up to 1 minute

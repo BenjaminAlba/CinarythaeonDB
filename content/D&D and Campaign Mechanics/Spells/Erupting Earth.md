@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Erupting Earth
 *Level 3 Transmutation*
 ___

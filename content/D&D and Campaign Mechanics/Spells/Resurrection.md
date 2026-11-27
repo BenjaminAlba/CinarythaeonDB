@@ -1,7 +1,7 @@
 #### Resurrection
 *Level 7 Necromancy*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** 1 hour
 - **Range:** Touch
 - **Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes)

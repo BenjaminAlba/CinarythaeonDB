@@ -1,7 +1,7 @@
 #### Elminster's Effulgent Spheres
 *Level 6 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (an opal worth 1,000 GP+)

@@ -1,7 +1,7 @@
 #### Cacophonic Shield
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S

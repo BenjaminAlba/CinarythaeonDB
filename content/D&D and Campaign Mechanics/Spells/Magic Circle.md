@@ -1,7 +1,7 @@
 #### Magic Circle
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** 1 minute
 - **Range:** 10 feet
 - **Components:** V, S, M (salt and powdered silver worth 100+ GP, which the spell consumes)

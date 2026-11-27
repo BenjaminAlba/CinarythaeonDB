@@ -1,7 +1,7 @@
 #### Songal's Elemental Suffusion
 *Level 5 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V, S, M (a pearl worth 100+ GP)

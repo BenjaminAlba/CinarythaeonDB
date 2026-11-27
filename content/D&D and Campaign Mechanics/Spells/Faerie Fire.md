@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Faerie Fire
 *Level 1 Evocation*
 ___

@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Bane
 *Level 1 Enchantment*
 ___

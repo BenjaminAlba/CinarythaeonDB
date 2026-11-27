@@ -73,22 +73,7 @@ As a Bonus Action, you can touch a creature (which could be yourself) and draw p
 You can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don't also restore Hit Points to the creature.
 
 ### Spellcasting (Level 1)
-*Do not use the original text, instead, apply the Cinarythaeon related effects*
 
-##### ***Paladin Spellcasting Feature In Cinarythaeon***
-You have learned to master the flow of [[Æther]] and can effortlessly weave spellcasting in combat.
-
-**Cantrips**. See the [[Spellcasting Rules]] section.
-
-**Spell Slots**. See the [[Spellcasting Rules]] section.
-
-**Prepared Spells of Level 1+**. To start, choose two level 1 Paladin spells. [[Heroism]] and [[Searing Smite]] are recommended. You always have those spells prepared, then, see the [[Spellcasting Rules]] section.
-
-**Spellcasting Ability**. Charisma is your spellcasting ability for your Paladin spells.  
-
-**Spellcasting Focus**. You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
-
-##### ***Paladin Spellcasting Feature Original Text***
 You have learned to cast spells through prayer and meditation.
 
 **Spell Slots**. The [[Paladin#Class Features Table - Paladin Features|Paladin Features table]] shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
@@ -185,13 +170,13 @@ You gain an [[Feats#Epic Boon Feats|Epic Boon feat]] or an other feat of your ch
 
 ## Paladin Spell List
 
-This section presents the Paladin spell list. The spells are organized by spell level and then alphabetized.
-
-#### 1st Level
+### Level 1 (21)
 
 - [[Bless]]
+- [[Clue]]
 - [[Command]]
 - [[Compelled Duel]]
+- [[Conjure Cover]]
 - [[Cure Wounds]]
 - [[Detect Evil and Good]]
 - [[Detect Magic]]
@@ -199,27 +184,36 @@ This section presents the Paladin spell list. The spells are organized by spell 
 - [[Divine Favor]]
 - [[Divine Smite]]
 - [[Heroism]]
+- [[Perforating Shot]]
 - [[Protection from Evil and Good]]
 - [[Purify Food and Drink]]
 - [[Searing Smite]]
 - [[Shield of Faith]]
 - [[Thunderous Smite]]
+- [[Wardaway]]
+- [[Weapon Aegis]]
 - [[Wrathful Smite]]
 
-#### 2nd Level
+### Level 2 (16)
 
 - [[Aid]]
+- [[Branding Smite]]
+- [[Chain of Conviction]]
+- [[Dueling Ground]]
 - [[Find Steed]]
 - [[Gentle Repose]]
+- [[Infernal Challenge]]
 - [[Lesser Restoration]]
 - [[Locate Object]]
 - [[Magic Weapon]]
+- [[Prayer of Healing]]
 - [[Protection from Poison]]
 - [[Shining Smite]]
+- [[Stone Bones]]
 - [[Warding Bond]]
 - [[Zone of Truth]]
 
-#### 3rd Level
+### Level 3 (14)
 
 - [[Aura of Vitality]]
 - [[Blinding Smite]]
@@ -229,19 +223,26 @@ This section presents the Paladin spell list. The spells are organized by spell 
 - [[Dispel Magic]]
 - [[Elemental Weapon]]
 - [[Magic Circle]]
+- [[Polybrachia]]
 - [[Remove Curse]]
-- [[Revivify]] (*Does Not Exist in Cynarythaeon*)
+- [[Revivify]]
+- [[Scarlet Dawn]]
+- [[Spirit Shroud]]
+- [[Strike Order]]
 
-#### 4th Level
+### Level 4 (9)
 
 - [[Aura of Life]]
 - [[Aura of Purity]]
 - [[Banishment]]
+- [[Consuming Pyre]]
 - [[Death Ward]]
+- [[Find Greater Steed]]
 - [[Locate Creature]]
+- [[Maligned Weapon]]
 - [[Staggering Smite]]
 
-#### 5th Level
+### Level 5 (11)
 
 - [[Banishing Smite]]
 - [[Circle of Power]]
@@ -249,8 +250,11 @@ This section presents the Paladin spell list. The spells are organized by spell 
 - [[Dispel Evil and Good]]
 - [[Geas]]
 - [[Greater Restoration]]
-- [[Raise Dead]] (*Does Not Exist in Cynarythaeon*)
-- [[Summon Celestial]] 
+- [[Holy Weapon]]
+- [[Lucky Charm]]
+- [[Raise Dead]]
+- [[Summon Celestial]]
+- [[Sword of Judgment]]
 
 ## Paladin Subclasses
 

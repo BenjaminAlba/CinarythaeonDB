@@ -1,7 +1,8 @@
 #### Barkskin
 *Level 2 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Bonus action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Bonus action
 - **Range:** Touch
 - **Components:** V, S, M (a handful of oak bark)
 - **Duration:** 1 hour

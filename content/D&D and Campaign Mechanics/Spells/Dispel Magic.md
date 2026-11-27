@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Dispel Magic
 *Level 3 Abjuration*
 ___

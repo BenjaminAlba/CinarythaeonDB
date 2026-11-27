@@ -1,7 +1,7 @@
 #### Reflect Magic
 *Level 5 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** Reaction, which you take when you are targeted by, or within the area of, a spell
 - **Range:** Self
 - **Components:** V, S, M (a polished silver mirror worth 100+ GP, which this spell consumes)

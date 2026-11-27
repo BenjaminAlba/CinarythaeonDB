@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Fire Bolt
 *Evocation Cantrip*
 ___

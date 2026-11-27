@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Inflict Wounds
 *Level 1 Necromancy*
 ___

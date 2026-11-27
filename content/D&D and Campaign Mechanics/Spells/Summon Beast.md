@@ -1,7 +1,8 @@
 #### Summon Beast
 *Level 2 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 90 feet
 - **Components:** V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth 200+ GP)
 - **Duration:** Concentration, up to 1 hour

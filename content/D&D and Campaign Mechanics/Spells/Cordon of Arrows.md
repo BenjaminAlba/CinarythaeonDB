@@ -1,7 +1,8 @@
 #### Cordon of Arrows
 *Level 2 Transmutation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (four or more arrows or bolts)
 - **Duration:** 8 hours

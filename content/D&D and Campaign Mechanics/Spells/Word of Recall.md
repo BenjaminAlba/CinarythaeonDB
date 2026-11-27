@@ -1,7 +1,7 @@
 #### Word of Recall
 *Level 6 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** 5 feet
 - **Components:** V

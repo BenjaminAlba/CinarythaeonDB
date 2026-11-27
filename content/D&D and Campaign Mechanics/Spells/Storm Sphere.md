@@ -1,7 +1,7 @@
 #### Storm Sphere
 *Level 4 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Atraphothoromancia]]
+- **Resonances:** [[Viridexaction]], [[Atraphothoromancia]]
 - **Casting Time:** Action
 - **Range:** 150 feet
 - **Components:** V, S

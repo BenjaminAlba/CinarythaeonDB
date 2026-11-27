@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Poison Spray
 *Necromancy Cantrip*
 ___

@@ -55,30 +55,10 @@ Choose *A* or *B*:
 | 18th  | +6                | Feral Senses                                | 6             | 14              | 4   | 3   | 3   | 3   | 1   |
 | 19th  | +6                | Epic Boon                                   | 6             | 15              | 4   | 3   | 3   | 3   | 2   |
 | 20th  | +6                | Foe Slayer                                  | 6             | 15              | 4   | 3   | 3   | 3   | 2   |
-## Non Natural Spellcaster Rules
-*This only applies in Cinarythaeon*
-
-This class has access to magic following the rules described in the [[Spellcasting Rules]] section.
-
 ## Class Features
 
 ### Spellcasting (Level 1)
-*Do not use the original text, instead, apply the Cinarythaeon related effects*
 
-##### ***Ranger Spellcasting Feature In Cinarythaeon***
-You have learned to master the flow of [[Æther]] and can effortlessly weave spellcasting in combat.
-
-**Cantrips**. See the [[Spellcasting Rules]] section.
-
-**Spell Slots**. See the [[Spellcasting Rules]] section.
-
-**Prepared Spells of Level 1+**. To start, choose two level 1 Ranger spells. [[Cure Wounds]] and [[Ensnaring Strike]] are recommended. You always have those spells prepared, then, see the [[Spellcasting Rules]] section.
-
-**Spellcasting Ability**. Wisdom is your spellcasting ability for your Ranger spells.
-
-**Spellcasting Focus**. You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
-
-##### ***Ranger Spellcasting Feature Original Text***
 You have learned to channel the magical essence of nature to cast spells.
 
 **Spell Slots**. The [[Ranger#Class Features Table - Ranger Features|Ranger Features table]] shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
@@ -179,81 +159,107 @@ The damage die of your [[Hunters Mark|Hunter's Mark]] is a d10 rather than a d6.
 
 ## Ranger Spell List
 
-This section presents the Ranger spell list. The spells are organized by spell level and then alphabetized.
+### Level 1 (22)
 
-#### 1st Level
-
+- [[Absorb Elements]]
 - [[Alarm]]
 - [[Animal Friendship]]
+- [[Beast Bond]]
+- [[Clue]]
 - [[Cure Wounds]]
 - [[Detect Magic]]
 - [[Detect Poison and Disease]]
 - [[Ensnaring Strike]]
+- [[Entangle]]
 - [[Fog Cloud]]
+- [[Forced Hesitation]]
 - [[Goodberry]]
 - [[Hail of Thorns]]
 - [[Hunters Mark|Hunter's Mark]]
 - [[Jump]]
 - [[Longstrider]]
+- [[Perforating Shot]]
+- [[Snare]]
 - [[Speak with Animals]]
+- [[Spell Aegis]]
+- [[Zephyr Strike]]
 
-#### 2nd Level
+### Level 2 (22)
 
 - [[Aid]]
 - [[Animal Messenger]]
 - [[Barkskin]]
 - [[Beast Sense]]
+- [[Cordon of Arrows]]
 - [[Darkvision]]
+- [[Dueling Ground]]
 - [[Enhance Ability]]
 - [[Find Traps]]
 - [[Gust of Wind]]
+- [[Healing Spirit]]
 - [[Lesser Restoration]]
 - [[Locate Animals or Plants]]
 - [[Locate Object]]
 - [[Magic Weapon]]
 - [[Pass without Trace]]
 - [[Protection from Poison]]
+- [[Sanguine Secrets]]
 - [[Silence]]
 - [[Spike Growth]]
+- [[Stone Bones]]
 - [[Summon Beast]]
 
-#### 3rd Level
+### Level 3 (22)
 
 - [[Conjure Animals]]
 - [[Conjure Barrage]]
+- [[Creeping Rot]]
+- [[Crooked Ward]]
 - [[Daylight]]
 - [[Dispel Magic]]
 - [[Elemental Weapon]]
+- [[Flame Arrows]]
+- [[Harvest Moonglow]]
 - [[Lightning Arrow]]
 - [[Meld into Stone]]
 - [[Nondetection]]
 - [[Plant Growth]]
+- [[Polybrachia]]
 - [[Protection from Energy]]
-- [[Revivify]] (*Does Not Exist in Cynarythaeon*)
+- [[Revivify]]
+- [[Scarlet Dawn]]
 - [[Speak with Plants]]
 - [[Summon Fey]]
 - [[Water Breathing]]
 - [[Water Walk]]
 - [[Wind Wall]]
 
-#### 4th Level
+### Level 4 (11)
 
+- [[Assess Enemy]]
+- [[Call of the Wild]]
 - [[Conjure Woodland Beings]]
 - [[Dominate Beast]]
 - [[Freedom of Movement]]
 - [[Grasping Vine]]
+- [[Guardian of Nature]]
 - [[Locate Creature]]
+- [[Murder of Crows]]
 - [[Stoneskin]]
 - [[Summon Elemental]]
 
-#### 5th Level
+### Level 5 (10)
 
+- [[Alustriels Mooncloak|Alustriel's Mooncloak]]
 - [[Commune with Nature]]
 - [[Conjure Volley]]
 - [[Greater Restoration]]
+- [[Lucky Charm]]
 - [[Steel Wind Strike]]
+- [[Summon Plant]]
 - [[Swift Quiver]]
 - [[Tree Stride]]
+- [[Wrath of Nature]]
 
 ## Ranger Subclasses
 

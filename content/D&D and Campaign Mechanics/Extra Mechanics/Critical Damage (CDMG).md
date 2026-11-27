@@ -1,9 +1,16 @@
 # Critical Damage (CDMG)
 
-Después de asestar un [[Critical Hits|golpe crítico]], por cada acumulación de **daño crítico (CDMG)** que poseas se añade un dado del mismo valor que el origen del daño, de la siguiente manera:
+Cuando infliges daño con un [[Critical Hits|golpe crítico]], añade **un dado de daño adicional por cada acumulación de CDMG**. Tira esos dados; no se maximizan.
 
-- CDMG(1) : Un dado adicional
-- CDMG(2) : Dos dados adicionales
-- CDMG(3) : Tres dados adicionales
+| CDMG | Dados adicionales en el crítico |
+| --- | --- |
+| 0 | Ninguno |
+| 1 | Un dado |
+| 2 | Dos dados |
+| 3 | Tres dados |
 
-Más información [aquí](https://docs.google.com/presentation/d/1nhay92-mWMkITdJ3-FrEj6Qu1eBe8_cPw4p6rNXR5FU/edit?usp=sharing).
+Los dados adicionales tienen el mismo tamaño y tipo de daño que el **dado de mayor tamaño** entre los dados de daño originales de la instancia de daño del ataque. No se añade un dado por cada tipo de daño.
+
+**Ejemplo.** Un ataque inflige 1d8 de daño perforante más 1d6 de daño de fuego. Todo ese daño pertenece a la instancia del ataque. Con CDMG(2), un crítico inflige **8 + 6 + 2d8**, es decir, **14 + 2d8** antes de las resistencias del objetivo. Los 2d8 adicionales infligen daño perforante (por ser el tipo de daño con el dado de mayor tamaño).
+
+CDMG no puede superar 3 acumulaciones efectivas.

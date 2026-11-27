@@ -1,7 +1,7 @@
 #### Protect Threshold
 *Level 2 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** Action or Ritual
 - **Range:** Touch
 - **Components:** V, S, M (an ounce of salt for each foot of the warded portal's perimeter)

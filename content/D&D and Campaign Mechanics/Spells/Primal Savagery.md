@@ -1,7 +1,7 @@
 #### Primal Savagery
 *Transmutation Cantrip*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** S

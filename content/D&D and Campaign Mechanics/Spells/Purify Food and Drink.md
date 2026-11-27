@@ -1,7 +1,7 @@
 #### Purify Food and Drink
 *Level 1 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action (Ritual)
 - **Range:** 10 feet
 - **Components:** V, S

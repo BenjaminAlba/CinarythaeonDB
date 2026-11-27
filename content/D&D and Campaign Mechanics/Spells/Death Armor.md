@@ -1,7 +1,8 @@
 #### Death Armor
 *Level 2 Necromancy*
 ___
-- **Resonances:** [[Nihilokathra]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Nihilokathra]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (an onyx worth 50+ GP, which the spell consumes)
 - **Duration:** 1 hour

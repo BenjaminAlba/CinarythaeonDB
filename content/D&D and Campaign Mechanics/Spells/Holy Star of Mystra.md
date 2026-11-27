@@ -1,7 +1,8 @@
 #### Holy Star of Mystra
 *Level 8 Evocation*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Bonus Action
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
+- **Casting Time:** Bonus Action
 - **Range:** Self
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute

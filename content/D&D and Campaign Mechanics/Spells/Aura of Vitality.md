@@ -1,7 +1,7 @@
 #### Aura of Vitality
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]
+- **Resonances:** [[Viridexaction]]
 - **Casting Time:** Action
 - **Range:** Self
 - **Components:** V

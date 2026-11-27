@@ -1,7 +1,7 @@
 #### Guardian of Nature
 *Level 4 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Bonus Action
 - **Range:** Self
 - **Components:** V

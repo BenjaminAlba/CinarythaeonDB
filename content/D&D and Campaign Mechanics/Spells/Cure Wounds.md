@@ -1,7 +1,13 @@
+---
+tags:
+  - generic
+---
+
 #### Cure Wounds
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous

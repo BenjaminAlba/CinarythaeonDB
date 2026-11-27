@@ -1,7 +1,7 @@
 #### Gentle Repose
 *Level 2 Necromancy*
 ___
-- **Resonances:** [[Viridexacion]] [[Entropomortia]]
+- **Resonances:** [[Viridexaction]], [[Entropomortia]]
 - **Casting Time:** Action (Ritual)
 - **Range:** Touch
 - **Components:** V, S, M (2 Copper Pieces, which the spell consumes)

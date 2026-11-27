@@ -1,7 +1,7 @@
 #### Whirlwind
 *Level 7 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** 300 feet
 - **Components:** V, M (a piece of straw)

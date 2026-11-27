@@ -1,7 +1,8 @@
 #### Snare
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** 1 minute
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
+- **Casting Time:** 1 minute
 - **Range:** Touch
 - **Components:** S, M (25 feet of rope, which the spell consumes)
 - **Duration:** 8 hours

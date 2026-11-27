@@ -1,7 +1,7 @@
 #### Goodberry
 *Level 1 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a sprig of mistletoe)

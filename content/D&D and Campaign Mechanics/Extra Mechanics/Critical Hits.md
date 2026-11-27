@@ -1,15 +1,49 @@
 # Critical Hits (Golpes Críticos)
 
-Según las reglas estándar cuando un personaje logra asestar un [[Combat#Critical Hits|golpe crítico]], los dados de daño de todas las fuentes (ataque, spell, bonus actions, class actions y sus combinaciones) se duplican. 
+## Estadísticas críticas
 
-Para efectos de esta campaña, vamos a modificar esta regla para que en vez de duplicar la cantidad de dados, se realice el **daño total máximo posible de la tirada original**.
+Hay 3 estadísticas críticas:
+[[Critical Rate (CRT)|CRT]], [[Critical Damage (CDMG)|CDMG]] y [[Critical Defense (CDEF)|CDEF]].
 
-## Spells y sus interacciones con CRT, CDMG y CDEF
+Consulta [[Critical Penalties]] para sus fuentes, costes y límites.
 
-1. La magia puede asestar [[Critical Hits|golpe críticos]] sólo si requiere un attack roll, en dado caso, las reglas previamente descritas permanecen igual. Para ejemplificar mejor esto, comparemos los spells [[Fireball]] vs [[Fire Bolt]]:
-	- [[Fire Bolt]] en el texto de descripción del spell específicamente indica que debes realizar un “ranged spell attack”; esto significa hacer un attack roll para que el spell surta efecto. ***ESTE SPELL SÍ ASESTA GOLPES CRÍTICOS***.
-	- [[Fireball]] en el texto de descripción del spell requiere que todos los objetivos en el área del spell realicen un saving throw, nunca menciona un “ranged spell attack”, por lo que ***NO ASESTA GOLPES CRÍTICOS***.
-2. La magia ritual nunca puede asestar  [[Critical Hits|golpe críticos]].
-3. Cuando las acumulaciones de [[Critical Rate (CRT)|CRT]] o [[Critical Damage (CDMG)|CDMG]] llegan a 3, cualquier ataque rompe la concentración sin posibilidad de saving throw.
+## Cuándo ocurre un golpe crítico
 
-Más información [aquí](https://docs.google.com/presentation/d/1nhay92-mWMkITdJ3-FrEj6Qu1eBe8_cPw4p6rNXR5FU/edit?usp=sharing).
+Un golpe crítico se obtiene mediante una ***tirada de ataque***. El rango crítico del d20 depende de [[Critical Rate (CRT)|CRT]].
+
+Un 20 natural impacta y produce un golpe crítico con independencia del AC del objetivo. Un resultado inferior a 20 dentro de tu rango crítico debe igualar o superar el AC del objetivo.
+
+## Daño crítico
+
+En lugar de duplicar los dados de daño originales del ataque:
+
+1. Toma el valor máximo posible de todos los dados de daño que corresponden a la tirada de daño del ataque.
+2. Suma los modificadores fijos que correspondan.
+3. Si tienes CDMG, tira y suma los dados adicionales de [[Critical Damage (CDMG)|CDMG]]. Esos dados adicionales no se maximizan.
+
+El daño crítico afecta únicamente a la instancia de daño derivada de esa tirada de ataque.
+
+## Conjuros y otras aptitudes
+
+- Un conjuro puede beneficiarse de CRT y CDMG si requiere una **tirada de ataque**.
+- Un conjuro o efecto que requiere una tirada de salvación **no produce un golpe crítico** por el resultado de esa salvación.
+
+**Ejemplo.** [[Fire Bolt]] requiere una tirada de ataque y puede producir un crítico. [[Fireball]] requiere tiradas de salvación y no puede producirlo.
+
+## Crítico disruptivo
+
+Si tienes CRT(3) o CDMG(3) y tu golpe crítico inflige daño a una criatura que mantiene Concentración, esa criatura tiene Desventaja en la tirada de salvación de Constitución que haga para mantener la Concentración contra ese daño.
+
+Si el ataque se convierte en un impacto normal mediante CDEF, deja de ser crítico y esta Desventaja no se aplica.
+
+## Fuentes de acumulaciones
+
+- **Sin armadura:** recibes CRT(1) mientras no portes armadura.
+- **Sin armas:** recibes CDMG(1) mientras no empuñes ningún arma.
+- **Varias armas:** si empuñas varias armas, eliges libremente cuál de ellas aporta su estadística crítica. Solo una de esas armas aporta su acumulación a la vez. Puedes **cambiar tu elección libremente** al atacar o defenderte.
+- **Ataques de conjuro:** el arma empuñada que cuente para tus estadísticas también puede aportar su estadística a tus ataques de conjuro.
+
+## Humanos: Resourceful
+
+Reemplaza los efectos del rasgo humano **Resourceful** por lo siguiente:
+- Recibes una acumulación de **CRT o CDMG**, a tu elección. Puedes cambiar la elección cuando terminas un Descanso Largo.

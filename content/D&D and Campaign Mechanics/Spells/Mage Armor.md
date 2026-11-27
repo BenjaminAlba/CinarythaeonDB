@@ -1,7 +1,12 @@
+---
+tags:
+  - generic
+---
+
 #### Mage Armor
 *Level 1 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (a piece of cured leather)

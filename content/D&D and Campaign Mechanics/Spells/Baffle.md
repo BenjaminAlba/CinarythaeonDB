@@ -1,6 +1,7 @@
 ---
 tags:
   - Rebalanced
+  - generic
 ---
 
 #### Baffle

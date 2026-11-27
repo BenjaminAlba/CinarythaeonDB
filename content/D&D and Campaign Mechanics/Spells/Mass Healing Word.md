@@ -1,7 +1,8 @@
 #### Mass Healing Word
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Bonus Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Bonus Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous

@@ -1,7 +1,13 @@
+---
+tags:
+  - generic
+---
+
 #### Protection from Energy
 *Level 3 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour

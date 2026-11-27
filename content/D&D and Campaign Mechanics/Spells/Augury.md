@@ -1,11 +1,12 @@
-<!--
-3rd resonance: [[Qhaevoryth]]
--->
-
 ---
 tags:
   - Resonance Variant
+  - generic
 ---
+
+<!--
+3rd resonance: [[Qhaevoryth]]
+-->
 
 #### Augury
 *Level 2 Divination*

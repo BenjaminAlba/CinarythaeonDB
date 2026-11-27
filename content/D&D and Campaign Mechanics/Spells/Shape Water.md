@@ -1,7 +1,8 @@
 #### Shape Water
 *Transmutation Cantrip*
 ___
-- **Resonances:** [[Oboromancia]], [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Oboromancia]], [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** 30 feet
 - **Components:** S
 - **Duration:** Instantaneous or 1 hour

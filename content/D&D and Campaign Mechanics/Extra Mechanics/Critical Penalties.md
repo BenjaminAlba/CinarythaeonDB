@@ -1,22 +1,26 @@
 # Critical Penalties
 
-## Máximo de acumulaciones total
-El máximo de acumulaciones posible, compartido entre [[Critical Rate (CRT)|CRT]], [[Critical Damage (CDMG)|CDMG]] y [[Critical Defense (CDEF)|CDEF]], es de 5. Al llegar a las 5 acumulaciones, recibes 2 penalizaciones:
+## Presupuesto de estadísticas críticas
 
-- No puedes usar la acción [[Combat#Dodge|Dodge]] (Esquivar) en combate
-- -1 al resultado de todos los Saving Throws
+Tienes un máximo de **cinco espacios críticos**, compartidos entre [[Critical Rate (CRT)|CRT]], [[Critical Damage (CDMG)|CDMG]] y [[Critical Defense (CDEF)|CDEF]].
 
-## Máximo de acumulaciones individuales
+Las primeras dos acumulaciones de una misma estadística cuestan **un espacio** cada una. La tercera acumulación de esa estadística cuesta **dos espacios**.
 
-El máximo de acumulaciones posible para cada estadística particular es de 3. **Cualquier acumulación adicional no tendrá efecto**.
+Una estadística no puede superar **3 acumulaciones efectivas**.
 
-Cuando se llegan a las 3 acumulaciones, cada estadística aplica una penalización:
+| CRT | CDMG | CDEF | Espacios utilizados | Resultado |
+| ---: | ---: | ---: | --- | --- |
+| 2 | 2 | 1 | 2 + 2 + 1 = 5 | Permitido |
+| 1 | 2 | 2 | 1 + 2 + 2 = 5 | Permitido |
+| 3 | 1 | 0 | 4 + 1 + 0 = 5 | Permitido; se aplica la penalización de CRT(3) |
+| 3 | 2 | 0 | 4 + 2 + 0 = 6 | Excede el límite |
 
-- [[Critical Rate (CRT)|CRT]] : -2 AC
-- [[Critical Damage (CDMG)|CDMG]] : -2 al resultado del attack roll
-- [[Critical Defense (CDEF)|CDEF]] : -5 speed (te mueves un espacio menos)
+## Penalizaciones por tres acumulaciones
 
-## Versatile
-Los humanos modifican su Trait “Versatile” de la siguiente manera:
+Mientras tengas 3 acumulaciones efectivas en una estadística, recibes su penalización:
 
-“Puedes elegir entre una acumulación de CRT o CDMG, y cambiar tu elección cada Long Rest”
+| Estadística | Penalización al llegar a 3 |
+| --- | --- |
+| **CRT(3)** | −2 AC. |
+| **CDMG(3)** | −1 a las tiradas de ataque y −1 al DC de tiradas de salvación que tu infijas. |
+| **CDEF(3)** | Tu Velocidad se reduce en 5 pies y −1 al resultado de tus tiradas de salvación. |

@@ -1,7 +1,7 @@
 #### Speak with Plants
 *Level 3 Transmutation*
 ___
-- **Resonances:** [[Viridexacion]] [[Mnelyxphora]]
+- **Resonances:** [[Viridexaction]], [[Mnelyxphora]]
 - **Casting Time:** Action
 - **Range:** Self (30-foot Emanation)
 - **Components:** V, S

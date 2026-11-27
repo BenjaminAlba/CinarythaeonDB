@@ -1,7 +1,8 @@
 #### Greater Restoration
 *Level 5 Abjuration*
 ___
-- **Resonances:** [[Viridexacion]]- **Casting Time:** Action
+- **Resonances:** [[Viridexaction]]
+- **Casting Time:** Action
 - **Range:** Touch
 - **Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
 - **Duration:** Instantaneous

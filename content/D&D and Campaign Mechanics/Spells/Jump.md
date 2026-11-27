@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Jump
 *Level 1 Transmutation*
 ___

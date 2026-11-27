@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Flaming Sphere
 *Level 2 Evocation*
 ___

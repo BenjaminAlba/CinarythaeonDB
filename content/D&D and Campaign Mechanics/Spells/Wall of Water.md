@@ -1,7 +1,7 @@
 #### Wall of Water
 *Level 3 Evocation*
 ___
-- **Resonances:** [[Viridexacion]] [[Oboromancia]]
+- **Resonances:** [[Viridexaction]], [[Oboromancia]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S, M (a drop of water)

@@ -1,7 +1,7 @@
 #### Summon Dragon
 *Level 5 Conjuration*
 ___
-- **Resonances:** [[Viridexacion]] [[Syderynthos]]
+- **Resonances:** [[Viridexaction]], [[Syderynthos]]
 - **Casting Time:** Action
 - **Range:** 60 feet
 - **Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)

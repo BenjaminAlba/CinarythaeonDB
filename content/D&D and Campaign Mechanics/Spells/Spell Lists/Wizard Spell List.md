@@ -167,7 +167,7 @@
 - [[Spider Climb]]
 - [[Stone Bones]]
 - [[Suggestion]]
-- [[Snillocs Snowball Swarm|Snilloc's Snowball Swarm]]
+- [[Tashas Mind Whip|Tasha's Mind Whip]]
 - [[Uncertain Footing]]
 - [[Unraveling Whisper]]
 - [[Warding Wind]]

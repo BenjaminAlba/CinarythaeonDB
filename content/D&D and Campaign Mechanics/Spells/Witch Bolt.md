@@ -1,3 +1,8 @@
+---
+tags:
+  - generic
+---
+
 #### Witch Bolt
 *Level 1 Evocation*
 ___
