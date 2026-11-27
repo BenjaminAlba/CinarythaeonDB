@@ -1006,7 +1006,7 @@ You gain the following benefits.
 
 **Spellblade Cantrip List.** [[Vengeful Blade]], [[Green-Flame Blade]], [[Burning Blade]], [[Booming Blade]], [[Arc Blade]], [[True Strike]]
 
-**Arcane Strike.** When you take the Attack action on your turn, you can replace one of the attacks with casting Arc Blade, Burning Blade, Frigid Blade, or True Strike. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+**Arcane Strike.** When you take the Attack action on your turn, you can replace one of the attacks with a cantrip from the Spellblade Cantrip List. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
 **Channeled Attack.** When you make an attack using Strength or Dexterity with a weapon with which you have proficiency, you can gain a bonus to the attack roll equal to your Intelligence, Wisdom, or Charisma modifier (minimum of +1). Choose the ability each time you use this benefit. You can gain this bonus a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 
